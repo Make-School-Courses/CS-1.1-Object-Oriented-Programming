@@ -1,5 +1,14 @@
 # Lesson Title
 
+## Overview short description of class
+
+Write a short description of what happens today in class or quick 
+overview of what will be taught. 
+
+### Why you should know this (optional)
+
+Explain why students should care to learn the material presented in this class. 
+
 ## Learning Objectives/Competencies
 
 1. Identify and describe
