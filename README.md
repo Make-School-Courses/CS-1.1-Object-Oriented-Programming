@@ -4,6 +4,10 @@
 
 Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
 
+### Why you should know this (optional)
+
+Explain why students should care to learn the material presented in this class. 
+
 ## Course Specifics
 
 Weeks to Completion:  7 <br>
