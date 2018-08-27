@@ -37,7 +37,7 @@ Students by the end of the course will be able to ...
 
 Tutorials
 - [Captain Rainbow's Color Checklist](https://www.makeschool.com/academy/track/captain-rainbow-s-color-checklist) or [GitHub Version of Captain Rainbow's Color Checklist](https://github.com/MakeSchool-Tutorials/Rainbow-Checklist)
-- [MadLibs](./Madlibs_Project/.)
+- [MadLibs](Madlibs_Project/README.md)
 - [Spaceman](Spaceman_Project/README.md)
 - [Super Hero Team Dueler]()
 - [Herd_Immunity]()
@@ -54,26 +54,28 @@ To pass this course you must meet the following requirements:
 
 ## Lessons
 
-1. Class Introduction & CRUD
+1. [Class Introduction & Programming Basics][01. Class Intro]
     - **Before Class**
         - Prep Work
     - **In Class Activities**
         - Introductions
-        - Psuedocode & Program Structure
+        - Pseudocode & Program Structure
         - Atom bits
     - **After Class**
         - Python tutorials
         - Atom Tutorials
         - Captain Rainbow's Color Selector
-1. Strings, Lists & Functions
+1. [Strings, Lists & Functions][02. Stringddddddddds]
     - **In Class Activities**
-        - Discuss Madlibs
-        - Design Spaceman
+        - Discuss Captain Rainbow's Color Selector
+        - Strings, Lists and functions
+        - Design Madlibs
     - **After Class**
         - MadLibs  
-1. **  No class Mon Sept 3 (Labor Day) **
+1. **  No class Mon. Sept 3 (Labor Day) **
 1. Data Structures
     - **In Class Activities**
+        - Design Spaceman
     - **After Class**
         - Spaceman
 1. Object Oriented Programming
@@ -87,14 +89,17 @@ To pass this course you must meet the following requirements:
 ** ... More to come ... **
 
 ## Resources
-1. Python tutorials
+1. Python
+    - [Python Documentation](https://docs.python.org/3/index.html)
+    - [Python Tutorial](https://learnpythonthehardway.org/python3/)
 1. Atom Tutorials
 1. CS fundamentals
+    - [Project Euler](https://projecteuler.net/)
 
 ## Make School Course Policies
 
 [Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
-[Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
+[Accommodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
 [Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
 [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
 <br>
