@@ -7,7 +7,6 @@ Let's build something fun and silly! :-) Let's make a MadLibs game that generate
 * Display story with blanks for input words with correct type (nouns, verbs, ... etc.)
 * Ask user to input words to fill in the blanks. 
 * Output the story with the blanks filled in.
-* The system module (for accessing command-line arguments)
 * A test suite to test user input.
 
 
@@ -23,5 +22,7 @@ Let's build something fun and silly! :-) Let's make a MadLibs game that generate
 * Use a dictionary to generate the words.
 * Use a differnet data structure to store words.
 * Build with TDD
+* Use the system module (for accessing command-line arguments)
+* ...
 
 
