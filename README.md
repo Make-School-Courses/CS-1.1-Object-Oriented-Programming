@@ -1,4 +1,4 @@
-# Title
+# CS 1.1 Programming fundamentals
 
 ## Course Description
 
@@ -54,7 +54,7 @@ To pass this course you must meet the following requirements:
 
 ## Lessons
 
-1. [Class Introduction & Programming Basics][01. Class Intro]
+1. [Class Introduction & Programming Basics](01. Class Intro)
     - **Before Class**
         - Prep Work
     - **In Class Activities**
@@ -65,10 +65,11 @@ To pass this course you must meet the following requirements:
         - Python tutorials
         - Atom Tutorials
         - Captain Rainbow's Color Selector
-1. [Strings, Lists & Functions][02. Stringddddddddds]
+1. [Control Flow and Basic Data Structures](02. Control Flow)
     - **In Class Activities**
         - Discuss Captain Rainbow's Color Selector
-        - Strings, Lists and functions
+        - Strings, Lists and Functions
+        - Control Flow
         - Design Madlibs
     - **After Class**
         - MadLibs  
@@ -91,6 +92,7 @@ To pass this course you must meet the following requirements:
 ## Resources
 1. Python
     - [Python Documentation](https://docs.python.org/3/index.html)
+        - [Tutorial in Python Documentation](https://docs.python.org/3/tutorial/index.html)
     - [Python Tutorial](https://learnpythonthehardway.org/python3/)
 1. Atom Tutorials
 1. CS fundamentals
