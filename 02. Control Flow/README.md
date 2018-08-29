@@ -1,5 +1,7 @@
 # Control Flow, Basic Data Structures, Program Design
 
+[Slides](https://docs.google.com/presentation/d/12Rygocqg3DGOtXjn8Mj2mo2qwlAIBKhc-H2gZIJUymE/edit?usp=sharing)
+
 ## Description
 
 The basic building blocks of a program consist of storing data and processing that data.  In this session, we'll explore ways to store data in two data structures: lists and strings.  Then we'll look at processing with control flow (loops and conditionals).  Finally we'll expand on our program design skills by exploring how to move from high level design to agile implementation.
