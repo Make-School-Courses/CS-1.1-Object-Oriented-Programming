@@ -39,7 +39,7 @@ Tutorials
 - [Captain Rainbow's Color Checklist](https://www.makeschool.com/academy/track/captain-rainbow-s-color-checklist) or [GitHub Version of Captain Rainbow's Color Checklist](https://github.com/MakeSchool-Tutorials/Rainbow-Checklist)
 - [MadLibs](Madlibs_Project/README.md)
 - [Spaceman](Spaceman_Project/README.md)
-- [Super Hero Team Dueler]()
+- [Super Hero Team Dueler](http://make.sc/superhero-team-dueler)
 - [Herd_Immunity]()
 
 ## Evaluation
