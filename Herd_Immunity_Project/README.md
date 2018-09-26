@@ -7,28 +7,30 @@ Currently this is a draft README, to help you get started on the project.  This 
 ### Goals
 
 * Finish the code in these files to create a working simulation that creates log files of major events.  
-* The rules of the simulation are as follows:
-  * You should get your data for virus name, mortality rate, and basic reproductive rate from [this Guardian article](https://www.theguardian.com/news/datablog/ng-interactive/2014/oct/15/visualised-how-ebola-compares-to-other-infectious-diseases) we went over in class.  
-  * During every time step of the simulation, **every sick person** should randomly interact with **100 other people** in the population.  The chance of a sick person infecting a person that they interact with is the virus's basic reproductive rate.  Example: if a virus has a basic reproductive rate of 15, then, on average, a sick person should infect 15 of the 100 people they interact with during that time step.
+* Design your program to follow the rules of the simulation.
+* Get your data for virus name, mortality rate, and basic reproductive rate from [this Guardian article](https://www.theguardian.com/news/datablog/ng-interactive/2014/oct/15/visualised-how-ebola-compares-to-other-infectious-diseases).  
+* During every time step of the simulation, **every sick person** should randomly interact with **100 other people** in the population.  The chance of a sick person infecting a person that they interact with is the virus's basic reproductive rate.  Example: if a virus has a basic reproductive rate of 15, then, on average, a sick person should infect 15 of the 100 people they interact with during that time step.
 
-  * Rules: a sick person only has a chance at infecting healthy, unvaccinated people they encounter.  
-    1. An infected person cannot infect a vaccinated person.  This still counts as an interaction.  
-    1. An infected person cannot infect someone that is already infected.  This still counts as an interaction.
-    1. At the end of a time step, an infected person will either die of the infection or get better.  The chance they will die is the percentage chance stored in mortality_rate.  
-    1. For simplicity's sake, if the person does not die, we will consider them immune to the virus and change is_vaccinated to True when this happens.  
-    1. Dead people can no longer be infected, either.  Any time an individual dies, we should also change their .infected attribute to False.  
-    1. All state changes for a person should occur at the **end** of a time step, after all infected persons have finished all of their interactions.  
-    1. During the interactions, make note of any new individuals infected on this turn.  After the interactions are over, we will change the .infected attribute of all newly infected individuals to True.  1. Resolve the states of all individuals that started the turn infected by determining if they die or survive the infection, and change the appropriate attributes.  
-  * The simulation should output a logfile that contains a record of every interaction that occurred during the simulation.  We will use this logfile to determine final statistics and answer questions about the simulation.
-  <br>
+#### Rules
+1. A sick person only has a chance at infecting healthy, unvaccinated people they encounter.  
+1. An infected person cannot infect a vaccinated person.  This still counts as an interaction.  
+1. An infected person cannot infect someone that is already infected.  This still counts as an interaction.
+1. At the end of a time step, an infected person will either die of the infection or get better.  The chance they will die is the percentage chance stored in mortality_rate.  
+1. For simplicity's sake, if the person does not die, we will consider them immune to the virus and change is_vaccinated to True when this happens.  
+1. Dead people can no longer be infected, either.  Any time an individual dies, we should also change their .infected attribute to False.  
+1. All state changes for a person should occur at the **end** of a time step, after all infected persons have finished all of their interactions.  
+1. During the interactions, make note of any new individuals infected on this turn.  After the interactions are over, we will change the .infected attribute of all newly infected individuals to True.  1. Resolve the states of all individuals that started the turn infected by determining if they die or survive the infection, and change the appropriate attributes.  
+1. The simulation should output a logfile that contains a record of every interaction that occurred during the simulation.  We will use this logfile to determine final statistics and answer questions about the simulation.
 
-* Once you have successfully run a simulation, use your python skills to answer the following questions about the simulation:
-  1. What were the inputs you gave the simulation? (Population size, percent vaccinated, virus name, mortality rate, basic reproductive rate)
-  1. What percentage of the population became infected at some point before the virus burned out?
-  1.  What percentage of the population died from the virus?
-  1.  Out of all interactions sick individuals had during the entire simulation, how many total interactions did we see where a vaccination saved a person from potentially becoming infected?
-
-When you have answered these questions, please put your answers in a file called 'answers.txt' and push this to your repo before slacking me the repo link!
+#### Answer These Questions
+Once you have successfully run a simulation, use your python skills to answer to analyze the simulation results
+1. What were the inputs you gave the simulation? (Population size, percent vaccinated, virus name, mortality rate, basic reproductive rate)
+1. What percentage of the population became infected at some point before the virus burned out?
+1.  What percentage of the population died from the virus?
+1.  Out of all interactions sick individuals had during the entire simulation, how many total interactions did we see where a vaccination saved a person from potentially becoming infected?
+<br>
+<br>
+*When you have answered these questions, please put your answers in a file called 'answers.txt' and push this to your repo.*
 
 
 ### Getting Started
@@ -67,18 +69,18 @@ When you run `simulation.py` with the corresponding command-line arguments neces
 
 ### Some Notes For Being Successful On This Project
 
-First, take a look at each of the files.  Get a feel for the methods and attributes in each.  Feel overwhelmed? Don't panic.  Instead, get out a piece of paper or a whiteboard and try to diagram needs to happen and when using each of the objects and method names. Draw out the data flow.
+First, take a look at each of the files.  Get a feel for the methods and attributes in each.  Feel overwhelmed? Don't panic.  Instead, get out a piece of paper or a whiteboard and try to diagram what needs to happen and when using each of the objects and methods. Draw out the data flow.
 
 *_If you don't understand something, ask for help!_*
 
 Ask your classmates for clarification/help/code reviews as needed, or drop in to tutoring hours. Slack your questions to the class, or book some time to get help from Alan.
-Just make sure that your work is your own!
+Just make sure that your final project is your own!
 
 *Found a bug or a problem? No Problem! Let Alan, Justin, or Phyllis know!*
 
- The template code was written in a cottage on the coast of Ireland with spotty power during the strongest hurricane Ireland has seen in 61 years, so there are probably some bugs in the template code. If you think something doesn't make sense, double check with your classmates and/or me.  If you feel the need to modify the template code to make it work another way, that's totally fine! The template code is there to help you, but it isn't a requirement that you use any/all of it.  
+The template code was written in a cottage on the coast of Ireland with spotty power during the strongest hurricane Ireland has seen in 61 years, so... **there are probably some bugs in the template code**. If you think something doesn't make sense, double check with your classmates and/or Alan.  If you feel the need to modify the template code to make it work another way, that's totally fine! The template code is there to help you, but it isn't a requirement that you use any/all of it.  
 
-*WRITE TESTS!*
+**WRITE TESTS!**
 
 This is a big project.  There's no way that all the code you write is going to work the first time.  Also, see the paragraph above about Mike coding all of this on a mountain during a 50 year storm while fighting off mountain lions with only a soup-ladle to defend himself.  Starting by thinking about your test cases and aiming for good test coverage is a great way to vaccinate yourself against any pre-existing bugs in the template. Not sure how to write tests? Look at the tests for the Super Hero project and utilize some strategies from those tests.
 
