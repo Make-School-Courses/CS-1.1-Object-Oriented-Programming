@@ -50,8 +50,9 @@ class Person(object):
         self.infection = None
 
 
-    def did_survive_infection():
+    def did_survive_infection(self):
         # TODO:  Finish this method. Follow the instructions in the class documentation
+        # TODO: You will need to decide what parameters you pass into this method based on how you structure your class.
         # for resolve_infection.  If person dies, set is_alive to False and return False.
         # If person lives, set is_vaccinated = True, infection = None, return True.  
         pass
