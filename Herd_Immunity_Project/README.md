@@ -87,10 +87,10 @@ This is a big project.  There's no way that all the code you write is going to w
 For this project to be considered complete, you need to add your repo link to the course tracker. Please do not change the random seed set in the Simulation class! It is currently set to 42, and we will use this to double check that your simulation works and spits out the expected results.
 
 **Your repo should contain:**
-  * Completed classes for logger.py, simulation.py, and person.py.
-  * The addition of at least 2 additional tests to the virus.py file.
+  * Completed classes for `logger.py`, `simulation.py`, and `person.py`.
+  * The addition of at least 2 additional tests to the `virus.py` file.
   * At least 1 log file generated from running your simulation. 
-  * simulation_test.py file should be created that allows for testing the simulation.
+  * `simulation_test.py` file should be created that allows for testing the simulation.
   * Answers to the questions above listed in a file named `answers.txt`.
 
 ### Stretch Challenges
