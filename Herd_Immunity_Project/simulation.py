@@ -4,8 +4,7 @@ from person import Person
 from logger import Logger
 
 class Simulation(object):
-    '''
-    Main class that will run the herd immunity simulation program.
+    '''Main class that will run the herd immunity simulation program.
     Expects initialization parameters passed as command line arguments when file is run.
 
     Simulates the spread of a virus through a given population.  The percentage of the
@@ -35,8 +34,7 @@ class Simulation(object):
     '''
 
     def __init__(self, pop_size, vacc_percentage, virus, initial_infected=1):
-        '''
-        Create a Logger object that is responsible for writing all logs of the simulation.
+        ''' Create a Logger object that is responsible for writing all logs of the simulation.
         Create a virus object when you start the simulation, pass that to the simulation init method.
 
         Population represents all people in the population. Its length should match pop_size.
@@ -75,6 +73,15 @@ class Simulation(object):
         # Store the array that this method will return in the self.population attribute.
 
     def _create_population(self, initial_infected):
+        '''This method will create the initial population.
+            Args: 
+                initial_infected (int): The number of infected people that the simulation 
+                will begin with.
+            
+            Returns:
+                list: A list of Person objects
+
+        '''
         # TODO: Finish this method!  This method should be called when the simulation
         # begins, to create the population that will be used. This method should return
         # an array filled with Person objects that matches the specifications of the
