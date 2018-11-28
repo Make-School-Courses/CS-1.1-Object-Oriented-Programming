@@ -5,47 +5,12 @@ from logger import Logger
 
 class Simulation(object):
     '''
-    Main class that will run the herd immunity simulation program.  Expects initialization
-    parameters passed as command line arguments when file is run.
+    Main class that will run the herd immunity simulation program.
+    Expects initialization parameters passed as command line arguments when file is run.
 
     Simulates the spread of a virus through a given population.  The percentage of the
     population that are vaccinated, the size of the population, and the amount of initially
     infected people in a population are all variables that can be set when the program is run.
-
-    _____Attributes______
-
-    logger: Logger object.  The helper object that will be responsible for writing
-    all logs to the simulation.
-
-    population_size: Int.  The size of the population for this simulation.
-
-    population: [Person].  A list of person objects representing all people in
-        the population.
-
-    next_person_id: Int.  The next available id value for all created person objects.
-        Each person should have a unique _id value.
-
-    virus_name: String.  The name of the virus for the simulation.  This will be passed
-    to the Virus object upon instantiation.
-
-    mortality_rate: Float between 0 and 1.  This will be passed
-    to the Virus object upon instantiation.
-
-    basic_repro_num: Float between 0 and 1.   This will be passed
-    to the Virus object upon instantiation.
-
-    vacc_percentage: Float between 0 and 1.  Represents the total percentage of population
-        vaccinated for the given simulation.
-
-    current_infected: Int.  The number of currently people in the population currently
-        infected with the disease in the simulation.
-
-    total_infected: Int.  The running total of people that have been infected since the
-    simulation began, including any people currently infected.
-
-    total_dead: Int.  The number of people that have died as a result of the infection
-        during this simulation.  Starts at zero.
-
 
     _____Methods_____
 
@@ -69,16 +34,29 @@ class Simulation(object):
         -- Once len(population) is the same as self.population_size, returns population.
     '''
 
-    def __init__(self, population_size, vacc_percentage, virus_name,
-                 mortality_rate, basic_repro_num, initial_infected=1):
-        self.population_size = population_size
-        self.population = []
-        self.total_infected = 0
-        self.current_infected = 0
-        self.next_person_id = 0
-        self.virus_name = virus_name
-        self.mortality_rate = mortality_rate
-        self.basic_repro_num = basic_repro_num
+    def __init__(self, pop_size, vacc_percentage, virus, initial_infected=1):
+        '''
+        Create a Logger object that is responsible for writing all logs of the simulation.
+        Create a virus object when you start the simulation, pass that to the simulation init method.
+
+        Population represents all people in the population. Its length should match pop_size.
+        The next_person_id is the next available id value for all created Person objects.
+        Each person should have a unique _id value.
+        The vacc_percentage represents the total percentage of population vaccinated at the start of the simulation.
+        The current_infected is the number of people in the population currently infected with the disease.
+        The total_infected is the running total of people that have been infected since the
+        simulation began, including any dead people and currently infected.
+        The total_dead is the number of people that have died as a result of the infection during this simulation.
+        '''
+        self.population = [] # List of Person objects
+        self.pop_size = pop_size # Int
+        self.next_person_id = 0 # Int
+        self.virus = virus # Virus object
+        self.initial_infected = initial_infected # Int
+        self.total_infected = 0 # Int
+        self.current_infected = 0 # Int
+        self.vacc_percentage = vacc_percentage # float between 0 and 1
+        self.total_dead = 0 # Int
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, population_size, vacc_percentage, initial_infected)
 
