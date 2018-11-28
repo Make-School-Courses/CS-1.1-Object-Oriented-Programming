@@ -2,6 +2,8 @@ import random, sys
 random.seed(42)
 from person import Person
 from logger import Logger
+from virus import Virus
+
 
 class Simulation(object):
     ''' Main class that will run the herd immunity simulation program.
@@ -11,7 +13,7 @@ class Simulation(object):
     population that are vaccinated, the size of the population, and the amount of initially
     infected people in a population are all variables that can be set when the program is run.
     '''
-    def __init__(self, pop_size, vacc_percentage, virus, initial_infected=1):
+    def __init__(self, pop_size, vacc_percentage, initial_infected=1, virus):
         ''' Logger object logger records all events during the simulation.
         Population represents all Persons in the population.
         The next_person_id is the next available id for all created Persons,
@@ -25,10 +27,10 @@ class Simulation(object):
         of the infection.
 
         All arguments will be passed as command-line arguments when the file is run.
+        HINT: Look in the if __name__ == "__main__" function at the bottom.
         '''
         # TODO: Create a Logger object and bind it to self.logger.
         # Remember to call the appropriate logger method in the corresponding parts of the simulation.
-        # TODO: Create a virus object when you start the simulation, pass that to the simulation init method.
         # TODO: Call self._create_population() and pass in the correct parameters.
         # Store the array that this method will return in the self.population attribute.
         # TODO: Store each newly infected person's ID in newly_infected attribute.
@@ -50,10 +52,10 @@ class Simulation(object):
 
     def _create_population(self, initial_infected):
         '''This method will create the initial population.
-            Args: 
-                initial_infected (int): The number of infected people that the simulation 
+            Args:
+                initial_infected (int): The number of infected people that the simulation
                 will begin with.
-            
+
             Returns:
                 list: A list of Person objects.
 
@@ -63,9 +65,9 @@ class Simulation(object):
         # an array filled with Person objects that matches the specifications of the
         # simulation (correct number of people in the population, correct percentage of
         # people vaccinated, correct number of initially infected people).
-        
-        # Use the attributes created in the init method to create a population that has 
-        # the correct intial vaccination percentage and initial infected. 
+
+        # Use the attributes created in the init method to create a population that has
+        # the correct intial vaccination percentage and initial infected.
         pass
 
     def _simulation_should_continue(self):
@@ -134,27 +136,27 @@ class Simulation(object):
         pass
 
     def _infect_newly_infected(self):
-        # TODO: Finish this method! This method should be called at the end of
-        # every time step.  This method should iterate through the list stored in
-        # self.newly_infected, which should be filled with the IDs of every person
-        # created.  Iterate though this list.
-        # For every person id in self.newly_infected:
-        #   - Find the Person object in self.population that has this corresponding ID.
-        #   - Set this Person's .infected attribute to True.
-        # NOTE: Once you have iterated through the entire list of self.newly_infected, remember
-        # to reset self.newly_infected back to an empty list!
+        ''' This method should iterate through the list of ._id stored in self.newly_infected
+        and update each Person object with the disease. '''
+        # TODO: Call this method at the end of every time step and infect each Person.
+        # TODO: Once you have iterated through the entire list of self.newly_infected, remember
+        # to reset self.newly_infected back to an empty list.
+        pass
+
 
 if __name__ == "__main__":
     params = sys.argv[1:]
-    pop_size = int(params[0])
-    vacc_percentage = float(params[1])
-    virus_name = str(params[2])
-    mortality_rate = float(params[3])
-    basic_repro_num = float(params[4])
+    virus_name = str(params[0])
+    repro_num = float(params[1])
+    mortality_rate = float(params[2])
+
+    pop_size = int(params[3])
+    vacc_percentage = float(params[4])
+
     if len(params) == 6:
         initial_infected = int(params[5])
-    else:
-        initial_infected = 1
-    simulation = Simulation(pop_size, vacc_percentage, virus_name, mortality_rate,
-                            basic_repro_num, initial_infected)
-    simulation.run()
+
+    virus = Virus(name, repro_rate, mortality_rate)
+    sim = Simulation(pop_size, vacc_percentage, initial_infected, virus)
+
+    sim.run()
