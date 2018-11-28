@@ -8,8 +8,8 @@ This ReadMe (project description and specs) is a draft to help you get started o
 
 * Finish the code in these files to create a working simulation that creates log files of major events.  
 * Design your program to follow the rules of the simulation.
-* Get your data for virus name, mortality rate, and basic reproductive rate from [this Guardian article](https://www.theguardian.com/news/datablog/ng-interactive/2014/oct/15/visualised-how-ebola-compares-to-other-infectious-diseases).  
-* During every time step of the simulation, **every sick person** should randomly interact with **100 other people** in the population.  The chance of a sick person infecting a person that they interact with is the virus's basic reproductive rate.  Example: if a virus has a basic reproductive rate of 15, then, on average, a sick person should infect 15 of the 100 people they interact with during that time step.
+* Get your data for virus name, mortality rate, and reproductive rate from [this Guardian article](https://www.theguardian.com/news/datablog/ng-interactive/2014/oct/15/visualised-how-ebola-compares-to-other-infectious-diseases).  
+* During every time step of the simulation, **every sick person** should randomly interact with **100 other people** in the population. The chance of a sick person infecting a person that they interact with is the virus's reproductive rate.  Example: if a virus has a reproductive rate of 15, then, on average, a sick person should infect 15 of the 100 people they interact with during that time step.
 
 #### Rules
 1. A sick person only has a chance at infecting healthy, unvaccinated people they encounter.  
@@ -24,7 +24,7 @@ This ReadMe (project description and specs) is a draft to help you get started o
 
 #### Answer These Questions
 Once you have successfully run a simulation, use your python skills to answer to analyze the simulation results
-1. What were the inputs you gave the simulation? (Population size, percent vaccinated, virus name, mortality rate, basic reproductive rate)
+1. What were the inputs you gave the simulation? (Population size, percent vaccinated, virus name, mortality rate,  reproductive rate)
 1. What percentage of the population became infected at some point before the virus burned out?
 1.  What percentage of the population died from the virus?
 1.  Out of all interactions sick individuals had during the entire simulation, how many total interactions did we see where a vaccination saved a person from potentially becoming infected?
@@ -41,14 +41,14 @@ To get started on this project, fork this course repo and then clone **your own 
 The program is designed to be run from the command line.  You can do this by running
 `python3 simulation.py` followed by the command line arguments in the following order,
 separated by spaces:
- {population size} {vacc_percentage} {virus_name} {mortality_rate} {basic_repro_num} {optional: number of people initially infected (default is 1)}
+ {population size} {vacc_percentage} {virus_name} {mortality_rate} {repro_rate} {optional: number of people initially infected (default is 1)}
 
  Let's look at an example:
  * Population Size: 100,000
  * Vaccination Percentage: 90%
  * Virus Name: Ebola
  * Mortality Rate: 70%
- * Basic Reproduction Number: 25%
+ * Reproduction Rate: 25%
  * People Initially Infected: 10
 
  Then I would type: <br>
@@ -56,13 +56,12 @@ separated by spaces:
 
 ### Basic Structure
 
-The program consists of 3 classes: `Simulation`, `Person`, and `Logger`.
+The program consists of 4 classes: `Simulation`, `Person`, `Virus`, and `Logger`.
 
 * `Simulation`: Highest level of abstraction. The main class that runs the entire simulation.
 * `Person`: Represents the people that make up the population that the virus is spreading through.
+* `Virus`: Models the properties of the virus we wish to simulate.
 * `Logger`: A helper class for logging all events that happen in the simulation.
-
-*NOTE*: Since viruses are static in this simulation and all we really care about is the name of the virus, the mortality rate of the virus, and the rate at which the virus spreads through a population ("Basic Reproduction Number"), It makes sense to just store that data as attributes at the `Simulation` level.
 
 When you run `simulation.py` with the corresponding command-line arguments necessary for a simulation, a simulation object is created.  This simulation object then calls the `.run()` method.  This method should continually check if the simulation needs to run another step using a helper method contained in the class, and then call `.time_step()` if the simulation has not ended yet.  Within the `time_step()` method, you'll find all the logic necessary for actually simulating everything--that is, once you write it.  As is, the file just contains a bunch of method stubs, as well as numerous comments for explaining what you need to do to get everything working.  
 
@@ -72,7 +71,7 @@ First, take a look at each of the files.  Get a feel for the methods and attribu
 
 *_If you don't understand something, talk to your classmates and ask for help!_*
 
-Ask your classmates for clarification/help/code reviews as needed, or drop in to tutoring hours. Share your questions and insights in the course Slack channel, or book some time to get help from Justin and Phyllis, the course teaching assistants.
+Ask your classmates and teachers for clarification/help/code reviews as needed, or drop in to tutoring hours. Share your questions and insights in the course Slack channel, or book some time to get help from Justin and Phyllis, the course teaching assistants.
 Collaboration is encouraged, but be sure that you typed in all the code yourself and the final project is your own!
 
 *Found a bug or a problem? Contact Alan, Justin, and Phyllis!*
@@ -81,15 +80,19 @@ The template code was written in a cottage on the coast of Ireland with spotty p
 
 **WRITE TESTS!**
 
-This is a big project.  There's no way that all the code you write is going to work the first time.  Also, see the paragraph above about all of this being coded on a mountain during a 61-year storm while fighting off mountain lions with only a soup-ladle to defend himself.  Starting by thinking about your test cases and aiming for good test coverage is a great way to vaccinate yourself against any pre-existing bugs in the template. Not sure how to write tests? Look at the tests for the Super Hero project and utilize some strategies from those tests.
+This is a big project.  There's no way that all the code you write is going to work the first time.  Also, see the paragraph above about all of this being coded by a man on a mountain during a 61-year storm while fighting off mountain lions with only a soup-ladle to defend himself.  Starting by thinking about your test cases and aiming for good test coverage is a great way to vaccinate yourself against any pre-existing bugs in the template. Not sure how to write tests? Look at the tests for the Super Hero project and utilize some strategies from those tests.
 
 ### Project Completion
 
 For this project to be considered complete, you need to add your repo link to the course tracker. Please do not change the random seed set in the Simulation class! It is currently set to 42, and we will use this to double check that your simulation works and spits out the expected results.
 
-Your repo should contain:
-  * `Simulation`, `Person` and `Logger` classes and methods completed
-  * At least 2 log files generated from running your simulation
+**Your repo should contain:**
+  * Completed classes for `logger.py`, `simulation.py`, and `person.py`.
+  * The addition of at least 2 additional tests to the `virus.py` file.
+  * At least 1 log file generated from running your simulation. 
+  * `simulation_test.py` file should be created that allows for testing the simulation.
+  * `logger_test.py` file should be created that allows for the testing of the logger class.
+  * Answers to the questions asked above listed in a file named `answers.txt`.
 
 ### Stretch Challenges
 
