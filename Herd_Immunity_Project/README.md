@@ -91,6 +91,7 @@ For this project to be considered complete, you need to add your repo link to th
   * The addition of at least 2 additional tests to the virus.py file.
   * At least 1 log file generated from running your simulation. 
   * simulation_test.py file should be created that allows for testing the simulation.
+  * Answers to the questions above listed in a file named `answers.txt`.
 
 ### Stretch Challenges
 
