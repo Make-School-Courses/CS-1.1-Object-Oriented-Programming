@@ -114,22 +114,28 @@ class Simulation(object):
         # TODO: Finish this method!
         pass
 
-    def interaction(self, person, random_person):
-        # TODO: Finish this method! This method should be called any time two living
-        # people are selected for an interaction.  That means that only living people
-        # should be passed into this method.  Assert statements are included to make sure
-        # that this doesn't happen.
+    def interaction(self, person1, random_person):
+        '''This method should be called any time two living people are selected for an 
+        interaction. It assumes that only living people are passed in as parameters.
+
+        Args:
+            person1 (person): The initial infected person
+            random_person (person): The person that person1 interacts with.
+        '''
+        # Assert statements are included to make sure that only living people are passed 
+        # in as params
         assert person1.is_alive == True
         assert random_person.is_alive == True
 
-        # The possible cases you'll need to cover are listed below:
+        # TODO: Finish this method! 
+        #  The possible cases you'll need to cover are listed below:
             # random_person is vaccinated:
             #     nothing happens to random person.
             # random_person is already infected:
             #     nothing happens to random person.
             # random_person is healthy, but unvaccinated:
             #     generate a random number between 0 and 1.  If that number is smaller
-            #     than basic_repro_num, random_person's ID should be appended to
+            #     than repro_rate, random_person's ID should be appended to
             #     Simulation object's newly_infected array, so that their .infected
             #     attribute can be changed to True at the end of the time step.
         # TODO: Remember to call self.logger.log_interaction() during this method!
