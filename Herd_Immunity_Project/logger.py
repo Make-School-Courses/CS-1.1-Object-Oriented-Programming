@@ -2,7 +2,7 @@ class Logger(object):
     ''' Utility class responsible for logging all interactions during the simulation. '''
     # TODO: Write a test suite for this class to make sure each method is working
     # as expected.
-    
+
     # PROTIP: Write your tests before you solve each function, that way you can
     # test them one by one as you write your class.
 
@@ -43,8 +43,7 @@ class Logger(object):
         pass
 
     def log_infection_survival(self, person, did_die_from_infection):
-        '''
-        The Simulation object uses this method to log the results of every
+        ''' The Simulation object uses this method to log the results of every
         call of a Person object's .resolve_infection() method.
 
         The format of the log should be:
@@ -56,8 +55,7 @@ class Logger(object):
         pass
 
     def log_time_step(self, time_step_number):
-        '''
-        STRETCH CHALLENGE DETAILS:
+        ''' STRETCH CHALLENGE DETAILS:
 
         If you choose to extend this method, the format of the summary statistics logged
         are up to you.
