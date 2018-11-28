@@ -41,7 +41,7 @@ To get started on this project, fork this course repo and then clone **your own 
 The program is designed to be run from the command line.  You can do this by running
 `python3 simulation.py` followed by the command line arguments in the following order,
 separated by spaces:
- {population size} {vacc_percentage} {virus_name} {mortality_rate} {_repro_rate} {optional: number of people initially infected (default is 1)}
+ {population size} {vacc_percentage} {virus_name} {mortality_rate} {repro_rate} {optional: number of people initially infected (default is 1)}
 
  Let's look at an example:
  * Population Size: 100,000
