@@ -28,7 +28,7 @@ class Person(object):
         # TODO:  Finish this method. Should return a Boolean
         pass
 
-    
+
 ''' These are simple tests to ensure that you are instantiating your Person class correctly. '''
 def test_vacc_person_instantiation():
     # create some people to test if our init method works as expected
