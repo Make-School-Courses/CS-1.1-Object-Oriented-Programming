@@ -2,6 +2,7 @@ import random
 import pytest
 # TODO: Import the virus class
 
+
 class Person(object):
     ''' Person objects will populate the simulation. '''
 
@@ -27,6 +28,7 @@ class Person(object):
         # TODO:  Finish this method. Should return a Boolean
         pass
 
+    
 ''' These are simple tests to ensure that you are instantiating your Person class correctly. '''
 def test_vacc_person_instantiation():
     # create some people to test if our init method works as expected
@@ -43,6 +45,7 @@ def test_not_vacc_person_instantiation():
     # TODO: complete your own assert statements that test
     # the values at each attribute
     pass
+
 
 def test_sick_person_instantiation():
     # import the virus class for the testing
