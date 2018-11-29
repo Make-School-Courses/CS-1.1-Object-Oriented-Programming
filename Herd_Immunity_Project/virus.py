@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-import pytest
-
 class Virus(object):
     '''Properties and attributes of the virus used in Simulation.'''
 
