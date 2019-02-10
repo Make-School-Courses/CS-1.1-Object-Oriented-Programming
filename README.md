@@ -66,10 +66,10 @@ Tutorials are to help you get started in a topic.  They are graded on completion
 
 ### Projects
 
-- [MadLibs](Assignments/Madlibs_Project/README.md)
-- [Spaceman](Assignments/Spaceman_Project/README.md)
+- [MadLibs](Projects/Madlibs_Project/README.md)
+- [Spaceman](Projects/Spaceman_Project/README.md)
 - [Super Hero Team Dueler](http://make.sc/superhero-team-dueler)
-- [Herd_Immunity](Assignments/Herd_Immunity_Project/README.md)
+- [Herd_Immunity](Projects/Herd_Immunity_Project/README.md)
 
 **All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
 
