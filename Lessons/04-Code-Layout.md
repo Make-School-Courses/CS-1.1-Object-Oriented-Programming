@@ -1,4 +1,4 @@
-# Organization, Modularity, and Error Handling
+# Code Reuse, Modularity, and Error Handling
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
