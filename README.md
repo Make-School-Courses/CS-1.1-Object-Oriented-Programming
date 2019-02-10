@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This course covers the foundations of software development and programming fundamentals including variables, naming, data types, control flow, loops, lists/arrays, dictionaries, functions, parameters and arguments, classes, objects, and object-oriented programming (OOP) concepts including inheritance, polymorphism, and instance method overriding. Build projects that take user input, manipulate strings, use libraries, make requests to web servers, and parse JSON data. Master top-level concepts in the landscape of software development including writing pseudocode, technical project planning, programming language paradigms, common software architectures, web development patterns and frameworks.
+This course covers the fundamentals of programming including variables, data types, control flow, conditionals, loops, lists, dictionaries, functions, and object-oriented programming. Students will master top-level concepts in software development including writing pseudocode, using functions to process input into output, technical project planning, and diagramming. The course will also cover how computers work, from components and layout to memory and machine code instructions.
 
 ### Why you should know this
 
@@ -53,7 +53,7 @@ Class Times: Monday and Wednesday sections between 1:30pm –3:00pm (13 class se
 |  10 | Wednesday            | [Lesson 10] |
 |  11 |  Monday           | [Lesson 11] |
 |  12 | Wednesday           | [Lesson 12] |
-|  13 |   Monday          | [Assessment] |
+|  13 |   Monday          | Assessment |
 
 
 ## Tutorials & Projects
@@ -66,10 +66,10 @@ Tutorials are to help you get started in a topic.  They are graded on completion
 
 ### Projects
 
-- [MadLibs](Projects/Madlibs_Project/README.md)
-- [Spaceman](Projects/Spaceman_Project/README.md)
+- [MadLibs](Projects/Madlibs/README.md)
+- [Spaceman](Projects/Spaceman/README.md)
 - [Super Hero Team Dueler](http://make.sc/superhero-team-dueler)
-- [Herd_Immunity](Projects/Herd_Immunity_Project/README.md)
+- [Herd_Immunity](Projects/HerdImmunity/README.md)
 
 **All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
 
@@ -92,8 +92,8 @@ Through this requirement, we hope to encourage you to think about projects with 
 To pass this course you must meet the following requirements:
 
 - Complete all required tutorials
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment >=75%
+- Pass all projects according to the [Project Rubrics](https://docs.google.com/document/d/12TklL4lVXvMMHqrLbX2wrlq_1D7usYZimMt_p8QBzgk/preview)
+- Pass the final summative assessment.  Use the [Study Guide](https://docs.google.com/document/d/16izO6nuKtwsKEeUsd_OMOKdxp6XVSqC6bTle5r1kla0/preview) to Prepare
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
@@ -103,6 +103,9 @@ To pass this course you must meet the following requirements:
     - [Python Documentation Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Learn Python The Hard Way](https://learnpythonthehardway.org/python3/)
 - CS fundamentals : [Project Euler](https://projecteuler.net/)
+- [Study Guide](https://docs.google.com/document/d/16izO6nuKtwsKEeUsd_OMOKdxp6XVSqC6bTle5r1kla0/preview)
+- [Project Rubrics](https://docs.google.com/document/d/12TklL4lVXvMMHqrLbX2wrlq_1D7usYZimMt_p8QBzgk/preview)
+-
 
 ## Attendance
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
@@ -136,4 +139,4 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 [Lesson 9]: Lessons/Lesson9.md
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md    
+[Lesson 12]: Lessons/Lesson12.md  
