@@ -4,7 +4,7 @@
 By the end of this lesson, students will be able to:
 1. Understand the concept of herd immunity for vaccinations
 1. See how simulations can model how different viruses spread through a population  
-1. Use automated tests to verify that program behavior are accurate
+1. Use automated tests to verify that program behavior is accurate
 
 ## Infectious Disease Modeling
 - Watch video: [What Bill Gates is afraid of][Bills Fear] (5 min)
