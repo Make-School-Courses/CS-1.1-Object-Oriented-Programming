@@ -22,7 +22,7 @@ Class Sessions:  14 classes, 7 labs
 ## Prerequisites:  
 None.
 
-## Learning Objectives or Competencies
+## Learning Objectives
 
 Students by the end of the course will be able to ...
 
@@ -32,78 +32,108 @@ Students by the end of the course will be able to ...
 1. Implement core programming concepts in Python.
 1. Implement programming best practices, debugging, and testing in Python.
 
+## Schedule
+
+Course Dates: Monday, August 27 – Wednesday, October 10, 2018 (7 weeks)
+
+Class Times: Monday and Wednesday sections between 1:30pm –3:00pm (13 class sessions)
+
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 | Monday    | [Lesson 1] |
+|  2 | Wednesday             | [Lesson 2] |
+|  3 |  Monday             | [Lesson 3] |
+|  4 | Wednesday            | [Lesson 4] |
+|  5 |  Monday             | [Lesson 5] |
+|  6 | Wednesday            | [Lesson 6] |
+|  7 |  Monday            | [Lesson 7] |
+|  8  | Wednesday           | [Lesson 8] |
+|  9 |  Monday            | [Lesson 9] |
+|  10 | Wednesday            | [Lesson 10] |
+|  11 |  Monday           | [Lesson 11] |
+|  12 | Wednesday           | [Lesson 12] |
+|  13 |   Monday          | [Assessment] |
+
 
 ## Tutorials & Projects
 
-Tutorials
+### Tutorials
+Tutorials are to help you get started in a topic.  They are graded on completion only.
+
 - [Captain Rainbow's Color Checklist](https://www.makeschool.com/academy/track/captain-rainbow-s-color-checklist) or [GitHub Version of Captain Rainbow's Color Checklist](https://github.com/MakeSchool-Tutorials/Rainbow-Checklist)
-- [MadLibs](Madlibs_Project/README.md)
-- [Spaceman](Spaceman_Project/README.md)
+
+
+### Projects
+
+- [MadLibs](Assignments/Madlibs_Project/README.md)
+- [Spaceman](Assignments/Spaceman_Project/README.md)
 - [Super Hero Team Dueler](http://make.sc/superhero-team-dueler)
-- [Herd_Immunity]()
+- [Herd_Immunity](Assignments/Herd_Immunity_Project/README.md)
+
+**All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
+
+- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
+- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
+- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
+
+#### Why are we doing this?
+
+We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
+
+- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
+- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
+- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
+
+Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- No more than two no call no shows
-- No more than four excused absences
+- Complete all required tutorials
+- Pass all projects according to the associated project rubric
+- Pass the final summative assessment >=75%
+- Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-- Finish all required tutorials and projects
-- Pass the final exam (summative assessment) >=80%
 
-## Lessons
-
-1. [Class Introduction & Programming Basics](01. Class Intro)
-    - **Before Class**
-        - Prep Work
-    - **In Class Activities**
-        - Introductions
-        - Pseudocode & Program Structure
-        - Atom bits
-    - **After Class**
-        - Python tutorials
-        - Atom Tutorials
-        - Captain Rainbow's Color Selector
-1. [Control Flow and Basic Data Structures](02. Control Flow)
-    - **In Class Activities**
-        - Discuss Captain Rainbow's Color Selector
-        - Strings, Lists and Functions
-        - Control Flow
-        - Design Madlibs
-    - **After Class**
-        - MadLibs  
-1. **  No class Mon. Sept 3 (Labor Day) **
-1. Data Structures
-    - **In Class Activities**
-        - Design Spaceman
-    - **After Class**
-        - Spaceman
-1. Object Oriented Programming
-    - **In Class Activities**
-    - **After Class**
-        - Super Hero OOP Project
-1. Object Oriented Programming
-    - **In Class Activities**
-    - **After Class**
-
-** ... More to come ... **
 
 ## Resources
-1. Python
-    - [Python Documentation](https://docs.python.org/3/index.html)
-        - [Tutorial in Python Documentation](https://docs.python.org/3/tutorial/index.html)
-    - [Python Tutorial](https://learnpythonthehardway.org/python3/)
-1. Atom Tutorials
-1. CS fundamentals
-    - [Project Euler](https://projecteuler.net/)
+- [Python Documentation](https://docs.python.org/3/index.html)
+    - [Python Documentation Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Learn Python The Hard Way](https://learnpythonthehardway.org/python3/)
+- CS fundamentals : [Project Euler](https://projecteuler.net/)
+
+## Attendance
+Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
+
+Attendance requirements for scheduled sessions are:
+- No more than two no call no shows per term in any scheduled session.
+- No more than four excused absences per term in any scheduled session.
+
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
+
 
 ## Make School Course Policies
 
-[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
-[Accommodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
-[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
-[Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
+[Academic Honesty](https://make.sc/academic-honesty)<br>
+[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
+[Attendance Policy](https://make.sc/attendance-policy)  
+[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
+[Grading System](https://make.sc/grading-system)
 <br>
-[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)<br>
-[Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
+[Title IX Policy](https://make.sc/title-ix-policy)<br>
+[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
+
+[Lesson 1]: Lessons/01-Class-Intro.md
+[Lesson 2]: Lessons/02-Control-Flow.md
+[Lesson 3]: Lessons/Lesson3.md
+[Lesson 4]: Lessons/Lesson4.md
+[Lesson 5]: Lessons/Lesson5.md
+[Lesson 6]: Lessons/Lesson6.md
+[Lesson 7]: Lessons/Lesson7.md
+[Lesson 8]: Lessons/Lesson8.md
+[Lesson 9]: Lessons/Lesson9.md
+[Lesson 10]: Lessons/Lesson10.md
+[Lesson 11]: Lessons/Lesson11.md
+[Lesson 12]: Lessons/Lesson12.md    

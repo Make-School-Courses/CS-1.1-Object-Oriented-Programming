@@ -1,6 +1,6 @@
-# Lesson Title
+# 01-Class-Intro
 
-## Overview short description of class
+## Overview
 
 We'll start by getting to know each other and understanding the scope of this course.  Then we'll jump into using pseudocode to break down a problem into programmable steps.  You'll be hands on with coding in tutorials and get a chance to present your Atom skills to the class.
 
@@ -65,7 +65,7 @@ We can use functions to encapsulate parts of our program and make it accessible 
 
 ## In Class Activity: Start Programming! (10 min)
 - Work on the tutorial.  
-- Ask you neighbor if you get stuck. Make sure to use proper programming terminology in your question.  (ex: Replace"this thing-ey" with "this parameter|object|function").
+- Ask you neighbor if you get stuck. Make sure to use proper programming terminology in your question.  (ex: Replace "this thing-ey" with "this parameter|object|function").
 - Use Python Documentation.
 
 ## Wrap up (10 min)

@@ -1,4 +1,4 @@
-# Control Flow, Basic Data Structures, Program Design
+# 02. Control Flow, Basic Data Structures, Program Design
 
 [Slides](https://docs.google.com/presentation/d/12Rygocqg3DGOtXjn8Mj2mo2qwlAIBKhc-H2gZIJUymE/edit?usp=sharing)
 
@@ -7,7 +7,7 @@
 The basic building blocks of a program consist of storing data and processing that data.  In this session, we'll explore ways to store data in two data structures: lists and strings.  Then we'll look at processing with control flow (loops and conditionals).  Finally we'll expand on our program design skills by exploring how to move from high level design to agile implementation.
 
 
-## Learning Objectives/Competencies
+## Learning Objectives
 
 1. Build confidence in working with others on code; sharing your code, giving feedback on another person's code, receiving feedback on your code.
 1. Learn simple data structures and control flow.
@@ -40,7 +40,7 @@ The tutorial covered a lot of key concepts:
 
 ## Activity: Design Madlibs (10 min)
 
-- Psuedocode
+- Pseudocode
 - List of requirements
 
 ## Break (5 min)
