@@ -15,17 +15,30 @@ By the end of this lesson, students will be able to:
 Break (5 min)
 
 ## Review Answers
-- Discuss answers to the OOP worksheet questions with the entire class (30 min)
-- Show examples of code that uses each concept and how it helps program structure
-  - Instantiating an object: `tony = Tiger("Tony")`
-  - Accessing a property: `tony.name`
-  - Calling a method: `tony.eat('meat')`
-  - Inheritance: `class Tiger(Animal)`
+- Discuss answers to the OOP worksheet questions with code examples (60 min)
+  - What an object is
+  - What a class is
+  - How to instantiate an object
+  - How to access properties on an object
+  - How to call methods on an object
+  - How to create methods in a class
+  - What a class initializer method does
+  - How to create an initializer method
+  - What the `self` parameter refers to in methods
+  - What inheritance is, how it helps code reuse
+  - How polymorphism allows customization
+  - How method overriding works, how to use it
+
 
 ## Resources
 - [Object-Oriented Programming worksheet][OOP worksheet]
+- TK's articles covering Object Oriented Programming in Python:
+  - [Part 1: Classes, Objects, Attributes & Methods][OOP Python 1]
+  - [Part 2: Encapsulation & Inheritance][OOP Python 2]
 
 [OOP worksheet]: https://make.sc/oop-worksheet
+[OOP Python 1]: https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26
+[OOP Python 2]: https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531
 
 ## Challenges
 - Complete page 4 of the [Superhero Team Dueler] tutorial:
