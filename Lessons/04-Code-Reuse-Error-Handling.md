@@ -14,7 +14,8 @@ By the end of this lesson, students will be able to:
 
 Break (5 min)
 
-- Teacher Talk: Error Handling (20 min)
+## Error Handling
+- Teacher Talk: Why and how to handle errors (20 min)
 - I do, we do, you do: Error handling in Spaceman (30 min)
 
 ### Resources

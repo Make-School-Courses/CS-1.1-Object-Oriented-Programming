@@ -1,4 +1,4 @@
-# 01-Class-Intro
+# Variables and Functions
 
 ## Overview
 
@@ -27,7 +27,7 @@ By starting with a broad overview of the entire class you can understand what yo
 - Notification if late / not attending
 
 ### How to Succeed in this Course
-Make School courses are primarily hands on.  Your instructor will introduce a topic, help set context, build motivation and curiosity; but it's up to you to study concepts and practice coding until you master a topic.  
+Make School courses are primarily hands on.  Your instructor will introduce a topic, help set context, build motivation and curiosity; but it's up to you to study concepts and practice coding until you master a topic.
 - If a tutorial mentions "Learn more about lists" - you should read the documentation on lists, build sample programs to practice learning lists, quiz yourself on list concepts and overall become a master of lists.
 - If a concept explained in class is not clear, you should dig into it after class.  Look for online explanations, ask your peers, build sample programs, ask your TA, slack your instructor.  Come to the next class an expert in this concept.
 
@@ -45,7 +45,7 @@ Make School courses are primarily hands on.  Your instructor will introduce a to
 Design a program.
 - Group activity (4 per group).
 - Choose a problem statement.  On a white board, write the statement (2 to 3 sentences) and then write the pseudocode for the program to solve this problem.
-    - Start with input, output, and processing.  
+    - Start with input, output, and processing.
     - Expand processing section details.
     - Label programming concepts.
 
@@ -55,8 +55,8 @@ The most basic program uses variables to store input.
 - All data types are Objects in Python, but some are immutable.
 - Variable names should be meaningful to the context of the data they store.
 
-We can process input information by performing operations on the variables.  
-- Basic operations include mathematical and string manipulation.  
+We can process input information by performing operations on the variables.
+- Basic operations include mathematical and string manipulation.
 - When variables of different types are operated on the end result is cast to one of the types.
 
 We can use functions to encapsulate parts of our program and make it accessible to re-use from other parts of our program and make it easier for a human reader to understand.
@@ -64,7 +64,7 @@ We can use functions to encapsulate parts of our program and make it accessible 
 - Since everything is an object in Python, when you pass an argument to a function parameter it uses the "pass by object" protocol instead of either "pass by reference" or "pass by value". This means the reference to the object is what is passed but immutable objects remain immutable while other objects can be modified in the body of the function.
 
 ## In Class Activity: Start Programming! (10 min)
-- Work on the tutorial.  
+- Work on the tutorial.
 - Ask you neighbor if you get stuck. Make sure to use proper programming terminology in your question.  (ex: Replace "this thing-ey" with "this parameter|object|function").
 - Use Python Documentation.
 

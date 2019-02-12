@@ -1,4 +1,4 @@
-# 02. Control Flow, Basic Data Structures, Program Design
+# Control Flow and Program Design
 
 [Slides](https://docs.google.com/presentation/d/12Rygocqg3DGOtXjn8Mj2mo2qwlAIBKhc-H2gZIJUymE/edit?usp=sharing)
 
@@ -19,7 +19,7 @@ The basic building blocks of a program consist of storing data and processing th
 - Review your tutorial and write 3 questions you have about it.
 
 ## Pop Quiz (10 min)
-- Pop quiz - lists.  
+- Pop quiz - lists.
 - Post quiz - discuss how to learn about a data structure.
 
 ## Q/A & Discussion on Captain Rainbow Tutorial (30 min)

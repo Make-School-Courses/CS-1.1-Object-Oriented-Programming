@@ -1,4 +1,4 @@
-# Debugging
+# Debugging and Testing
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
@@ -6,7 +6,7 @@ By the end of this lesson, students will be able to:
 1. Debug errors using Pytest
 1. Write meaningful automated tests to reduce runtime errors.
 
-## Lesson Plan
+## Debugging
 - Read and discuss first computer bug (10 min)
 - Think, pair, share: Methods of Debugging (10 min)
 - Teacher Talk: Reading a strack trace in Python and Pytest (20 min)
@@ -14,15 +14,16 @@ By the end of this lesson, students will be able to:
 
 Break (5 min)
 
+## Testing
 - Teacher Talk: Writing automated tests using Pytest (30 min)
 - Think, pair share: Add automated tests to a project (25 min)
 
-### Resources
+## Resources
 - [Grace Hopper's Computer Bug]
 - [Types of Bugs]
 - [Project Rubric]
 
-### Challenges
+## Challenges
 - Finish and submit all prior projects.
 - Add automated tests to Spaceman or Superheroes Project.
 

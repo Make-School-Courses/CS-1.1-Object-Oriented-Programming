@@ -1,4 +1,4 @@
-# Code Quality
+# Code Quality and Pseudocode
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
@@ -9,7 +9,7 @@ By the end of this lesson, students will be able to:
 ## Code Quality
 - Why code quality is important (5 min)
 - Think, pair, share on aspects of code quality (10 min)
-- Teacher Talk on code readability and formatting (20 min)   
+- Teacher Talk on code readability and formatting (20 min)
   - Variable naming and casing
   - Line length and complexity
   - Formatting and indentation
