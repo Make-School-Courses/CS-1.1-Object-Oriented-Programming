@@ -27,9 +27,9 @@ None.
 
 Students by the end of the course will be able to ...
 
-1. Understand how to break down a problem into a programable algorithm.
+1. Explain how to break down a problem into a programable algorithm.
 1. Translate user stories and requirements into a program.
-1. Master core programming concepts including data structures, control flow, repetition, functions, and object oriented programming.
+1. Practice core programming concepts including data structures, control flow, repetition, functions, and object oriented programming.
 1. Implement core programming concepts in Python.
 1. Implement programming best practices, debugging, and testing in Python.
 
