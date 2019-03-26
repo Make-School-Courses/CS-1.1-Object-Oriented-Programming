@@ -1,4 +1,4 @@
-# CS 1.1: Programming Fundamentals
+# CS 1.1: Intro to Progamming
 
 ## Course Description
 
