@@ -14,13 +14,15 @@ By the end of this lesson, students will be able to:
 - Why code quality is important (5 min)
     - So that it can be read by yourself and others
 - Think, pair, share on what you believe are key aspects of code quality (10 min)
-- Teacher Talk on code readability and formatting (20 min)
+- Teacher Talk on code readability and formatting (15 min)
   - **Variable naming and casing:** Important to have meaningful variable names and to pick a convential casing style (i.e. camelCasing).
   - **Line length and complexity:** One liners are for computers to read, not humans. Even a simple function can be made complex by trying to cram into one line. Showcase an example comparing one long line of code to a properly written function.
   - **Formatting and indentation:** While required in Python, other languages have no formatting and indentation requirements. Again, a computer doesn't see the difference, but your teammates will! Compare some poorly formatted HTML to properly formatted HTML
   - **Explanations in comments:** Commenting your code allows for others to be able to read and review functions you've written. A junior engineer should be able to look at your code (without knowledge of the codebase) and understand what's going on.
 
-### Partner code review on [MadLibs project] (20 min)
+### Partner code review on [MadLibs project]
+(20 min)
+
 Find a different partner from the think, pair, share and review each other’s Mad Libs repo. 
 
 Look for areas to improve the quality of you and your partner’s code. Work together to update your code and make sure it adheres to the code quality ideas previously discussed:
@@ -49,7 +51,7 @@ Look for areas to improve the quality of you and your partner’s code. Work tog
         - Would a helper function be of use?
 
 ## Error Handling
-- Teacher Talk: Why and how to handle errors (20 min)
+- Teacher Talk: Why and how to handle errors (10 min)
     - Discuss examples of App crashes, Broken features, bad User Experiences, and how it's the responsability of software engineers to make sure their products are of high quality
     - **Syntax Errors:** Errors from typos/incorrect syntax. Can avoid by using linters and by reading the error message to help find the source of the error
     - **Raising Exceptions:** A way to message an error and then immediately terminate the program
