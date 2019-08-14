@@ -1,17 +1,17 @@
 - **[Syllabus](README.md)**
 - **Lessons**
-  - [Variables and Functions]: Lessons/01-Variables-Functions.md
-  - [Control Flow and Program Design]: Lessons/02-Control-Flow.md
-  - [Code Quality and Pseudocode]: Lessons/03-Code-Quality-Pseudocode.md
-  - [Code Reuse and Error Handling]: Lessons/04-Code-Reuse-Error-Handling.md
-  - [Object-Oriented Programming]: Lessons/05-Object-Oriented-Programming.md
-  - [Encapsulation and Inheritance]: Lessons/06-OOP-Encapsulation-Inheritance.md
-  - [OOP Review]: Lessons/07-OOP-Review.md
-  - [Flowchart Diagrams]: Lessons/08-Flowcharts.md
-  - [Debugging and Testing]: Lessons/09-Debugging-Testing.md
-  - [Herd Immunity Simulation]: Lessons/10-Herd-Immunity.md
-  - [Computer Components]: Lessons/11-Computer-Components.md
-  - [CPU Instructions and Memory]: Lessons/12-CPU-Instructions-Memory.md
+  - [Variables and Functions](Lessons/01-Variables-Functions.md)
+  - [Control Flow and Program Design](Lessons/02-Control-Flow.md)
+  - [Code Quality and Pseudocode](Lessons/03-Code-Quality-Pseudocode.md)
+  - [Code Reuse and Error Handling](Lessons/04-Code-Reuse-Error-Handling.md)
+  - [Object-Oriented Programming](Lessons/05-Object-Oriented-Programming.md)
+  - [Encapsulation and Inheritance](Lessons/06-OOP-Encapsulation-Inheritance.md)
+  - [OOP Review](Lessons/07-OOP-Review.md)
+  - [Flowchart Diagrams](Lessons/08-Flowcharts.md)
+  - [Debugging and Testing](Lessons/09-Debugging-Testing.md)
+  - [Herd Immunity Simulation](Lessons/10-Herd-Immunity.md)
+  - [Computer Components](Lessons/11-Computer-Components.md)
+  - [CPU Instructions and Memory](Lessons/12-CPU-Instructions-Memory.md)
   - Final Class (Presentations, Demos, etc)
   - Final Exam/Presentations
 - **Tutorials**
