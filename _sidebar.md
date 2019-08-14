@@ -1,17 +1,23 @@
 - **[Syllabus](README.md)**
 - **Lessons**
-  - [Lesson 1](Lessons/Lesson1.md)
-  - [Lesson 2](Lessons/Lesson2.md)
-  - [Lesson 3](Lessons/Lesson1.md)
-  - [Lesson 4](Lessons/Lesson1.md)
-  - [Lesson 5](Lessons/Lesson1.md)
-  - [Lesson 6](Lessons/Lesson1.md)
-  - [Lesson 7](Lessons/Lesson1.md)
-  - [Lesson 8](Lessons/Lesson1.md)
-  - [Lesson 9](Lessons/Lesson1.md)
-  - [Lesson 10](Lessons/Lesson1.md)
-  - [Lesson 11](Lessons/Lesson1.md)
-  - [Lesson 12](Lessons/Lesson1.md)
+  - [Variables and Functions]: Lessons/01-Variables-Functions.md
+  - [Control Flow and Program Design]: Lessons/02-Control-Flow.md
+  - [Code Quality and Pseudocode]: Lessons/03-Code-Quality-Pseudocode.md
+  - [Code Reuse and Error Handling]: Lessons/04-Code-Reuse-Error-Handling.md
+  - [Object-Oriented Programming]: Lessons/05-Object-Oriented-Programming.md
+  - [Encapsulation and Inheritance]: Lessons/06-OOP-Encapsulation-Inheritance.md
+  - [OOP Review]: Lessons/07-OOP-Review.md
+  - [Flowchart Diagrams]: Lessons/08-Flowcharts.md
+  - [Debugging and Testing]: Lessons/09-Debugging-Testing.md
+  - [Herd Immunity Simulation]: Lessons/10-Herd-Immunity.md
+  - [Computer Components]: Lessons/11-Computer-Components.md
+  - [CPU Instructions and Memory]: Lessons/12-CPU-Instructions-Memory.md
   - Final Class (Presentations, Demos, etc)
   - Final Exam/Presentations
-- **[Project](Assignments/Sample_Project.md)**
+- **Tutorials**
+  - [Captain Rainbow's Color Checklist](https://make.sc/rainbow-checklist)
+  - [Super Hero Team Dueler](http://make.sc/superhero-team-dueler)
+- **Projects**
+  - [Mad Libs](Projects/MadLibs)
+  - [Spaceman](Projects/Spaceman)
+  - [Herd Immunity Simulation](Projects/HerdImmunity)
