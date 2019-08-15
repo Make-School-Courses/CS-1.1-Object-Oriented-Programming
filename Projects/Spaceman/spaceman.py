@@ -47,24 +47,6 @@ def get_guessed_word(secret_word, letters_guessed):
     pass
 
 
-def get_available_letters(letters_guessed):
-    '''
-    A function that is used to get the letters that have not been guessed yet.
-
-    Args:
-        letters_guessed (list of strings): list of letters that have been guessed so far
-
-    Retunrs: 
-        string: letters that represent what letters have not yet been guessed.
-    '''
-
-    alphabet = "abcdefghijklmnopqrstuvwxyz"
-
-    #TODO: Loop through the letters of the alphabet and build a string of letters that are not in letters_guessed
-
-    pass
-
-
 def is_guess_in_word(guess, secret_word):
     '''
     A function to check if the guessed letter is in the secret word
@@ -96,14 +78,11 @@ def spaceman(secret_word):
 
     #TODO: show the player information about the game according to the project spec
 
-
     #TODO: Ask the player to guess one letter per round and check that it is only one letter
 
     #TODO: Check if the guessed letter is in the secret or not and give the player feedback
 
     #TODO: show the guessed word so far
-
-    #TODO: show the letters that have not been guessed yet
 
     #TODO: check if the game has been won or lost
 
