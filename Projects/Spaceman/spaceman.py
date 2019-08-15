@@ -86,42 +86,27 @@ def is_guess_in_word(guess, secret_word):
 
 def spaceman(secret_word):
     '''
-    secretWord: string, the secret word to guess.
-    Starts up a game of Spaceman in the command line.
-    * At the start of the game, let the user know how many
-      letters the secretWord contains.
-    * Ask the user to guess one letter per round.
-    * The user should receive feedback immediately after each guess
-      about whether their guess appears in the computer's word.
-    * After each round, you should also display to the user the
-      partially guessed word so far, as well as letters that the
-      user has not yet guessed.
+    A function that controls the game of spaceman. Will start spaceman in the command line.
+
+    Args:
+      secret_word (string): the secret word to guess.
+
     '''
 
 
-    letters_guessed = []
-    allowed_num_incorrect_guesses = 7
-    num_incorrect_guesses_so_far = 0
+    #TODO: show the player information about the game according to the project spec
 
-     #TODO: print a welcome message and some game instructions
 
-    while  num_incorrect_guesses_so_far <= allowed_num_incorrect_guesses:
+    #TODO: Ask the player to guess one letter per round and check that it is only one letter
 
-        #TODO: get a guess from the player and if one letter add to the letters guessed so far
-        #TODO: check if the guess is more than one letter and reprompt if it is until one letter is entered. Hint: use a loop and conditionals to do this
+    #TODO: Check if the guessed letter is in the secret or not and give the player feedback
 
-        #TODO: If the guessed letter is in the secret word show the player they guessed correctly
-        #TODO: If the guessed letter is not in the secret word, show the player the guess was incorrect and add to number of incorrect guesses the player has made so far. 
-        #TODO: If the guessed letter is not in the secret word, sheck if the player has run out of incorrect guesses to end the game
-        #TODO: If the guessed letter is not in the secret word, show the number of incorrect guesses left
+    #TODO: show the guessed word so far
 
-        #TODO: show the guessed word so far
+    #TODO: show the letters that have not been guessed yet
 
-        #TODO: show the letters that have not been guessed yet
+    #TODO: check if the game has been won or lost
 
-        #TODO: check if the game has been won, if so exit the loop and show a message
-
-        break #TODO: REMOVE THIS LINE
 
 
 
