@@ -1,68 +1,96 @@
 import random
 
 def load_word():
-   f = open('words.txt', 'r')
-   words_list = f.readlines()
-   f.close()
+    '''
+    A function that reads a text file of words and randomly selects one to use as the secret word
+        from the list.
 
-   words_list = words_list[0].split(' ')
-   secret_word = random.choice(words_list)
-   return secret_word
+    Returns: 
+           string: The secret word to be used in the spaceman guessing game
+    '''
+    f = open('words.txt', 'r')
+    words_list = f.readlines()
+    f.close()
+
+    words_list = words_list[0].split(' ')
+    secret_word = random.choice(words_list)
+    return secret_word
 
 def is_word_guessed(secret_word, letters_guessed):
     '''
-    secretWord: string, the random word the user is trying to guess.  This is selected on line 9.
-    lettersGuessed: list of letters that have been guessed so far.
-    returns: boolean, True only if all the letters of secretWord are in lettersGuessed;
-      False otherwise
-    '''
+    A function that checks if all the letters of the secret word have been guessed.
 
-    # FILL IN YOUR CODE HERE...
+    Args:
+        secret_word (string): the random word the user is trying to guess.
+        letters_guessed (list of strings): list of letters that have been guessed so far.
+
+    Returns: 
+        bool: True only if all the letters of secret_word are in letters_guessed, False otherwise
+    '''
+    # TODO: Loop through the letters in the secret_word and check if a letter is not in lettersGuessed
+    pass
 
 def get_guessed_word(secret_word, letters_guessed):
     '''
-    secretWord: string, the random word the user is trying to guess.  This is selected on line 9.
-    lettersGuessed: list of letters that have been guessed so far.
-    returns: string, of letters and underscores.  For letters in the word that the user has
-    guessed correctly, the string should contain the letter at the correct position.  For letters
-    in the word that the user has not yet guessed, shown an _ (underscore) instead.
+    A function that is used to get a string showing the letters guessed so far in the secret word and underscores for letters that have not been guessed yet.
+
+    Args: 
+        secret_word (string): the random word the user is trying to guess.
+        letters_guessed (list of strings): list of letters that have been guessed so far.
+
+    Returns: 
+        string: letters and underscores.  For letters in the word that the user has guessed correctly, the string should contain the letter at the correct position.  For letters in the word that the user has not yet guessed, shown an _ (underscore) instead.
     '''
-    # FILL IN YOUR CODE HERE...
+
+    #TODO: Loop through the letters in secret word and build a string that shows the letters that have been guessed correctly so far that are saved in letters_guessed and underscores for the letters that have not been guessed yet
+
+    pass
 
 
-
-
-def get_available_letters(letters_guessed):
+def is_guess_in_word(guess, secret_word):
     '''
-    lettersGuessed: list of letters that have been guessed so far
-    returns: string, comprised of letters that represents what letters have not
-      yet been guessed.
+    A function to check if the guessed letter is in the secret word
+
+    Args:
+        guess (string): The letter the player guessed this round
+        secret_word (string): The secret word
+
+    Returns:
+        bool: True if the guess is in the secret_word, False otherwise
+
     '''
+    #TODO: check if the letter guess is in the secret word
+
+    pass
 
 
 
 
 def spaceman(secret_word):
     '''
-    secretWord: string, the secret word to guess.
+    A function that controls the game of spaceman. Will start spaceman in the command line.
 
-    Starts up a game of Spaceman in the command line.
+    Args:
+      secret_word (string): the secret word to guess.
 
-    * At the start of the game, let the user know how many
-      letters the secretWord contains.
-
-    * Ask the user to guess one letter per round.
-
-    * The user should receive feedback immediately after each guess
-      about whether their guess appears in the computer's word.
-
-    * After each round, you should also display to the user the
-      partially guessed word so far, as well as letters that the
-      user has not yet guessed.
     '''
-    # FILL IN YOUR CODE HERE...
 
 
-#
-# secret_word = load_word()
-# spaceman(load_word())
+    #TODO: show the player information about the game according to the project spec
+
+    #TODO: Ask the player to guess one letter per round and check that it is only one letter
+
+    #TODO: Check if the guessed letter is in the secret or not and give the player feedback
+
+    #TODO: show the guessed word so far
+
+    #TODO: check if the game has been won or lost
+
+
+
+
+
+
+#These function calls that will start the game
+secret_word = load_word()
+spaceman(load_word())
