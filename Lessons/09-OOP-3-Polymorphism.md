@@ -1,4 +1,4 @@
-# OOP Review
+# Object-Oriented Programming Part 3: Polymorphism
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
@@ -41,7 +41,7 @@ Break (5 min)
 [OOP Python 2]: https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531
 
 ## Challenges
-- Complete page 4 of the [Superhero Team Dueler] tutorial:
-  4. Team Attack and Defense, Build Armor Class
+- Complete page 5 of the [Superhero Team Dueler] tutorial:
+  5. Create the Arena
 
 [Superhero Team Dueler]: https://make.sc/superhero-team-dueler

@@ -1,6 +1,6 @@
-# Control Flow and Program Design
+# Control Flow and Lists
 
-[Slides](https://docs.google.com/presentation/d/12Rygocqg3DGOtXjn8Mj2mo2qwlAIBKhc-H2gZIJUymE/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/12Rygocqg3DGOtXjn8Mj2mo2qwlAIBKhc-H2gZIJUymE/preview)
 
 ## Description
 

@@ -1,4 +1,4 @@
-# Flowchart Diagrams
+# Pseudocode and Flowchart Diagrams
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
@@ -6,6 +6,14 @@ By the end of this lesson, students will be able to:
 2. Draw flowchart diagrams using common symbols and shapes
 3. Translate flowcharts into pseudocode and programming structures
 4. Use flowcharts to identify and solve issues with program loops
+
+## Pseudocode
+- Teacher talk and demo pseudocode for making a sandwich (10 min)
+- Play Spaceman word guessing game with class (10 min)
+- Design pseudocode for [Spaceman project] (20 min)
+- Compare pseudocode with partners and give feedback (10 min)
+
+Break (5 min)
 
 ## Rock Paper Scissors
 - Rock Paper Scissors tournament (5 min)
@@ -27,17 +35,6 @@ By the end of this lesson, students will be able to:
     - Does it use similar symbos and shapes?
   - Refine your flowchart based on seeing other students' diagrams
 
-Break (5 min)
-
-## Superheroes Game Loop
-- Discuss page 5 of the [Superhero Team Dueler] tutorial (5 min)
-- Superheroes game loop flowchart diagramming (20 min)
-  - Draw a flowchart diagram for the Superheroes game loop
-  - Find a partner to compare and contrast your flowcharts with
-  - Refine your flowchart based on seeing other students' diagrams
-- Write pseudocode for Superheroes game loop (10 min)
-- Compare pseudocode with a partner and give feedback (10 min)
-- Start programming your Superheroes game loop (if time permits)
 
 ## Resources
 - [Flowchart to debug a lamp][debug a lamp]
@@ -53,10 +50,9 @@ Break (5 min)
 [Bring me what]: https://medium.com/ondemand/bring-me-what-6edf84019f81
 
 ## Challenges
-- Complete page 5 of the [Superhero Team Dueler] tutorial:
-  5. Create the Arena
+- [Spaceman project]
 
-[Superhero Team Dueler]: https://make.sc/superhero-team-dueler
+[Spaceman project]: ../Projects/Spaceman
 
 ## Stretch Challenges
 - [Rock Paper Scissors][RPS]

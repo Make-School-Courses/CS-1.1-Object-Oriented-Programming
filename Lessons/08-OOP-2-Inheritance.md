@@ -1,4 +1,4 @@
-# OOP Encapsulation and Inheritance
+# Object-Oriented Programming Part 2: Inheritance
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
@@ -43,7 +43,8 @@ Break (5 min)
 [OOP Python 2]: https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531
 
 ## Challenges
-- Complete page 3 of the [Superhero Team Dueler] tutorial:
+- Complete pages 3-4 of the [Superhero Team Dueler] tutorial:
   3. Inheritance and Weapon Class, Running Unit Tests
+  4. Team Attack and Defense, Build Armor Class
 
 [Superhero Team Dueler]: https://make.sc/superhero-team-dueler

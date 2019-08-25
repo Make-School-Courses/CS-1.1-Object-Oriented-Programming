@@ -1,6 +1,6 @@
-# Code Quality Reuse, and Error Handling
+# Code Quality, Reuse, and Error Handling
 
-## [Slides](https://docs.google.com/presentation/d/12Njd_TwfxbXdjFYLLuxfUChu47ILU37_BsAXyqARlQc/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/12Njd_TwfxbXdjFYLLuxfUChu47ILU37_BsAXyqARlQc/preview)
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
@@ -25,7 +25,7 @@ By the end of this lesson, students will be able to:
 ### Partner code review on [MadLibs project]
 (20 min)
 
-Find a different partner from the think, pair, share and review each other’s Mad Libs repo. 
+Find a different partner from the think, pair, share and review each other’s Mad Libs repo.
 
 Look for areas to improve the quality of you and your partner’s code. Work together to update your code and make sure it adheres to the code quality ideas previously discussed:
 
@@ -62,16 +62,12 @@ Look for areas to improve the quality of you and your partner’s code. Work tog
     - **Try / Except / Else / Finally:** Review what each part does, and how it can provide a more structured approach to handling errors
 
 ### Resources
-- [Code review rubric]
 - Printable [code review rubric]
 
 ### Challenges
 Add error handling to your [Spaceman project] and improve code quality using the feedback you gained from the previous activity.
 
 Submit links to your GitHub commit(s) in the progress tracker that show these improvements by next class
-
-[Spaceman project]: ../Projects/Spaceman
-[code review rubric]: https://make.sc/code-review-rubric
 
 [code review rubric]: https://make.sc/code-review-rubric
 [MadLibs project]: ../Projects/MadLibs

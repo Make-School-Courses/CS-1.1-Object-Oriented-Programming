@@ -1,4 +1,4 @@
-# Object-Oriented Programming
+# Object-Oriented Programming Part 1: Encapsulation
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
