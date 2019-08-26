@@ -103,27 +103,19 @@ We want to encourage best practices that you will see working as a professional 
 Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
 
 
-## Evaluation
-
-To pass this course you must meet the following requirements:
-
-- Complete all required tutorials
-- Pass all projects according to the [Project Rubrics](https://make.sc/cs11-rubric)
-- Pass the final summative assessment.  Use the [Study Guide](https://make.sc/cs11-study-guide) to prepare
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+## Evaluation Criteria
 
 To pass this course, students must meet the following requirements:
 
 - Complete all required coding tutorials: 
-Captain Rainbow’s Color Checklist
-Superhero Team Dueler
+  - Captain Rainbow’s Color Checklist
+  - Superhero Team Dueler
 
 
 - Complete all required coding projects (this includes all commit requirements and homework related to each project): 
-Mad Libs
-Spaceman
-Herd Immunity
+  - Mad Libs
+  - Spaceman
+  - Herd Immunity
 
 - All tutorials and project rubrics can be found here
 
@@ -136,6 +128,8 @@ Herd Immunity
 - Actively participate in class and abide by the attendance policy
 
 - Make up all classwork from all absences
+
+## Evaluation Criteria Details
 
 - To pass each project or tutorial, students must earn the required number of points or higher indicated on the associated rubric. Note that all points within one project or tutorial submission are fungible (that is, interchangeable) and so if one portion of work is below the "Met All Expectations" column of the rubric, another portion of work submitted can "Exceed Expectations" (generally by completing stretch challenges) to earn an extra point to make up for the missing one. Therefore, it's wise to complete stretch challenges as "insurance" in case some work does not meet expectations. Coming to office hours is another way to earn fungible points.
 
