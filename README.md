@@ -131,7 +131,7 @@ To pass this course, students must meet the following requirements:
 
 ## Evaluation Criteria Explained
 
-- To pass each project or tutorial, students must earn the required number of points or higher indicated on the associated rubric. Note that all points within one project or tutorial submission are fungible (that is, interchangeable) and so if one portion of work is below the "Met All Expectations" column of the rubric, another portion of work submitted can "Exceed Expectations" (generally by completing stretch challenges) to earn an extra point to make up for the missing one. Therefore, it's wise to complete stretch challenges as "insurance" in case some work does not meet expectations. Coming to office hours is another way to earn fungible points.
+- To pass each project or tutorial, students must earn the required number of points or higher indicated on the associated rubric. Note that all points within one project or tutorial submission are fungible (that is, interchangeable) and so if one portion of work is below the "Met All Expectations" column of the rubric, another portion of work submitted can "Exceed Expectations" (generally by completing stretch challenges) to earn an extra point to make up for the missing one. Therefore, it's wise to complete stretch challenges as "insurance" in case some work does not meet expectations. Coming to office hours is another way to earn flexibility points.
 
 - Another way to think of the submissions is a game where your goal is to earn enough points to pass in whatever way you see fit, with rubrics as the rules of the game that you can optimize against and "win" to pass the course.
 
