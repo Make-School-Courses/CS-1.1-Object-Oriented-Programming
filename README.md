@@ -137,7 +137,7 @@ To pass this course, students must meet the following requirements:
 
 - The instructor or teaching assistants will review students' submissions and verify or correct their self-assessed scores, then share feedback with the student through a GitHub issue opened on their repository. Feedback will include their status on that submission (that is, whether their work is passing the rubric). Resubmissions will not be considered unless the instructor has approved a resubmission in writing due to exceptional circumstances. 
 
-- You are allowed up to 3 total slip days to turn in late assignments (cannot use them for the herd immunity project).
+- Submissions received after the due date will not be considered unless the instructor has approved an extension in writing due to exceptional circumstances.
 
 
 ## Resources
