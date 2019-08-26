@@ -1,4 +1,4 @@
-# CS 1.1: Intro to Progamming
+# CS 1.1: Intro to Programming
 
 ## Course Description
 
@@ -9,19 +9,9 @@ This course covers the fundamentals of programming including variables, data typ
 This course is designed to equip students with the technical skills and foundational knowledge necessary
 to succeed at Make School. A strong foundation in CS concepts is the foundation for learning in any other course.
 
-## Course Specifics
+## Prerequisites
 
--   Weeks to Completion: 7
--   Total Seat Hours: 37.5 hours
--   Total Out-of-Class Hours: 75 hours
--   Total Hours: 112.5 hours
--   Units: 3 units
--   Delivery Method: Residential
--   Class Sessions: 13 classes, 7 labs
-
-## Prerequisites:
-
-None.
+- Make School Prework or Ramp Program
 
 ## Learning Objectives
 
@@ -35,39 +25,48 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, October 22 – Wednesday, December 12, 2018 (7 weeks)
+**Course Dates:** Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 
-**Class Times:** Monday & Wednesday 3:30pm–5:20pm (13 class sessions)
+**Class Times for Sections A and B:**
+- Monday, Wednesday 1:30–3:20pm
+- Tuesday, Thursday, 9:30–11:20am
+- _Lab Time:_ Tuesday, 3:30–5:00pm
+- _Lab Time:_ Thursday, 1:30–3:00pm
 
-| Class |          Date          |              Topics               |
-|:-----:|:----------------------:|:---------------------------------:|
-|   1   |    Monday, October 22  | [Variables and Functions][]       |
-|   2   | Wednesday, October 24  | [Control Flow and Program Design][]|
-|   3   |    Monday, October 29  | [Code Quality and Pseudocode][]   |
-|   4   | Wednesday, October 31  | [Code Reuse and Error Handling][] |
-|   5   |    Monday, November 5  | [Object-Oriented Programming][]   |
-|   6   | Wednesday, November 7  | [Encapsulation and Inheritance][] |
-|   7   |    Monday, November 12 | [OOP Review][]                    |
-|   8   | Wednesday, November 14 | [Flowchart Diagrams][]            |
-|   9   |    Monday, November 26 | [Debugging and Testing][]         |
-|  10   | Wednesday, November 28 | [Herd Immunity Simulation][]      |
-|  11   |    Monday, December  3 | [Computer Components][]           |
-|  12   | Wednesday, December  5 | [CPU Instructions and Memory][]   |
-|  13   |    Monday, December 10 | Written Assessment (Final Exam)   |
-|  14   | Wednesday, December 12 | Herd Immunity Simulation Due      |
+**Class Times for Sections C and D:**
+- Monday, Wednesday 3:30–5:20pm
+- Tuesday, Thursday, 1:30–3:20pm
+- _Lab Time:_ Tuesday, 9:30–11:00am
+- _Lab Time:_ Thursday, 3:30–5:00pm
 
-[Variables and Functions]: Lessons/01-Variables-Functions.md
-[Control Flow and Program Design]: Lessons/02-Control-Flow.md
-[Code Quality and Pseudocode]: Lessons/03-Code-Quality-Pseudocode.md
-[Code Reuse and Error Handling]: Lessons/04-Code-Reuse-Error-Handling.md
-[Object-Oriented Programming]: Lessons/05-Object-Oriented-Programming.md
-[Encapsulation and Inheritance]: Lessons/06-OOP-Encapsulation-Inheritance.md
-[OOP Review]: Lessons/07-OOP-Review.md
-[Flowchart Diagrams]: Lessons/08-Flowcharts.md
-[Debugging and Testing]: Lessons/09-Debugging-Testing.md
-[Herd Immunity Simulation]: Lessons/10-Herd-Immunity.md
-[Computer Components]: Lessons/11-Computer-Components.md
-[CPU Instructions and Memory]: Lessons/12-CPU-Instructions-Memory.md
+| Class |     Date    |                  Topics                  |
+|:-----:|:-----------:|:----------------------------------------:|
+|   1   | Wed, Aug 28 | [Variables, Functions & Program Design][]|
+|   2   | Thu, Aug 29 | [Control Flow & Lists][]                 |
+|   3   | Tue, Sep  3 | [Pseudocode & Flowchart Diagrams][]      |
+|   4   | Mon, Sep  9 | [Problem Solving Strategy][]             |
+|   5   | Tue, Sep 10 | [Code Quality, Reuse & Error Handling][] |
+|   6   | Wed, Sep 11 | [Debugging & Testing][]                  |
+|   7   | Tue, Sep 17 | [OOP Part 1: Encapsulation][]            |
+|   8   | Mon, Sep 23 | [OOP Part 2: Inheritance][]              |
+|   9   | Tue, Sep 24 | [OOP Part 3: Polymorphism][]             |
+|  10   | Thu, Sep 26 | [Herd Immunity Simulation][]             |
+|  11   | Thu, Oct  3 | [Computer Components & Organization][]   |
+|  12   | Mon, Oct  7 | Herd Immunity Simulation Lab             |
+|  13   | Tue, Oct  8 | [CPU Instructions & Memory][]            |
+
+[Variables, Functions & Program Design]: Lessons/01-Variables-Functions-Program-Design.md
+[Control Flow & Lists]: Lessons/02-Control-Flow-Lists.md
+[Pseudocode & Flowchart Diagrams]: Lessons/03-Pseudocode-Flowchart-Diagrams.md
+[Problem Solving Strategy]: Lessons/04-Problem-Solving-Strategy.md
+[Code Quality, Reuse & Error Handling]: Lessons/05-Code-Quality-Reuse-Error-Handling.md
+[Debugging & Testing]: Lessons/06-Debugging-Testing.md
+[OOP Part 1: Encapsulation]: Lessons/07-OOP-1-Encapsulation.md
+[OOP Part 2: Inheritance]: Lessons/08-OOP-2-Inheritance.md
+[OOP Part 3: Polymorphism]: Lessons/09-OOP-3-Polymorphism.md
+[Herd Immunity Simulation]: Lessons/10-Herd-Immunity-Simulation.md
+[Computer Components & Organization]: Lessons/11-Computer-Components.md
+[CPU Instructions & Memory]: Lessons/12-CPU-Instructions-Memory.md
 
 
 ## Tutorials & Projects
