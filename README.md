@@ -141,7 +141,7 @@ Herd Immunity
 Another way to think of the submissions is a game where your goal is to earn enough points to pass in whatever way you see fit, with rubrics as the rules of the game that you can optimize against and "win" to pass the course.
 The instructor or teaching assistants will review students' submissions and verify or correct their self-assessed scores, then share feedback with the student through a GitHub issue opened on their repository. Feedback will include their status on that submission (that is, whether their work is passing the rubric). Resubmissions will not be considered unless the instructor has approved a resubmission in writing due to exceptional circumstances. 
 
-- You are allowed up to 2 total slip days to turn in late assignments (cannot use them for the herd immunity project).
+- You are allowed up to 3 total slip days to turn in late assignments (cannot use them for the herd immunity project).
 
 
 ## Resources
