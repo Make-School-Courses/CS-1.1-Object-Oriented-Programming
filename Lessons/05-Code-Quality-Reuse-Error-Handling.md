@@ -1,6 +1,6 @@
 # Code Quality, Reuse, and Error Handling
 
-[Slides](https://docs.google.com/presentation/d/12Njd_TwfxbXdjFYLLuxfUChu47ILU37_BsAXyqARlQc/preview)
+## [Slides](https://docs.google.com/presentation/d/12Njd_TwfxbXdjFYLLuxfUChu47ILU37_BsAXyqARlQc/edit?usp=sharing)
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
