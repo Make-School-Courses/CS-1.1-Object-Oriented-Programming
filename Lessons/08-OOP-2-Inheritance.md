@@ -1,5 +1,7 @@
 # Object-Oriented Programming Part 2: Inheritance
 
+## [Slides](https://docs.google.com/presentation/d/19HYyz1AGeSLnHCxKNOOT7YEiKMbBLFf0QChq1-8TiVI/edit?usp=sharing)
+
 ## Learning Objectives
 By the end of this lesson, students will be able to:
 - Appreciate why encapsulation and inheritance with OOP are useful in software design
