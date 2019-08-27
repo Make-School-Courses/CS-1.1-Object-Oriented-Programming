@@ -1,5 +1,7 @@
 # Pseudocode and Flowchart Diagrams
 
+## [Slides](https://docs.google.com/presentation/d/116ayscIQfWNcqvfF63pME5glw8byTGIW5ixtJXtmzhM/edit?usp=sharing)
+
 ## Learning Objectives
 By the end of this lesson, students will be able to:
 1. Appreciate the value of representing program flow with diagrams
