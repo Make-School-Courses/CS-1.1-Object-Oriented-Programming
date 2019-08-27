@@ -1,5 +1,7 @@
 # Object-Oriented Programming Part 3: Polymorphism
 
+## [Slides](https://docs.google.com/presentation/d/1wLoQ0G8TV9n3IIDOCRI8kl0Ch4Bb1KKZd_Lo1xJm8Tk/edit?usp=sharing)
+
 ## Learning Objectives
 By the end of this lesson, students will be able to:
 - Explain OOP concepts and define OOP-related technical vocabulary
