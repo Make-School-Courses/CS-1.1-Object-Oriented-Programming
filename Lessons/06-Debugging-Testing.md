@@ -1,5 +1,7 @@
 # Debugging and Testing
 
+## [Slides](https://docs.google.com/presentation/d/16MFAosC-VaPQT_kLTPPwFY0KpoAq4UZ6CKx-Y6Cn1w8/edit?usp=sharing)
+
 ## Learning Objectives
 By the end of this lesson, students will be able to:
 1. Read a Python stack trace
