@@ -30,4 +30,5 @@
 
 ## Homework
 - Finish all of Captain Rainbow by next class
+- Finish all of Mad Libs
 
