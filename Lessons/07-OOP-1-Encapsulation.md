@@ -1,5 +1,7 @@
 # Object-Oriented Programming Part 1: Encapsulation
 
+## [Slides](https://docs.google.com/presentation/d/1H3c4ZxOX5mkEFH6xJ4EUJOzenPrpa82tK3WBsNZA0NQ/edit?usp=sharing)
+
 ## Learning Objectives
 By the end of this lesson, students will be able to:
 - Appreciate why Object-Oriented Programming (OOP) is useful in software design
