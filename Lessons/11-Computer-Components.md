@@ -1,4 +1,4 @@
-# Computer Components and Moore's Law
+# Computer Components & Organization
 
 ## Learning Objectives
 By the end of this lesson, students will be able to:
