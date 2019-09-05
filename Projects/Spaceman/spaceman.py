@@ -12,7 +12,6 @@ def load_word():
     words_list = f.readlines()
     f.close()
 
-    words_list = words_list[0].split(' ')
     secret_word = random.choice(words_list)
     return secret_word
 
