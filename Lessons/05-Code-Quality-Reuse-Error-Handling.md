@@ -65,10 +65,9 @@ Look for areas to improve the quality of you and your partner’s code. Work tog
 - Printable [code review rubric]
 
 ### Homework
-- Add error handling to your [Spaceman project] and improve code quality using the feedback you gained from the previous activity.
-- Submit links to your GitHub commit(s) in the progress tracker that show these improvements by next class
-- Conduct a pair programming session on your GIF Search project
-- Update the progress tracker with the name of the person you held the code review with
+- Complete your [Spaceman project]!
+- **Optional Stretch Challenge:** Add error handling to your Spaceman project and improve code quality using the feedback you gained from the previous activity.
+    - Submit links to your GitHub commit(s) in the progress tracker that show these improvements by next class
 
 
 [code review rubric]: https://make.sc/code-review-rubric
