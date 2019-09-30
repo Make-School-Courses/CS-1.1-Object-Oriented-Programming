@@ -102,17 +102,53 @@ We want to encourage best practices that you will see working as a professional 
 
 Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
 
+### Assignment Submission
+
+To submit each project for feedback and grading, be sure to follow each step below:
+- Self-assess your project code against the evaluation criteria in the associated project rubric.
+- Submit your rubric scores with the appropriate submission form linked in the schedule below.
+- Update your entire row of the course progress tracker after submitting the form:
+  - [CS 1.1 Progress Tracker][]
+
+Refer to the assignment schedule below for the due date of each project.
+Submissions will be accepted until midnight on the due date.
+Late submissions will not be graded.
+
+[CS 1.1 Progress Tracker]: https://make.sc/cs11-progress
+
+### Assignment Schedule
+
+|                Assignment                | Date Assigned |   Date Due   |       Submission Form        |
+|:----------------------------------------:|:-------------:|:------------:|:----------------------------:|
+| [Captain Rainbow's Color Checklist][]    |  Wed, Aug 28  |  Tue, Sep 3  | [Submit Rainbow Checklist][] |
+| [Mad Libs][]                             |  Wed, Aug 28  |  Tue, Sep 3  | [Submit Mad Libs][]          |
+| [Spaceman][] + Code Review               |  Tue, Sep 3   |  Wed, Sep 11 | [Submit Spaceman][]          |
+| [Super Hero Team Dueler][] + Code Review |  Wed, Sep 18  |  Mon, Sep 30 | [Submit Superheroes][]       |
+| [Herd Immunity Simulation][]             |  Mon, Sep 30  |  Thu, Oct 10 | [Submit Herd Immunity][]     |
+
+[Captain Rainbow's Color Checklist]: https://make.sc/rainbow-checklist
+[Mad Libs]: https://make.sc/madlibs
+[Spaceman]: https://make.sc/spaceman
+[Super Hero Team Dueler]: https://make.sc/superhero-team-dueler
+[Herd Immunity Simulation]: https://make.sc/herd-immunity
+
+[Submit Rainbow Checklist]: https://make.sc/submit-rainbow-checklist
+[Submit Mad Libs]: https://make.sc/submit-mad-libs
+[Submit Spaceman]: https://make.sc/submit-spaceman
+[Submit Superheroes]: https://make.sc/submit-superheroes
+[Submit Herd Immunity]: https://make.sc/submit-herd-immunity
+
 
 ## Evaluation Criteria
 
 To pass this course, students must meet the following requirements:
 
-- Complete all required coding tutorials: 
+- Complete all required coding tutorials:
   - Captain Rainbow’s Color Checklist
   - Superhero Team Dueler
 
 
-- Complete all required coding projects (this includes all commit requirements and homework related to each project): 
+- Complete all required coding projects (this includes all commit requirements and homework related to each project):
   - Mad Libs
   - Spaceman
   - Herd Immunity
@@ -135,7 +171,7 @@ To pass this course, students must meet the following requirements:
 
 - Another way to think of the submissions is a game where your goal is to earn enough points to pass in whatever way you see fit, with rubrics as the rules of the game that you can optimize against and "win" to pass the course.
 
-- The instructor or teaching assistants will review students' submissions and verify or correct their self-assessed scores, then share feedback with the student through a GitHub issue opened on their repository. Feedback will include their status on that submission (that is, whether their work is passing the rubric). Resubmissions will not be considered unless the instructor has approved a resubmission in writing due to exceptional circumstances. 
+- The instructor or teaching assistants will review students' submissions and verify or correct their self-assessed scores, then share feedback with the student through a GitHub issue opened on their repository. Feedback will include their status on that submission (that is, whether their work is passing the rubric). Resubmissions will not be considered unless the instructor has approved a resubmission in writing due to exceptional circumstances.
 
 - Submissions received after the due date will not be considered unless the instructor has approved an extension in writing due to exceptional circumstances.
 
