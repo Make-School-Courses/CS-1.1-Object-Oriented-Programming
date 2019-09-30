@@ -39,21 +39,21 @@ Students by the end of the course will be able to ...
 - _Lab Time:_ Tuesday, 9:30–11:00am
 - _Lab Time:_ Thursday, 3:30–5:00pm
 
-| Class |     Date    |                  Topics                  |
-|:-----:|:-----------:|:----------------------------------------:|
+| Class |     Date    |              Lesson Topics               |                Quiz Topics                |
+|:-----:|:-----------:|:----------------------------------------:|:-----------------------------------------:|
 |   1   | Wed, Aug 28 | [Variables, Functions & Program Design][]|
 |   2   | Thu, Aug 29 | [Control Flow & Lists][]                 |
-|   3   | Tue, Sep  3 | [Pseudocode & Flowchart Diagrams][]      |
+|   3   | Tue, Sep  3 | [Pseudocode & Flowchart Diagrams][]      | Variables, Functions & Program Design <br/> Control Flow & Lists |
 |   4   | Mon, Sep  9 | [Problem Solving Strategy][]             |
 |   5   | Wed, Sep 11 | [Code Quality, Reuse & Error Handling][] |
 |   6   | Mon, Sep 16 | [Debugging & Testing][]                  |
-|   7   | Wed, Sep 18 | [OOP Part 1: Encapsulation][]            |
+|   7   | Wed, Sep 18 | [OOP Part 1: Encapsulation][]            | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling |
 |   8   | Mon, Sep 23 | [OOP Part 2: Inheritance][]              |
 |   9   | Wed, Sep 25 | [OOP Part 3: Polymorphism][]             |
 |  10   | Mon, Sep 30 | [Herd Immunity Simulation][]             |
-|  11   | Wed, Oct  2 | [Computer Components & Organization][]   |
+|  11   | Wed, Oct  2 | [Computer Components & Organization][]   | Debugging & Testing <br/> OOP Parts 1, 2 & 3 |
 |  12   | Mon, Oct  7 | [CPU Instructions & Memory][]            |
-|  13   | Wed, Oct  9 | Herd Immunity Simulation Lab             |
+|  13   | Wed, Oct  9 | Herd Immunity Simulation Lab             | Computer Components & Organization <br/> CPU Instructions & Memory |
 
 [Variables, Functions & Program Design]: Lessons/01-Variables-Functions-Program-Design.md
 [Control Flow & Lists]: Lessons/02-Control-Flow-Lists.md
