@@ -14,7 +14,7 @@ By the end of this lesson, students will be able to:
   - Line length and complexity
   - Formatting and indentation
   - Explanations in comments
-- Partner code review on [MadLibs project] (20 min)
+- Partner code review on [Mad Libs project] (20 min)
 
 Break (5 min)
 
@@ -31,5 +31,5 @@ Break (5 min)
 - [Spaceman project]
 
 [code review rubric]: https://make.sc/code-review-rubric
-[MadLibs project]: ../Projects/MadLibs
-[Spaceman project]: ../Projects/Spaceman
+[Mad Libs project]: https://make.sc/madlibs
+[Spaceman project]: https://make.sc/spaceman

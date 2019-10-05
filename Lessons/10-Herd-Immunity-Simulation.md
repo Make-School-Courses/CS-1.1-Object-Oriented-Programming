@@ -10,11 +10,11 @@ By the end of this lesson, students will be able to:
 - Watch video: [What Bill Gates is afraid of][Bills Fear] (5 min)
 - Read and discuss: [How Ebola Compares to Other Infectious Diseases][Infectious Diseases] (15 min)
 - Teacher Talk: Herd immunity, vaccinations, and simulations (20 min)
-- Introduce [Herd Immunity Project] (10 Min)
+- Introduce [Herd Immunity Simulation Project][] (10 Min)
 
 Break (5 min)
 
-## Explore Herd Immunity
+## Explore Herd Immunity Simulation Project
 - Project Overview (10 min)
 - Teacher Talk: Purpose of `Virus`, `Person`, `Simulator` and `Logger` (10 min)
 - Pair program: Create new `Virus` test (10 min)
@@ -27,7 +27,7 @@ Break (5 min)
 - The Guardian's article on [Infectious Diseases]
 
 ## Challenges
-- [Herd Immunity Project]
+- [Herd Immunity Simulation Project][]
   - Implement `Virus` and `Person` classes and write unit tests
 
 ## Stretch Challenges
@@ -37,4 +37,4 @@ Break (5 min)
 [Bills Fear]: https://www.youtube.com/watch?v=9AEMKudv5p0
 [Infectious Diseases]: https://www.theguardian.com/news/datablog/ng-interactive/2014/oct/15/visualised-how-ebola-compares-to-other-infectious-diseases
 
-[Herd Immunity Project]: ../Projects/HerdImmunity
+[Herd Immunity Simulation Project]: https://make.sc/herd-immunity

@@ -50,7 +50,7 @@ Students by the end of the course will be able to ...
 |   7   | Wed, Sep 18 | [OOP Part 1: Encapsulation][]            | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling |
 |   8   | Mon, Sep 23 | [OOP Part 2: Inheritance][]              |
 |   9   | Wed, Sep 25 | [OOP Part 3: Polymorphism][]             |
-|  10   | Mon, Sep 30 | [Herd Immunity Simulation][]             |
+|  10   | Mon, Sep 30 | [Herd Immunity & Simulation][]           |
 |  11   | Wed, Oct  2 | [Computer Components & Organization][]   | Debugging & Testing <br/> OOP Parts 1, 2 & 3 |
 |  12   | Mon, Oct  7 | [CPU Instructions & Memory][]            |
 |  13   | Wed, Oct  9 | Herd Immunity Simulation Lab             | Computer Components & Organization <br/> CPU Instructions & Memory |
@@ -64,7 +64,7 @@ Students by the end of the course will be able to ...
 [OOP Part 1: Encapsulation]: Lessons/07-OOP-1-Encapsulation.md
 [OOP Part 2: Inheritance]: Lessons/08-OOP-2-Inheritance.md
 [OOP Part 3: Polymorphism]: Lessons/09-OOP-3-Polymorphism.md
-[Herd Immunity Simulation]: Lessons/10-Herd-Immunity-Simulation.md
+[Herd Immunity & Simulation]: Lessons/10-Herd-Immunity-Simulation.md
 [Computer Components & Organization]: Lessons/11-Computer-Components.md
 [CPU Instructions & Memory]: Lessons/12-CPU-Instructions-Memory.md
 
@@ -75,16 +75,16 @@ Students by the end of the course will be able to ...
 
 Students will complete the following guided tutorials, which are intended to help you get started on new topics.  They are graded on completion only.
 
-- [Captain Rainbow's Color Checklist](https://make.sc/rainbow-checklist)
-- [Super Hero Team Dueler](http://make.sc/superhero-team-dueler)
+- [Captain Rainbow's Color Checklist][]
+- [Super Hero Team Dueler][]
 
 ### Projects
 
 Students will complete the following self-guided projects, which are meant to be more challenging than tutorials to test your understanding of concepts.
 
-- [Mad Libs](Projects/MadLibs)
-- [Spaceman](Projects/Spaceman)
-- [Herd Immunity Simulation](Projects/HerdImmunity)
+- [Mad Libs][]
+- [Spaceman][]
+- [Herd Immunity Simulation][]
 
 **The first two projects require a minimum of 5 commits, while the last project requires a minimum of 10 commits. Commits must take place throughout the period of time from when they are assigned to when they are due.**
 

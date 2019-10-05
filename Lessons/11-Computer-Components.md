@@ -29,7 +29,7 @@ Break (5 min)
 [slides]: https://make.sc/how-computers-work-1
 
 ## Challenges
-- Continue [Herd Immunity Project]
+- Continue [Herd Immunity Simulation Project][]
   - Implement `Simulation` class and write unit tests
 
-[Herd Immunity Project]: ../Projects/HerdImmunity
+[Herd Immunity Simulation Project]: https://make.sc/herd-immunity

@@ -35,7 +35,7 @@ Break (5 min)
 [worksheet]: https://make.sc/how-computers-work-2-activity
 
 ## Challenges
-- Continue [Herd Immunity Project]
+- Continue [Herd Immunity Simulation Project][]
   - Implement `Logger` class and write unit tests
 
-[Herd Immunity Project]: ../Projects/HerdImmunity
+[Herd Immunity Simulation Project]: https://make.sc/herd-immunity

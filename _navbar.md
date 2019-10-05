@@ -1,3 +1,3 @@
 *  **[Syllabus](README.md)**
-*  **[Tracker](https://www.makeschool.com)**
+*  **[Progress Tracker](https://make.sc/cs11-progress)**
 * [Make School](https://www.makeschool.com)

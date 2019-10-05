@@ -22,7 +22,7 @@ By the end of this lesson, students will be able to:
   - **Formatting and indentation:** While required in Python, other languages have no formatting and indentation requirements. Again, a computer doesn't see the difference, but your teammates will! Compare some poorly formatted HTML to properly formatted HTML
   - **Explanations in comments:** Commenting your code allows for others to be able to read and review functions you've written. A junior engineer should be able to look at your code (without knowledge of the codebase) and understand what's going on.
 
-### Partner code review on [MadLibs project]
+### Partner code review on [Mad Libs project]
 (20 min)
 
 Find a different partner from the think, pair, share and review each other’s Mad Libs repo.
@@ -71,5 +71,5 @@ Look for areas to improve the quality of you and your partner’s code. Work tog
 
 
 [code review rubric]: https://make.sc/code-review-rubric
-[MadLibs project]: ../Projects/MadLibs
-[Spaceman project]: ../Projects/Spaceman
+[Mad Libs project]: https://make.sc/madlibs
+[Spaceman project]: https://make.sc/spaceman

@@ -24,5 +24,5 @@ Break (5 min)
 ### Challenges
 - Continue [Spaceman project]
 
-[Spaceman project]: ../Projects/Spaceman
+[Spaceman project]: https://make.sc/spaceman
 [code review rubric]: https://make.sc/code-review-rubric

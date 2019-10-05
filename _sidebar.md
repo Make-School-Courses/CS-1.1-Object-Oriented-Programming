@@ -16,6 +16,6 @@
   - [Captain Rainbow's Color Checklist](https://make.sc/rainbow-checklist)
   - [Super Hero Team Dueler](http://make.sc/superhero-team-dueler)
 - **Projects**
-  - [Mad Libs](Projects/MadLibs)
-  - [Spaceman](Projects/Spaceman)
-  - [Herd Immunity Simulation](Projects/HerdImmunity)
+  - [Mad Libs](https://make.sc/madlibs)
+  - [Spaceman](https://make.sc/spaceman)
+  - [Herd Immunity Simulation](https://make.sc/herd-immunity)
