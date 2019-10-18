@@ -7,9 +7,11 @@ This course covers the fundamentals of programming including variables, data typ
 ## Important Links
 
 1. Quizzes will be evaluated using [the course page on gradescope](https://www.gradescope.com/)
-1. Assignments and Projects will be submitted using [the course page on trinket][]
+1. Assignments and Projects will be submitted using the [course page on trinket][]
 1. [Progress Tracker](https://docs.google.com/spreadsheets/d/1wcsF29-EIQpTDWGxiMIWpH8Rf3xgU2rg4qspEX2UERo/edit#gid=1456006823), this will have everyone's grades for the course
 1. [Vibe Check](https://docs.google.com/forms/d/e/1FAIpQLSeXVJACSgyOJAYN4qZ5evcNmxu_yhdehVrm_yXdt_EZByt5dA/viewform?usp=sf_link)
+
+[course page on trinket]: https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1
 
 ### Why you should know this
 
@@ -88,7 +90,7 @@ Read the rubric linked in the spec document to ensure your project meets all rub
 [Super Hero Team Dueler]: https://make.sc/superhero-team-dueler
 [Herd Immunity Simulation]: https://make.sc/herd-immunity
 
-[course page on trinket]: https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1
+
 
 ### Quizzes
 
@@ -99,6 +101,10 @@ Read the rubric linked in the spec document to ensure your project meets all rub
 | 3    |             | Wed, Dec 4  |
 
 ## Tutorials, Projects, & Exercises
+
+### 10 Minute Exercises
+
+After each class day students will be given a trinket exercise that will take approximately 10 minutes to complete and are due by midnight on the same day they are assigned. These exercises are no risk and will be graded based on if students attempted to solve the exercise. Completion of these exercises will help the intructor see what topics students are stuggling with so complete them on your own to the best of your ability and be sure to put what concepts you are confused about in the code comments!
 
 ### Tutorials
 
@@ -114,27 +120,13 @@ Students will complete the following self-guided projects, which are meant to be
 - [Create a Quiz][]
 - [Herd Immunity Simulation][]
 
-### 10 Minute Exercise
-
-After each class day students will be given a trinket exercise that will take approximately 10 minutes to complete and are due by midnight on the same day they are assigned. These exercises are no risk and will be graded based on if students attempted to solve the exercise. Completion of these exercises will help the intructor see what topics students are stuggling with so complete them on your own to the best of your ability and be sure to put what concepts you are confused about in the code comments!
-
 **The first two projects require a minimum of 5 commits, while the last project and superheros tutorial require a minimum of 10 commits. Commits must take place throughout the period of time from when they are assigned to when they are due.**
 
 - **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
 - **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
 - **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
 
-#### Why are we doing this?
-
-We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
-
-- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
-- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
-- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
-
-Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
-
-### Assignment Submission
+### Project and Tutorial Submission
 
 To submit each project for feedback and grading go to the [course page on trinket][] and be sure to follow each step below:
 - Self-assess your project code against the evaluation criteria in the associated rubric linked in the project assignment
@@ -144,13 +136,14 @@ To submit each project for feedback and grading go to the [course page on trinke
 Refer to the assignment schedule below for the due date of each project.
 Submissions will be accepted until midnight on the due date.
 Late submissions will not be graded.
-After you recieve graded feedback from the TA or instructor for each project and tutorial you will have a total of 2 days after you recieve your grade to fix any issues and resubmit for final grading. 
 
+### Project and Tutorial Resubmission Policy
+
+After you recieve graded feedback from the TA or instructor for each project and tutorial you have submitted on time you will have a total of 2 days after you recieve your grade to fix any issues and resubmit for final grading. 
 
 ### Quiz Policy
 
-A total of 3 paper and pencil quizzes will be given in class.If the student experiences an unexpected event such as a medical issue or a family emergency the student may be approved to retake the quiz during testing center hours within a week of when the quiz was given.
-To be approved to retake a missed quiz the student must communicate with the instructor prior to the quiz date. 
+A total of 3 paper and pencil quizzes will be given in class.If the student experiences an unexpected event such as a medical issue or a family emergency the student may be approved to retake the quiz during testing center hours within a week of when the quiz was given.To be approved to retake a missed quiz the student must communicate with the instructor prior to the quiz date. 
 
 ## Evaluation Criteria
 
