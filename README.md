@@ -6,9 +6,10 @@ This course covers the fundamentals of programming including variables, data typ
 
 ## Important Links
 
-1. Quizzes will be evaluated using [the course page on gradescope](https://www.gradescope.com/)
+
 1. Assignments and Projects will be submitted using the [course page on trinket][]
 1. [Progress Tracker](https://docs.google.com/spreadsheets/d/1wcsF29-EIQpTDWGxiMIWpH8Rf3xgU2rg4qspEX2UERo/edit#gid=1456006823), this will have project grades for the course
+1. Quizzes will be evaluated using [the course page on gradescope](https://www.gradescope.com/)
 1. [Vibe Check](https://docs.google.com/forms/d/e/1FAIpQLSeXVJACSgyOJAYN4qZ5evcNmxu_yhdehVrm_yXdt_EZByt5dA/viewform?usp=sf_link)
 
 [course page on trinket]: https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1
