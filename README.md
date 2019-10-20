@@ -37,27 +37,27 @@ Students by the end of the course will be able to ...
 ### Lessons
 **Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (8 weeks)
 
-**Class Times Section A:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
-**Class Times Section B:** Monday and Wednesday at 1:30–3:20pm (14 class sessions)
+**Class Times Section A:** Monday and Wednesday at 1:30–3:20pm (14 class sessions)
+**Class Times Section B:** Tuesday and Thursday at 9:30–11:20am (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, Oct 21             | [Variables, Print, Input, String Manipulation, Reading Errors] |
-|  2 |   Wed, Oct 23             | [Mathematical Operations, Booleans, Conditionals] |
-|  3 |   Mon, Oct 28             | [Loops & Lists] |
-|  4 |   Wed, Oct 30             | [Functions & Scoping] |
-|  5 |   Mon, Nov 4              | [Code Quality, Reuse & Error Handling] |
-|  6 |   Wed, Nov 6              | [Pseudocode, Flowcharts, & Problem Solving Strategy] |
-|  7 |   Mon, Nov 11             | [Dictionaries, File I/O, Command Line Args] |
-|  8 |   Wed, Nov 13             | [Debugging & Testing] |
-|  9 |   Mon, Nov 18             | [OOP Part 1: Encapsulation] |
-| 10 |   Wed, Nov 20             | [OOP Part 2: Inheritance] |  
-| 11 |   Mon, Nov 25             | [OOP Part 3: Polymorphism & Design]|
+|  1 |   Mon, Oct 21/Tue, Oct 22            | [Variables, Print, Input, String Manipulation, Reading Errors] |
+|  2 |   Wed, Oct 23/Thu, Oct 24             |  Mathematical Operations, Booleans, Conditionals |
+|  3 |   Mon, Oct 28/Tue, Oct 29            |  Loops, Lists, Functions  |
+|  4 |   Wed, Oct 30/Thu, Oct 31            |  Scoping, Code Quality, Reuse & Error Handling] |
+|  5 |   Mon, Nov 4/Tue, Nov 5            |  Pseudocode, Flowcharts, & Problem Solving Strategy |
+|  6 |   Wed, Nov 6/Thu, Nov 7             |  Dictionaries, File I/O, Command Line Args |
+|  7 |   Mon, Nov 11/Tue, Nov 8            |  Debugging & Testing |
+|  8 |   Wed, Nov 13/Thu, Nov 7             |  OOP Part 1: Encapsulation |
+|  9 |   Mon, Nov 18/Tue, Nov 12            |  OOP Part 2: Inheritance |
+| 10 |   Wed, Nov 20/Thu, Nov 21             |  OOP Part 3: Polymorphism & Design |  
+| 11 |   Mon, Nov 25/Tue, Nov 26             |  Herd Immunity & Simulation + Review Day |
 | -  |   Wed, Nov 27             | **NO CLASS** - Thanksgiving  |
-| 12 |   Mon, Dec 2              | [Herd Immunity & Simulation] |
-| 13 |   Wed, Dec 4              | [Herd Immunity Lab]  |
-| 14 |   Mon, Dec 9              | [Herd Immunity Lab]  |
-| 15 |   Wed, Dec 11             | [Computer Components & Organization]  |
+| 12 |   Mon, Dec 2/Tue, Dec 3              |  Herd Immunity Lab |
+| 13 |   Wed, Dec 4/Thu, Dec 5              |  Herd Immunity Lab  |
+| 14 |   Mon, Dec 9/Tue, Dec 10              |  Herd Immunity Lab  |
+| 15 |   Wed, Dec 11/Thu, Dec 12             |  Computer Components & Organization  |
 
 
 [Variables, Print, Input, String Manipulation, Reading Errors]: Lessons/01-Variables-Functions-Program-Design.md
@@ -82,7 +82,7 @@ Students by the end of the course will be able to ...
 |------------------------------|--------------------------|-------------|
 | [Backwards Poetry][]         | [Poetry Spec][]          | Wed, Oct 30 |
 | [Create a Quiz][]            | [Quiz Spec][]            | Mon, Nov 11 |
-| [Super Hero Team Dueler][]   | Super Hero Team Dueler[] | Mon, Dec 2  |
+| [Super Hero Team Dueler][]   | Super Hero Team Dueler[] | Wed, Nov 20  |
 | [Herd Immunity Simulation][] | [Herd Immunity Spec][]   | Mon, Dec 9  |
 
 Read the rubric linked in the spec document to ensure your project meets all rubric requirements before the due date.
