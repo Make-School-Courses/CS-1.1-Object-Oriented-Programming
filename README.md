@@ -8,7 +8,7 @@ This course covers the fundamentals of programming including variables, data typ
 
 1. Quizzes will be evaluated using [the course page on gradescope](https://www.gradescope.com/)
 1. Assignments and Projects will be submitted using the [course page on trinket][]
-1. [Progress Tracker](https://docs.google.com/spreadsheets/d/1wcsF29-EIQpTDWGxiMIWpH8Rf3xgU2rg4qspEX2UERo/edit#gid=1456006823), this will have everyone's grades for the course
+1. [Progress Tracker](https://docs.google.com/spreadsheets/d/1wcsF29-EIQpTDWGxiMIWpH8Rf3xgU2rg4qspEX2UERo/edit#gid=1456006823), this will have project grades for the course
 1. [Vibe Check](https://docs.google.com/forms/d/e/1FAIpQLSeXVJACSgyOJAYN4qZ5evcNmxu_yhdehVrm_yXdt_EZByt5dA/viewform?usp=sf_link)
 
 [course page on trinket]: https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1
@@ -35,7 +35,8 @@ Students by the end of the course will be able to ...
 ## Schedule
 
 ### Lessons
-**Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (8 weeks)
+**Course Dates A:** Monday, October 21 – Wednesday, December 11, 2019 (8 weeks)
+**Course Dates B:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
 
 **Class Times Section A:** Monday and Wednesday at 1:30–3:20pm (14 class sessions)
 **Class Times Section B:** Tuesday and Thursday at 9:30–11:20am (14 class sessions)
@@ -53,7 +54,7 @@ Students by the end of the course will be able to ...
 |  9 |   Mon, Nov 18/Tue, Nov 12            |  OOP Part 2: Inheritance |
 | 10 |   Wed, Nov 20/Thu, Nov 21             |  OOP Part 3: Polymorphism & Design |  
 | 11 |   Mon, Nov 25/Tue, Nov 26             |  Herd Immunity & Simulation + Review Day |
-| -  |   Wed, Nov 27             | **NO CLASS** - Thanksgiving  |
+| -  |   Wed, Nov 27/Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
 | 12 |   Mon, Dec 2/Tue, Dec 3              |  Herd Immunity Lab |
 | 13 |   Wed, Dec 4/Thu, Dec 5              |  Herd Immunity Lab  |
 | 14 |   Mon, Dec 9/Tue, Dec 10              |  Herd Immunity Lab  |
@@ -80,10 +81,10 @@ Students by the end of the course will be able to ...
 
 | Assignment                   | Spec                     | Due Date    |
 |------------------------------|--------------------------|-------------|
-| [Backwards Poetry][]         | [Poetry Spec][]          | Wed, Oct 30 |
-| [Create a Quiz][]            | [Quiz Spec][]            | Mon, Nov 11 |
-| [Super Hero Team Dueler][]   | Super Hero Team Dueler[] | Wed, Nov 20  |
-| [Herd Immunity Simulation][] | [Herd Immunity Spec][]   | Mon, Dec 9  |
+| Backwards Poetry         | Poetry Spec         | Fri, Nov 1 |
+| Create a Quiz            | Create a Quiz Spec            | Fri, Nov 15 |
+| Super Hero Team Dueler   | Super Hero Team Dueler | Fri, Nov 22  |
+| Herd Immunity Simulation | Herd Immunity Spec   | Tue, Dec 10  |
 
 Read the rubric linked in the spec document to ensure your project meets all rubric requirements before the due date.
 
@@ -96,29 +97,29 @@ Read the rubric linked in the spec document to ensure your project meets all rub
 
 | Quiz | Study Guide | Date        |
 |------|-------------|-------------|
-| 1    |             | Mon, Nov 4  |
-| 2    |             | Mon, Nov 18 |
-| 3    |             | Wed, Dec 4  |
+| 1    |     1        | Mon, Nov 4/Tue Nov 5  |
+| 2    |      2       | Mon, Nov 18/Tue Nov 19 |
+| 3    |       3      | Wed, Dec 4/Thu, Dec 5  |
 
 ## Tutorials, Projects, & Exercises
 
-### 10 Minute Exercises
+### 10 Minute No Risk Homework
 
-After each class day students will be given a trinket exercise that will take approximately 10 minutes to complete and are due by midnight on the same day they are assigned. These exercises are no risk and will be graded based on if students attempted to solve the exercise. Completion of these exercises will help the intructor see what topics students are stuggling with so complete them on your own to the best of your ability and be sure to put what concepts you are confused about in the code comments!
+After each class day students will be given a trinket exercise as a homework assignment that will take approximately 10 minutes to complete and are due by midnight on the same day they are assigned. These exercises are no risk and will be graded based on effort not on correctness. Completion of these exercises will help the intructor see what topics students are stuggling with so complete them on your own to the best of your ability and be sure to put what concepts you are confused about in the code comments!
 
 ### Tutorials
 
 Students will complete the following guided tutorials, which are intended to help you get started on new topics.  They are graded on completion only.
 
-- [Super Hero Team Dueler][]
+- Super Hero Team Dueler
 
 ### Projects
 
 Students will complete the following self-guided projects, which are meant to be more challenging than tutorials to test your understanding of concepts.
 
-- [Backwards Poetry][]
-- [Create a Quiz][]
-- [Herd Immunity Simulation][]
+- Backwards Poetry
+- Create a Quiz
+- Herd Immunity Simulation
 
 **The first two projects require a minimum of 5 commits, while the last project and superheros tutorial require a minimum of 10 commits. Commits must take place throughout the period of time from when they are assigned to when they are due.**
 
@@ -133,13 +134,13 @@ To submit each project for feedback and grading go to the [course page on trinke
 - Add your project github repo link to the trinket code as a comment
 
 
-Refer to the assignment schedule below for the due date of each project.
+Refer to the project schedule below for the due date of each project.
 Submissions will be accepted until midnight on the due date.
 Late submissions will not be graded.
 
 ### Project and Tutorial Resubmission Policy
 
-After you recieve graded feedback from the TA or instructor for each project and tutorial you have submitted on time you will have a total of 2 days after you recieve your grade to fix any issues and resubmit for final grading. 
+If you have submitted your project on time and have recieved at least a 2 on all rubric sections: after you recieve graded feedback from the TA or instructor you will have a total of 2 days after you recieve your grade to fix any issues and resubmit for final grading. 
 
 ### Quiz Policy
 
@@ -159,7 +160,7 @@ To pass this course, students must meet the following requirements:
 - Pass all quizzes (there will be a total of 3 quizzes, lowest quiz will be dropped)
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-- Attempt 10 after class exercises 
+- Complete 10 after class exercises 
 
 ### Evaluation Criteria Explained
 
