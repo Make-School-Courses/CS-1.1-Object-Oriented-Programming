@@ -46,7 +46,7 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, Oct 21/Tue, Oct 22            | [Variables, Print, Input, String Manipulation, Reading Errors] |
+|  1 |   Mon, Oct 21/Tue, Oct 22            | [Variables, Operations, Print, Input, Reading Errors] |
 |  2 |   Wed, Oct 23/Thu, Oct 24             |  Mathematical Operations, Booleans, Conditionals |
 |  3 |   Mon, Oct 28/Tue, Oct 29            |  Loops, Lists, Functions  |
 |  4 |   Wed, Oct 30/Thu, Oct 31            |  Scoping, Code Quality, Reuse & Error Handling] |
@@ -64,7 +64,7 @@ Students by the end of the course will be able to ...
 | 15 |   Wed, Dec 11/Thu, Dec 12             |  Computer Components & Organization  |
 
 
-[Variables, Print, Input, String Manipulation, Reading Errors]: https://docs.google.com/presentation/d/1u7v6paJXcLO19-its9vKNumqdNNrO3VPoKXVqR9wpIo/edit?usp=sharing
+[Variables, Operations, Print, Input, Reading Errors]: https://docs.google.com/presentation/d/1u7v6paJXcLO19-its9vKNumqdNNrO3VPoKXVqR9wpIo/edit?usp=sharing
 [Mathematical Operations, Booleans, Conditionals]: Lessons/02-Control-Flow-Lists.md
 [Loops & Lists]: Lessons/03-Pseudocode-Flowchart-Diagrams.md
 [Functions & Scoping]: Lessons/04-Problem-Solving-Strategy.md
