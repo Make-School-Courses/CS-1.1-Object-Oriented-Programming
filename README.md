@@ -64,7 +64,7 @@ Students by the end of the course will be able to ...
 | 15 |   Wed, Dec 11/Thu, Dec 12             |  Computer Components & Organization  |
 
 
-[Variables, Print, Input, String Manipulation, Reading Errors]: Lessons/01-Variables-Functions-Program-Design.md
+[Variables, Print, Input, String Manipulation, Reading Errors]: (https://docs.google.com/presentation/d/1u7v6paJXcLO19-its9vKNumqdNNrO3VPoKXVqR9wpIo/edit?usp=sharing)
 [Mathematical Operations, Booleans, Conditionals]: Lessons/02-Control-Flow-Lists.md
 [Loops & Lists]: Lessons/03-Pseudocode-Flowchart-Diagrams.md
 [Functions & Scoping]: Lessons/04-Problem-Solving-Strategy.md
