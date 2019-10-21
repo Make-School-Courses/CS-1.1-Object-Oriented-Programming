@@ -1,4 +1,5 @@
 - **[Syllabus](README.md)**
+<!---
 - **Lessons**
   - [Variables, Functions & Program Design](Lessons/01-Variables-Functions-Program-Design.md)
   - [Control Flow & Lists](Lessons/02-Control-Flow-Lists.md)
@@ -19,3 +20,4 @@
   - [Mad Libs](https://make.sc/madlibs)
   - [Spaceman](https://make.sc/spaceman)
   - [Herd Immunity Simulation](https://make.sc/herd-immunity)
+-->
