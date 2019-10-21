@@ -14,6 +14,8 @@ This course covers the fundamentals of programming including variables, data typ
 
 [course page on trinket]: https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1
 
+
+
 ### Why you should know this
 
 This course is designed to equip students with the technical skills and foundational knowledge necessary
@@ -34,6 +36,12 @@ Students by the end of the course will be able to ...
 1. Implement programming best practices, debugging, and testing in Python.
 
 ## Schedule
+
+### Office Hours 
+
+**Instructor (Jess Dahmen):** Thursdays from 1:30 pm - 3:00 pm (programming lab in the Mezzanine)
+
+**TA:** TBD
 
 ### Lessons
 **Course Dates A:** Monday, October 21 – Wednesday, December 11, 2019 (8 weeks)
