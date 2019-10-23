@@ -92,7 +92,7 @@ Students by the end of the course will be able to ...
 
 | Assignment                   | Spec                     | Due Date    |
 |------------------------------|--------------------------|-------------|
-| Backwards Poetry         | Poetry Spec         | Fri, Nov 1 |
+| Backwards Poetry         | Poetry Spec         | Thur, Nov 7 |
 | Create a Quiz            | Create a Quiz Spec            | Fri, Nov 15 |
 | Super Hero Team Dueler   | Super Hero Team Dueler | Fri, Nov 22  |
 | Herd Immunity Simulation | Herd Immunity Spec   | Tue, Dec 10  |
@@ -117,6 +117,11 @@ Read the rubric linked in the spec document to ensure your project meets all rub
 ### 10 Minute No Risk Homework
 
 After each class day students will be given a trinket exercise as a homework assignment that will take approximately 10 minutes to complete and are due by midnight on the same day they are assigned. These exercises are no risk and will be graded based on effort not on correctness. Completion of these exercises will help the intructor see what topics students are stuggling with so complete them on your own to the best of your ability and be sure to put what concepts you are confused about in the code comments!
+
+| Hw | Date        |
+|------|-------------|
+| [1](https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1#/variables-operations-print-input-reading-errors/homework-1)    | Mon, Oct 21/Tue, Oct 22  |
+| [2](https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1#/mathematical-operations-booleans-conditionals/homework-2)    | Wed, Oct 23/Thu, Oct 24  |
 
 ### Tutorials
 
