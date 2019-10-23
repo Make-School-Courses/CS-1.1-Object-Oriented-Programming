@@ -84,7 +84,7 @@ Students by the end of the course will be able to ...
 
 | Assignment                   | Spec                     | Due Date    |
 |------------------------------|--------------------------|-------------|
-| Backwards Poetry         | Poetry Spec         | Fri, Nov 1 |
+| Backwards Poetry         | Poetry Spec         | Thur, Nov 7 |
 | Create a Quiz            | Create a Quiz Spec            | Fri, Nov 15 |
 | Super Hero Team Dueler   | Super Hero Team Dueler | Fri, Nov 22  |
 | Herd Immunity Simulation | Herd Immunity Spec   | Tue, Dec 10  |
