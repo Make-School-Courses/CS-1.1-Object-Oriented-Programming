@@ -48,9 +48,9 @@ Students by the end of the course will be able to ...
 
 **Course Dates B:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
 
-**Class Times Section A:** Monday and Wednesday at 1:30–3:20pm (14 class sessions)
+**Class Times Section A:** Monday and Wednesday at 1:30–3:20pm (15 class sessions)
 
-**Class Times Section B:** Tuesday and Thursday at 9:30–11:20am (14 class sessions)
+**Class Times Section B:** Tuesday and Thursday at 9:30–11:20am (15 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
