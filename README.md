@@ -55,7 +55,7 @@ Students by the end of the course will be able to ...
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |   Mon, Oct 21/Tue, Oct 22            | [Variables, Operations, Print, Input, Reading Errors] |
-|  2 |   Wed, Oct 23/Thu, Oct 24             |  Mathematical Operations, Booleans, Conditionals |
+|  2 |   Wed, Oct 23/Thu, Oct 24             |  [None, Booleans, and Conditionals] |
 |  3 |   Mon, Oct 28/Tue, Oct 29            |  Loops, Lists, Functions  |
 |  4 |   Wed, Oct 30/Thu, Oct 31            |  Scoping, Code Quality, Reuse & Error Handling] |
 |  5 |   Mon, Nov 4/Tue, Nov 5            |  Pseudocode, Flowcharts, & Problem Solving Strategy |
@@ -73,7 +73,7 @@ Students by the end of the course will be able to ...
 
 
 [Variables, Operations, Print, Input, Reading Errors]: https://docs.google.com/presentation/d/1u7v6paJXcLO19-its9vKNumqdNNrO3VPoKXVqR9wpIo/edit?usp=sharing
-[Mathematical Operations, Booleans, Conditionals]: Lessons/02-Control-Flow-Lists.md
+[None, Booleans, and Conditionals]: https://docs.google.com/presentation/d/1JeBxiDdG5cHW_UNYioPpUSE5PectIMqPlAapCUdq5yc/edit#slide=id.g6f593e5740_0_80
 [Loops & Lists]: Lessons/03-Pseudocode-Flowchart-Diagrams.md
 [Functions & Scoping]: Lessons/04-Problem-Solving-Strategy.md
 [Code Quality, Reuse & Error Handling]: Lessons/05-Code-Quality-Reuse-Error-Handling.md
