@@ -56,8 +56,8 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |   Mon, Oct 21/Tue, Oct 22            | [Variables, Operations, Print, Input, Reading Errors] |
 |  2 |   Wed, Oct 23/Thu, Oct 24             |  [Booleans and Conditionals] |
-|  3 |   Mon, Oct 28/Tue, Oct 29            |  Loops, Lists, Functions, None|
-|  4 |   Wed, Oct 30/Thu, Oct 31            |  Scoping, Code Quality, Reuse & Error Handling] |
+|  3 |   Mon, Oct 28/Tue, Oct 29            |  [Loops, Lists, Functions, & None]|
+|  4 |   Wed, Oct 30/Thu, Oct 31            |  Scoping, Code Quality, Reuse & Error Handling |
 |  5 |   Mon, Nov 4/Tue, Nov 5            |  Pseudocode, Flowcharts, & Problem Solving Strategy |
 |  6 |   Wed, Nov 6/Thu, Nov 7             |  Dictionaries, File I/O, Command Line Args |
 |  7 |   Mon, Nov 11/Tue, Nov 8            |  Debugging & Testing |
@@ -74,7 +74,7 @@ Students by the end of the course will be able to ...
 
 [Variables, Operations, Print, Input, Reading Errors]: https://docs.google.com/presentation/d/1u7v6paJXcLO19-its9vKNumqdNNrO3VPoKXVqR9wpIo/edit?usp=sharing
 [Booleans and Conditionals]: https://docs.google.com/presentation/d/1JeBxiDdG5cHW_UNYioPpUSE5PectIMqPlAapCUdq5yc/edit#slide=id.g6f593e5740_0_80
-[Loops & Lists]: Lessons/03-Pseudocode-Flowchart-Diagrams.md
+[Loops, Lists, Functions, & None]: https://docs.google.com/presentation/d/1C5BddEG1UX2vGmM8--tgPNq82VUYY1JVw-r6WHQ35Cc/edit#slide=id.p1
 [Functions & Scoping]: Lessons/04-Problem-Solving-Strategy.md
 [Code Quality, Reuse & Error Handling]: Lessons/05-Code-Quality-Reuse-Error-Handling.md
 [Pseudocode, Flowcharts, & Problem Solving Strategy]: Lessons/06-Debugging-Testing.md
