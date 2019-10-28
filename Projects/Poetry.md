@@ -67,7 +67,7 @@ in the poem (line numbers don't need to be printed). Hint: try using a loop and 
 1. Modify your program to randomly rearrange the words on each line
 
 ## Rubric
-This project will be graded using the following rubric: <tbd>
+This project will be graded using [this rubric](https://www.makeschool.com/rubrics/UnVicmljLTg3)
 
 ## Commit Requirements
 
