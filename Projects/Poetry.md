@@ -22,7 +22,7 @@ From the day this project is assigned, you will have approximately **1 week** to
 
 **Important note:** “Day 01” refers to the first calendar day of the project being assigned, and subsequent days will follow this reference:
 
-- Day 01: Project assigned, read the project spec, ask any clarifying questions you may have, begin designing how you would implement the project
+- Day 01: Project assigned, read the project spec, ask any clarifying questions you may have, begin designing how you would implement the project, set up your repo
 - Day 03: Build lines_printed_backwards() function
 - Day 05: Build lines_printed_random() function
 - Day 06: Build a rearrange function of your choice
