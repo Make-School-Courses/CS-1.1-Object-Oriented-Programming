@@ -57,7 +57,7 @@ then your function will print:
 print them out in random order. Repeats are okay and the number of lines printed should be equal to the original number of lines
 in the poem (line numbers don't need to be printed). Hint: try using a loop and randint()
 
-4. Your code should implement a function of your choice that rearranges the poem in a unique way, be creative!
+4. Your code should implement a function of your choice that rearranges the poem in a unique way, be creative! Make sure that you carefully comment your custom function so it's clear what it does.
 
 5. Feel free to use any poem of your choice.
 
