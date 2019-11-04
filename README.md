@@ -58,7 +58,7 @@ Students by the end of the course will be able to ...
 |  2 |   Wed, Oct 23/Thu, Oct 24             |  [Booleans and Conditionals] |
 |  3 |   Mon, Oct 28/Tue, Oct 29            |  [Loops, Lists, Functions, & None]|
 |  4 |   Wed, Oct 30/Thu, Oct 31            |  [Scoping, Code Quality, Reuse & Error Handling] |
-|  5 |   Mon, Nov 4/Tue, Nov 5            |  Pseudocode, Flowcharts, & Problem Solving Strategy |
+|  5 |   Mon, Nov 4/Tue, Nov 5            |  [Pseudocode, Flowcharts, & Problem Solving Strategy] |
 |  6 |   Wed, Nov 6/Thu, Nov 7             |  Dictionaries, File I/O, Command Line Args |
 |  7 |   Mon, Nov 11/Tue, Nov 8            |  Debugging & Testing |
 |  8 |   Wed, Nov 13/Thu, Nov 7             |  OOP Part 1: Encapsulation |
@@ -76,8 +76,7 @@ Students by the end of the course will be able to ...
 [Booleans and Conditionals]: https://docs.google.com/presentation/d/1JeBxiDdG5cHW_UNYioPpUSE5PectIMqPlAapCUdq5yc/edit#slide=id.g6f593e5740_0_80
 [Loops, Lists, Functions, & None]: https://docs.google.com/presentation/d/1C5BddEG1UX2vGmM8--tgPNq82VUYY1JVw-r6WHQ35Cc/edit#slide=id.p1
 [Scoping, Code Quality, Reuse & Error Handling]: https://docs.google.com/presentation/d/15eOVtMCcPRLQuGQ9H1nZFCe8Cob88otrExWdCWoTpt0/edit#slide=id.g5df54035c8_2_170
-[Code Quality, Reuse & Error Handling]: Lessons/05-Code-Quality-Reuse-Error-Handling.md
-[Pseudocode, Flowcharts, & Problem Solving Strategy]: Lessons/06-Debugging-Testing.md
+[Pseudocode, Flowcharts, & Problem Solving Strategy]: https://docs.google.com/presentation/d/1Zu0ZtOvVdkk27HXXmqkdT2pzBQRId0IoshbipiF7lGI/edit#slide=id.p
 [Dictionaries, File I/O, Command Line Args]: Lessons/07-OOP-1-Encapsulation.md
 [Debugging & Testing]: Lessons/08-OOP-2-Inheritance.md
 [OOP Part 1: Encapsulation]: Lessons/09-OOP-3-Polymorphism.md
