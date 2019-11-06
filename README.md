@@ -123,6 +123,8 @@ After each class day students will be given a trinket exercise as a homework ass
 | [2](https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1#/mathematical-operations-booleans-conditionals/homework-2)    | Wed, Oct 23/Thu, Oct 24  |
 | [3](https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1#/lists-loops-functions-and-none/homework-3)    | Mon, Oct 28/Tu, Oct 29  |
 | [4](https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1#/scoping-error-handling-code-quality-and-reuse/homework-4)    | Mon, Nov 4/Tu, Nov 5  |
+| [5](https://trinket.io/jess-dahmen-makeschool-com/courses/cs-1-1#/dictionaries-and-file-i-o/homework-5)    | Wed, Nov 6/Thur, Nov 7  |
+
 
 ### Tutorials
 
