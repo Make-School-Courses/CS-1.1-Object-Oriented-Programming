@@ -18,7 +18,7 @@ By completing this project, you should be able to…
 
 ## Requirements
 
-[Click here]https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/QuizExamples.txt) for some example program runs
+[Click here](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/QuizExamples.txt) for some example program runs
 
 Your quiz must contain at least 5 questions. These 5 questions include at least 2 of each of the following
 different types of questions:
