@@ -60,7 +60,7 @@ Students by the end of the course will be able to ...
 |  4 |   Wed, Oct 30/Thu, Oct 31            |  [Scoping, Code Quality, Reuse & Error Handling] |
 |  5 |   Mon, Nov 4/Tue, Nov 5            |  [Pseudocode, Flowcharts, & Problem Solving Strategy] |
 |  6 |   Wed, Nov 6/Thu, Nov 7             |  [Dictionaries & File I/O] |
-|  7 |   Mon, Nov 11/Tue, Nov 8            |  Debugging & Testing |
+|  7 |   Mon, Nov 11/Tue, Nov 8            |  [Debugging & Testing] |
 |  8 |   Wed, Nov 13/Thu, Nov 7             |  OOP Part 1: Encapsulation |
 |  9 |   Mon, Nov 18/Tue, Nov 12            |  OOP Part 2: Inheritance |
 | 10 |   Wed, Nov 20/Thu, Nov 21             |  OOP Part 3: Polymorphism & Design |  
@@ -78,7 +78,7 @@ Students by the end of the course will be able to ...
 [Scoping, Code Quality, Reuse & Error Handling]: https://docs.google.com/presentation/d/15eOVtMCcPRLQuGQ9H1nZFCe8Cob88otrExWdCWoTpt0/edit#slide=id.g5df54035c8_2_170
 [Pseudocode, Flowcharts, & Problem Solving Strategy]: https://docs.google.com/presentation/d/1Zu0ZtOvVdkk27HXXmqkdT2pzBQRId0IoshbipiF7lGI/edit#slide=id.p
 [Dictionaries & File I/O]: https://docs.google.com/presentation/d/16pBudRTgP4mNksqsnYdKXSfasvE4a-FpHpcw4TOftaM/edit#slide=id.g70a74db5c1_0_59
-[Debugging & Testing]: Lessons/08-OOP-2-Inheritance.md
+[Debugging & Testing]: https://docs.google.com/presentation/d/1rFzKKhnPF0GfN-pSc8M-pAyz2b1faCbAD-s2Go7an3g/edit#slide=id.p
 [OOP Part 1: Encapsulation]: Lessons/09-OOP-3-Polymorphism.md
 [OOP Part 2: Inheritance]: Lessons/10-Herd-Immunity-Simulation.md
 [OOP Part 3: Polymorphism]: Lessons/11-Computer-Components.md
