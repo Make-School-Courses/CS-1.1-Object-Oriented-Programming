@@ -108,7 +108,7 @@ Read the rubric linked in the spec document to ensure your project meets all rub
 | Quiz | Study Guide | Date        |
 |------|-------------|-------------|
 | 1    |     [1](https://docs.google.com/document/d/1oVCeAxf1GH6jnXB9qsWfvc4EOYTni24gWkTd3Jtn56Y/edit)        | Mon, Nov 4/Tue Nov 5  |
-| 2    |      2       | Mon, Nov 18/Tue Nov 19 |
+| 2    |      [2](https://docs.google.com/document/d/1NZ8k5hr2J6sy41ANsyU0U0V97BjipXjW1wDUo8cR86g/edit)     | Mon, Nov 18/Tue Nov 19 |
 | 3    |       3      | Wed, Dec 4/Thu, Dec 5  |
 
 ## Tutorials, Projects, & Exercises
