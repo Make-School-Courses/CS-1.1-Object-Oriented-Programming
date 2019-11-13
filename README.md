@@ -60,13 +60,13 @@ Students by the end of the course will be able to ...
 |  4 |   Wed, Oct 30/Thu, Oct 31            |  [Scoping, Code Quality, Reuse & Error Handling] |
 |  5 |   Mon, Nov 4/Tue, Nov 5            |  [Pseudocode, Flowcharts, & Problem Solving Strategy] |
 |  6 |   Wed, Nov 6/Thu, Nov 7             |  [Dictionaries & File I/O] |
-|  7 |   Mon, Nov 11/Tue, Nov 8            |  [Debugging & Testing] |
-|  8 |   Wed, Nov 13/Thu, Nov 7             |  OOP Part 1: Encapsulation |
-|  9 |   Mon, Nov 18/Tue, Nov 12            |  OOP Part 2: Inheritance |
-| 10 |   Wed, Nov 20/Thu, Nov 21             |  OOP Part 3: Polymorphism & Design |  
-| 11 |   Mon, Nov 25/Tue, Nov 26             |  Herd Immunity & Simulation + Review Day |
+|  7 |   Mon, Nov 11/Tue, Nov 8            | Review Day |
+|  8 |   Wed, Nov 13/Thu, Nov 7             | [Debugging & Testing]  |
+|  9 |   Mon, Nov 18/Tue, Nov 12            |  OOP Part 1: Encapsulation  |
+| 10 |   Wed, Nov 20/Thu, Nov 21             | OOP Part 2: Inheritance  |  
+| 11 |   Mon, Nov 25/Tue, Nov 26             | OOP Part 3: Polymorphism & Design  |
 | -  |   Wed, Nov 27/Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
-| 12 |   Mon, Dec 2/Tue, Dec 3              |  Herd Immunity Lab |
+| 12 |   Mon, Dec 2/Tue, Dec 3              |  Herd Immunity & Simulation + Review Day |
 | 13 |   Wed, Dec 4/Thu, Dec 5              |  Herd Immunity Lab  |
 | 14 |   Mon, Dec 9/Tue, Dec 10              |  Herd Immunity Lab  |
 | 15 |   Wed, Dec 11/Thu, Dec 12             |  Computer Components & Organization  |
