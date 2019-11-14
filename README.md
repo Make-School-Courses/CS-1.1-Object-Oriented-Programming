@@ -92,7 +92,7 @@ Students by the end of the course will be able to ...
 | Assignment                   | Spec                     | Due Date    |
 |------------------------------|--------------------------|-------------|
 | Backwards Poetry         | [Poetry Spec](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/Poetry.md)         | Friday, Nov 8 |
-| Create a Quiz            | [Create a Quiz Spec](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/quizfan.md)            | Mon, Nov 18 |
+| Create a Quiz            | [Create a Quiz Spec](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/quizfan.md)            | Tue, Nov 19 |
 | Super Hero Team Dueler   | Super Hero Team Dueler | Mon, Dec 2  |
 | Herd Immunity Simulation | Herd Immunity Spec   | Tue, Dec 10  |
 
