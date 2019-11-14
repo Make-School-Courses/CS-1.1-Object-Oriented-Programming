@@ -55,9 +55,7 @@ How many states are there in the United States? Please enter an integer.
 Note: The answer is 50!
 
 ### True/False (Boolean)
-The user enters 1 or 0 in response to a statement. Convert the string returned by input() into an integer,
-and then into a Boolean with the bool() type cast. Then compare the response to the reserved keywords
-True or False.
+The user enters 1 or 0 in response to a true or false statement. Compare the response to the correct answer and return a 1 if they got it right and a 0 if not. 
 
 Example:
 
