@@ -26,7 +26,7 @@ The program consists of 4 classes: `Person`, `Virus`, `Simulation`, and `FileWri
 
 * `did_survive_infection:` checks wheter the person survived the infection based on the mortality rate
 
-1. You will need to complete the following methods inside the Simulation class (more details in the starter code):
+2. You will need to complete the following methods inside the Simulation class (more details in the starter code):
 
 * `print_population:` prints out each person in the population
 
@@ -40,11 +40,11 @@ The program consists of 4 classes: `Person`, `Virus`, `Simulation`, and `FileWri
 
 * `interaction:` this is where a random person may become infected or vaccinated
 
-1. The Virus and FileWriter classes have already been completed.
+3. The Virus and FileWriter classes have already been completed.
 
-1. You will need to write two or more pieces of test code for any part of the program, using pytest is optional. 
+4. You will need to write two or more pieces of test code for any part of the program, using pytest is optional. 
 
-1. You will also need to submit two result files simulating a population of 10 and then a population of 100. You are free to make up any virus's you choose.
+5. You will also need to submit two result files simulating a population of 10 and then a population of 100. You are free to make up any virus's you choose.
 
 ## Project Submission
 
