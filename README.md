@@ -63,7 +63,7 @@ Students by the end of the course will be able to ...
 |  7 |   Mon, Nov 11/Tue, Nov 8            | Review Day |
 |  8 |   Wed, Nov 13/Thu, Nov 7             | [Debugging & Testing]  |
 |  9 |   Mon, Nov 18/Tue, Nov 12            |  [OOP Part 1: Encapsulation]  |
-| 10 |   Wed, Nov 20/Thu, Nov 21             | OOP Part 2: Inheritance  |  
+| 10 |   Wed, Nov 20/Thu, Nov 21             | [OOP Part 2: Inheritance]  |  
 | 11 |   Mon, Nov 25/Tue, Nov 26             | OOP Part 3: Polymorphism & Design  |
 | -  |   Wed, Nov 27/Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
 | 12 |   Mon, Dec 2/Tue, Dec 3              |  Herd Immunity & Simulation + Review Day |
@@ -80,7 +80,7 @@ Students by the end of the course will be able to ...
 [Dictionaries & File I/O]: https://docs.google.com/presentation/d/16pBudRTgP4mNksqsnYdKXSfasvE4a-FpHpcw4TOftaM/edit#slide=id.g70a74db5c1_0_59
 [Debugging & Testing]: https://docs.google.com/presentation/d/1rFzKKhnPF0GfN-pSc8M-pAyz2b1faCbAD-s2Go7an3g/edit#slide=id.p
 [OOP Part 1: Encapsulation]: https://docs.google.com/presentation/d/10VhNa-L6ssFCHEOQdKbX4118eGvyis_HzwAPqeip34o/edit#slide=id.g6037b114b4_0_11
-[OOP Part 2: Inheritance]: Lessons/10-Herd-Immunity-Simulation.md
+[OOP Part 2: Inheritance]: https://docs.google.com/presentation/d/1SGW-vPHIXtaUnzUiGg9kgGA48S2_SympuOpezWujl44/edit
 [OOP Part 3: Polymorphism]: Lessons/11-Computer-Components.md
 [OOP Part 4: Design and Composition]: Lessons/12-CPU-Instructions-Memory.md
 [Herd Immunity & Simulation]: Lessons/12-CPU-Instructions-Memory.md
