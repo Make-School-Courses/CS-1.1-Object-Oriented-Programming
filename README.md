@@ -94,7 +94,7 @@ Students by the end of the course will be able to ...
 | Backwards Poetry         | [Poetry Spec](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/Poetry.md)         | Friday, Nov 8 |
 | Create a Quiz            | [Create a Quiz Spec](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/quizfan.md)            | Tue, Nov 19 |
 | Super Hero Team Dueler   | [Super Hero Team Dueler](https://www.makeschool.com/academy/track/superhero-team-dueler) | Wed, Dec 4  |
-| Herd Immunity Simulation | Herd Immunity Spec   | Tue, Dec 10  |
+| Herd Immunity Simulation | [Herd Immunity Spec](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/tree/master/Projects/herdimmunity_starter_term2_2019)   | Tue, Dec 10  |
 
 Read the rubric linked in the spec document to ensure your project meets all rubric requirements before the due date.
 
