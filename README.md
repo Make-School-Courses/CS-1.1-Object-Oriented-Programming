@@ -66,7 +66,7 @@ Students by the end of the course will be able to ...
 | 10 |   Wed, Nov 20/Thu, Nov 21             | [OOP Part 2: Inheritance]  |  
 | 11 |   Mon, Nov 25/Tue, Nov 26             | [OOP Part 3: Polymorphism & Design]  |
 | -  |   Wed, Nov 27/Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
-| 12 |   Mon, Dec 2/Tue, Dec 3              |  Herd Immunity & Simulation + Review Day |
+| 12 |   Mon, Dec 2/Tue, Dec 3              |  [Herd Immunity & Simulation] + Review Day |
 | 13 |   Wed, Dec 4/Thu, Dec 5              |  Herd Immunity Lab  |
 | 14 |   Mon, Dec 9/Tue, Dec 10              |  Herd Immunity Lab  |
 | 15 |   Wed, Dec 11/Thu, Dec 12             |  Computer Components & Organization  |
@@ -83,7 +83,7 @@ Students by the end of the course will be able to ...
 [OOP Part 2: Inheritance]: https://docs.google.com/presentation/d/1SGW-vPHIXtaUnzUiGg9kgGA48S2_SympuOpezWujl44/edit
 [OOP Part 3: Polymorphism & Design]: https://docs.google.com/presentation/d/18XaI2oJKCktavWKOeWtkfd1n7sOQYvMRTCI7oz-wfoI/edit#slide=id.g7939982a05_0_154
 [OOP Part 4: Design and Composition]: Lessons/12-CPU-Instructions-Memory.md
-[Herd Immunity & Simulation]: Lessons/12-CPU-Instructions-Memory.md
+[Herd Immunity & Simulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/10-Herd-Immunity-Simulation.md
 [Computer Components & Organization]: Lessons/12-CPU-Instructions-Memory.md
 [Herd Immunity Lab]: Lessons/12-CPU-Instructions-Memory.md
 
