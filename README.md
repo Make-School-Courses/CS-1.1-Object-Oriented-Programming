@@ -69,7 +69,7 @@ Students by the end of the course will be able to ...
 | 12 |   Mon, Dec 2/Tue, Dec 3              |  [Herd Immunity & Simulation] + Review Day |
 | 13 |   Wed, Dec 4/Thu, Dec 5              |  Herd Immunity Lab  |
 | 14 |   Mon, Dec 9/Tue, Dec 10              |  Herd Immunity Lab  |
-| 15 |   Wed, Dec 11/Thu, Dec 12             |  Computer Components & Organization  |
+| 15 |   Wed, Dec 11/Thu, Dec 12             |  [Computer Components & Organization]  |
 
 
 [Variables, Operations, Print, Input, Reading Errors]: https://docs.google.com/presentation/d/1u7v6paJXcLO19-its9vKNumqdNNrO3VPoKXVqR9wpIo/edit?usp=sharing
@@ -84,7 +84,7 @@ Students by the end of the course will be able to ...
 [OOP Part 3: Polymorphism & Design]: https://docs.google.com/presentation/d/18XaI2oJKCktavWKOeWtkfd1n7sOQYvMRTCI7oz-wfoI/edit#slide=id.g7939982a05_0_154
 [OOP Part 4: Design and Composition]: Lessons/12-CPU-Instructions-Memory.md
 [Herd Immunity & Simulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/10-Herd-Immunity-Simulation.md
-[Computer Components & Organization]: Lessons/12-CPU-Instructions-Memory.md
+[Computer Components & Organization]: https://drive.google.com/file/d/1VpjgiwR2KMGsjfS1h_g95wMSBjyjfmvZ/view
 [Herd Immunity Lab]: Lessons/12-CPU-Instructions-Memory.md
 
 ### Tutorial and Projects
