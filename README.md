@@ -84,7 +84,7 @@ Students by the end of the course will be able to ...
 [OOP Part 3: Polymorphism & Design]: https://docs.google.com/presentation/d/18XaI2oJKCktavWKOeWtkfd1n7sOQYvMRTCI7oz-wfoI/edit#slide=id.g7939982a05_0_154
 [OOP Part 4: Design and Composition]: Lessons/12-CPU-Instructions-Memory.md
 [Herd Immunity & Simulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/10-Herd-Immunity-Simulation.md
-[Computer Components & Organization]: https://drive.google.com/file/d/1VpjgiwR2KMGsjfS1h_g95wMSBjyjfmvZ/view
+[Computer Components & Organization]: https://drive.google.com/file/d/1e9KGjPk1GzLujdLFQ6sF1G_Trw6XZQp_/view
 [Herd Immunity Lab]: Lessons/12-CPU-Instructions-Memory.md
 
 ### Tutorial and Projects
