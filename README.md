@@ -1,4 +1,4 @@
-# CS 1.1: Intro to Programming
+# CS 1.1: Object Oriented Programming
 
 ## Course Description
 
