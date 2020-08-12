@@ -4,6 +4,7 @@
 
 This course covers the fundamentals of programming including variables, data types, control flow, conditionals, loops, lists, dictionaries, functions, and object-oriented programming. Students will master top-level concepts in software development including writing pseudocode, using functions to process input into output, technical project planning, and diagramming. The course will also cover how computers work, from components and layout to memory and machine code instructions.
 
+
 ## Important Links
 
 
