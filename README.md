@@ -21,25 +21,33 @@ Students by the end of the course will be able to ...
 
 **Course Dates:** Thursday, August 20 – Tuesday, October 6, 2020 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 9:30–12:15pm (14 class sessions)
+**Class Times:** Tuesday and Thursday at 2:45–5:30pm (14 class sessions)
 
 
 | Class |          Date          |                 Topics                  | Assignments & Quizzes |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Thu, Aug 20               | Advanced Functions | 
-|  2 |  Tue, Aug 25               | Testing |
-|  3 |  Thu, Aug 27               | Error Handling | Practice with Testing
-|  4 |  Tue, Sept 1               | Modules and Import | Quiz 1
-|  5 |  Thu, Sept 3               | Multiple File Program Design |
-|  6 |  Tue, Sept 8               |  Encapsulation |
-|  7 |  Thu, Sept 10               | Constructors, Instantiation, & self|  Flower Garden
-|  8 |  Tue, Sept 15              | Properties and Methods |
-|  9 |  Thu, Sept 17              | Class Design | Quiz 2
-| 10 |  Tue, Sept 22              | Composition | Superhero Team Dueler
-| 11 |  Thu, Sept 24              | Inheritance |
-| 12 |  Tue, Sept 29              | Polymorphism |
-| 13 |  Thu, Oct 1              | Inheritance from Built-In Classes | Quiz 3
-| 14 |  Tue, Oct 6                | Advanced OOP Topics |
+|  1 |  Thu, Aug 20               | Scoping & Abstraction | 
+|  2 |  Tue, Aug 25               | Encapsulation & Instantiation |
+|  3 |  Thu, Aug 27               | Properties and Methods | Flower Garden
+|  4 |  Tue, Sept 1               | Testing | Quiz 1
+|  5 |  Thu, Sept 3               | Composition & Class Design |
+|  6 |  Tue, Sept 8               | Composition & Class Design II | Superhero Team Dueler
+|  7 |  Thu, Sept 10              | Inheritance & Overriding |
+|  8 |  Tue, Sept 15              | Polymorphism |
+|  9 |  Thu, Sept 17              | Inheriting from Built In's and Overloading | Quiz 2
+| 10 |  Tue, Sept 22              | Multiple Inheritance & Mix-ins | OOP Design Challenge
+| 11 |  Thu, Sept 24              | Abstract Classes & Class Attributes |
+| 12 |  Tue, Sept 29              | Decorators & Static Methods |
+| 13 |  Thu, Oct 1                | Design Patterns & How Computers Work | Quiz 3
+| 14 |  Tue, Oct 6                | OOP Design Challenge Presentations |
+
+## Class Assignments
+
+We will be using Gradescope, which allows us to provide fast and accurate feedback on your work. All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.
+
+As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+
+Your Gradescope login is your Make School email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
 
 
 ## Evaluation Criteria
