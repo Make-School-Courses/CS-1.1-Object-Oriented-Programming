@@ -27,7 +27,7 @@ Students by the end of the course will be able to ...
 | Class |          Date          |                 Topics                  | Assignments & Quizzes |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Thu, Aug 20               | [Scoping & Abstraction] & [Encapsulation & Instantiation] | 
-|  2 |  Tue, Aug 25               | Properties and Methods  |
+|  2 |  Tue, Aug 25               | [Properties & Methods & Testing]  |
 |  3 |  Thu, Aug 27               | Testing| Flower Garden
 |  4 |  Tue, Sept 1               |Composition & Class Design  | Quiz 1
 |  5 |  Thu, Sept 3               | Composition & Class Design II  |
@@ -44,6 +44,8 @@ Students by the end of the course will be able to ...
 [Scoping & Abstraction]: https://docs.google.com/presentation/d/12hOwoFrwRFO_GZamHTbU8zTMhbRoS_VoqL90iLH6a7o/edit#slide=id.g923036cd67_0_68
 
 [Encapsulation & Instantiation]: https://docs.google.com/presentation/d/1IR70lrYLkMBmEtG0wGqSUDy8p-psx5n392OSkEvOh54/edit#slide=id.g922ee0f568_0_78
+
+[Properties & Methods & Testing]: https://docs.google.com/presentation/d/1mX-DJ_iVe9TRcVuITXwDdZF7t1OWhGCWPfboiFAFuJo/edit#slide=id.g924dfd1cd8_0_1
 
 ## Class Assignments
 
