@@ -28,16 +28,16 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Thu, Aug 20               | [Scoping & Abstraction] & [Encapsulation & Instantiation] | 
 |  2 |  Tue, Aug 25               | [Properties & Methods & Testing]  |
-|  3 |  Thu, Aug 27               | Testing| Flower Garden
-|  4 |  Tue, Sept 1               |Composition & Class Design  | Quiz 1
-|  5 |  Thu, Sept 3               | Composition & Class Design II  |
-|  6 |  Tue, Sept 8               |Inheritance & Overriding | Superhero Team Dueler
-|  7 |  Thu, Sept 10              | Polymorphism |
-|  8 |  Tue, Sept 15              | Inheriting from Built In's and Overloading |
-|  9 |  Thu, Sept 17              | Multiple Inheritance & Mix-ins | Quiz 2
-| 10 |  Tue, Sept 22              | Abstract Classes & Class Attributes | OOP Design Challenge
-| 11 |  Thu, Sept 24              | Decorators & Static Methods |
-| 12 |  Tue, Sept 29              | Design Patterns & How Computers Work  |
+|  3 |  Thu, Aug 27               | [Access Modifiers, Composition & Design] | [Flower Garden]
+|  4 |  Tue, Sept 1               | Inheritance & Overriding | Quiz 1
+|  5 |  Thu, Sept 3               | Polymorphism  | Superhero Team Dueler
+|  6 |  Tue, Sept 8               |Inheriting from Built In's and Overloading | 
+|  7 |  Thu, Sept 10              | Multiple Inheritance & Mix-ins|
+|  8 |  Tue, Sept 15              | Abstract Classes & Class Attributes |
+|  9 |  Thu, Sept 17              | Decorators & Static Methods | Quiz 2
+| 10 |  Tue, Sept 22              | Design Patterns & How Computers Work | OOP Design Challenge
+| 11 |  Thu, Sept 24              | Special Topics |
+| 12 |  Tue, Sept 29              | Special Topics  |
 | 13 |  Thu, Oct 1                |Lab Day | Quiz 3
 | 14 |  Tue, Oct 6                | OOP Design Challenge Presentations |
 
@@ -46,6 +46,10 @@ Students by the end of the course will be able to ...
 [Encapsulation & Instantiation]: https://docs.google.com/presentation/d/1IR70lrYLkMBmEtG0wGqSUDy8p-psx5n392OSkEvOh54/edit#slide=id.g922ee0f568_0_78
 
 [Properties & Methods & Testing]: https://docs.google.com/presentation/d/1mX-DJ_iVe9TRcVuITXwDdZF7t1OWhGCWPfboiFAFuJo/edit#slide=id.g924dfd1cd8_0_1
+
+[Access Modifiers, Composition & Design]: https://docs.google.com/presentation/d/1mkjcaBZNC6XwvhWiMJwxLYoBfFJRfxwniWIM9AXbcZg/edit#slide=id.p
+
+[Flower Garden]: Lessons/flower_garden.md
 
 ## Class Assignments
 
