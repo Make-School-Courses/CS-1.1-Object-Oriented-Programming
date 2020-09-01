@@ -29,7 +29,7 @@ Students by the end of the course will be able to ...
 |  1 |  Thu, Aug 20               | [Scoping & Abstraction] & [Encapsulation & Instantiation] | 
 |  2 |  Tue, Aug 25               | [Properties & Methods & Testing]  |
 |  3 |  Thu, Aug 27               | [Access Modifiers, Composition & Design] | [Flower Garden]
-|  4 |  Tue, Sept 1               | Inheritance & Overriding | Quiz 1
+|  4 |  Tue, Sept 1               | [Inheritance & Overriding] | Quiz 1
 |  5 |  Thu, Sept 3               | Polymorphism  | Superhero Team Dueler
 |  6 |  Tue, Sept 8               |Inheriting from Built In's and Overloading | 
 |  7 |  Thu, Sept 10              | Multiple Inheritance & Mix-ins|
@@ -50,6 +50,8 @@ Students by the end of the course will be able to ...
 [Access Modifiers, Composition & Design]: https://docs.google.com/presentation/d/1mkjcaBZNC6XwvhWiMJwxLYoBfFJRfxwniWIM9AXbcZg/edit#slide=id.p
 
 [Flower Garden]: Lessons/flower_garden.md
+
+[Inheritance & Overriding]: https://docs.google.com/presentation/d/1Z7uQaPcRTnaMURHKYhflibR5o7VRAkPyuHq2TD92h9w/edit
 
 ## Class Assignments
 
