@@ -6,7 +6,7 @@
     * [Access Modifiers, Composition & Design](https://docs.google.com/presentation/d/1mkjcaBZNC6XwvhWiMJwxLYoBfFJRfxwniWIM9AXbcZg/edit#slide=id.p)
     * [Inheritance & Overriding](https://docs.google.com/presentation/d/1Z7uQaPcRTnaMURHKYhflibR5o7VRAkPyuHq2TD92h9w/edit)
 * **Quiz Study Guides**
-    *[Quiz 1](Lessons/quiz1.md)
+    * [Quiz 1](Lessons/quiz1.md)
 
 *  **Assignments**
     * [Flower Garden](Lessons/flower_garden.md)
