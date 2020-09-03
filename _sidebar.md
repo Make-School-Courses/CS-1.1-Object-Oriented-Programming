@@ -6,12 +6,12 @@
     * [Access Modifiers, Composition & Design](https://docs.google.com/presentation/d/1mkjcaBZNC6XwvhWiMJwxLYoBfFJRfxwniWIM9AXbcZg/edit#slide=id.p)
     * [Inheritance & Overriding](https://docs.google.com/presentation/d/1Z7uQaPcRTnaMURHKYhflibR5o7VRAkPyuHq2TD92h9w/edit)
     * [Polymorphism](https://docs.google.com/presentation/d/1v2RuwQ_XH9HtiYorm_fL_NOOKDg3KA-Wct_vN61fsDM/edit#slide=id.g940a693d30_0_161)
-    
+
 * **Quiz Study Guides**
     * [Quiz 1](Lessons/quiz1.md)
 
     
 *  **Assignments**
     * [Flower Garden](Lessons/flower_garden.md)
-    * [Superhero Team Dueler](https://www.makeschool.com/academy/track/standalone/superhero-team-dueler)
+    * [Superhero Team Dueler](https://www.makeschool.com/academy/track/superhero-team-dueler)
 

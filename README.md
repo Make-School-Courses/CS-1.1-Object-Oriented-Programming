@@ -54,7 +54,7 @@ Students by the end of the course will be able to ...
 [Inheritance & Overriding]: https://docs.google.com/presentation/d/1Z7uQaPcRTnaMURHKYhflibR5o7VRAkPyuHq2TD92h9w/edit
 
 [Quiz 1]: Lessons/quiz1.md
-[Superhero Team Dueler]: https://www.makeschool.com/academy/track/standalone/superhero-team-dueler
+[Superhero Team Dueler]: https://www.makeschool.com/academy/track/superhero-team-dueler
 
 [Polymorphism]: https://docs.google.com/presentation/d/1v2RuwQ_XH9HtiYorm_fL_NOOKDg3KA-Wct_vN61fsDM/edit#slide=id.g940a693d30_0_161
 

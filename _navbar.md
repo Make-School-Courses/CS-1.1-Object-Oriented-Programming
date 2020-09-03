@@ -11,6 +11,6 @@
 
 *  **Assignments**
     * [Flower Garden](Lessons/flower_garden.md)
-    * [Superhero Team Dueler](https://www.makeschool.com/academy/track/standalone/superhero-team-dueler)
+    * [Superhero Team Dueler](https://www.makeschool.com/academy/track/superhero-team-dueler)
 * [Make School](https://www.makeschool.com)
 
