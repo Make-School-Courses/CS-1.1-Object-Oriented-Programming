@@ -31,7 +31,7 @@ Students by the end of the course will be able to ...
 |  3 |  Thu, Aug 27               | [Access Modifiers, Composition & Design] | [Flower Garden]
 |  4 |  Tue, Sept 1               | [Inheritance & Overriding] | 
 |  5 |  Thu, Sept 3               | [Polymorphism]  | [Superhero Team Dueler] & [Quiz 1]
-|  6 |  Tue, Sept 8               |Inheriting from Built In's and Overloading | 
+|  6 |  Tue, Sept 8               |[Inheriting from Built In's and Overloading] | 
 |  7 |  Thu, Sept 10              | Multiple Inheritance & Mix-ins|
 |  8 |  Tue, Sept 15              | Abstract Classes & Class Attributes |
 |  9 |  Thu, Sept 17              | Decorators & Static Methods | Quiz 2
@@ -57,6 +57,8 @@ Students by the end of the course will be able to ...
 [Superhero Team Dueler]: https://www.makeschool.com/academy/track/superhero-team-dueler
 
 [Polymorphism]: https://docs.google.com/presentation/d/1v2RuwQ_XH9HtiYorm_fL_NOOKDg3KA-Wct_vN61fsDM/edit#slide=id.g940a693d30_0_161
+
+[Inheriting from Built In's and Overloading]: https://docs.google.com/presentation/d/1Y89TEvF1ooR1An4mtEFHWAbMK_3GR2fUHjrZwHqk4X8/edit#slide=id.g954658acd2_0_63
 
 ## Class Assignments
 

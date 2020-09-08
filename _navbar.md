@@ -6,6 +6,8 @@
     * [Access Modifiers, Composition & Design](https://docs.google.com/presentation/d/1mkjcaBZNC6XwvhWiMJwxLYoBfFJRfxwniWIM9AXbcZg/edit#slide=id.p)
     * [Inheritance & Overriding](https://docs.google.com/presentation/d/1Z7uQaPcRTnaMURHKYhflibR5o7VRAkPyuHq2TD92h9w/edit)
     * [Polymorphism](https://docs.google.com/presentation/d/1v2RuwQ_XH9HtiYorm_fL_NOOKDg3KA-Wct_vN61fsDM/edit#slide=id.g940a693d30_0_161)
+    * [Inheriting from Built In's and Overloading](https://docs.google.com/presentation/d/1Y89TEvF1ooR1An4mtEFHWAbMK_3GR2fUHjrZwHqk4X8/edit#slide=id.g954658acd2_0_63)
+    
 * **Quiz Study Guides**
     * [Quiz 1](Lessons/quiz1.md)
 
