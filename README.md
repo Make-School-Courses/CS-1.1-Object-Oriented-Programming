@@ -8,6 +8,12 @@ This course reinforces the fundamentals of programming including variables, data
 
 - CS 1.0 - Introduction to Programming
 
+## Course Specifics
+
+**Course Delivery**: online | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+
 ## Learning Objectives
 
 Students by the end of the course will be able to ...
@@ -83,6 +89,12 @@ To pass this course you must meet the following requirements:
     - Your participation in in-class activities will be a part of your overall grade, each time your participate in the majority of day's activities you will earn a point, you must earn at least 12/14 activity participation points to pass this class
 - Make up all classwork from all absences
 
+
+##  Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
