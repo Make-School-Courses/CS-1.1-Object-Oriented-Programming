@@ -33,7 +33,7 @@ Students by the end of the course will be able to ...
 |  5 |  Thu, Sept 3               | [Polymorphism]  | [Superhero Team Dueler] & [Quiz 1]
 |  6 |  Tue, Sept 8               |[Inheriting from Built In's and Overloading] | 
 |  7 |  Thu, Sept 10              | [Decorators] |
-|  8 |  Tue, Sept 15              | Abstract Classes & Class Attributes |
+|  8 |  Tue, Sept 15              | [Abstract Classes & Static/Class Methods] |
 |  9 |  Thu, Sept 17              | Multiple Inheritance & Mix-ins & Static Methods | Quiz 2
 | 10 |  Tue, Sept 22              | Design Patterns & How Computers Work | OOP Design Challenge
 | 11 |  Thu, Sept 24              | Special Topics |
@@ -61,6 +61,8 @@ Students by the end of the course will be able to ...
 [Inheriting from Built In's and Overloading]: https://docs.google.com/presentation/d/1Y89TEvF1ooR1An4mtEFHWAbMK_3GR2fUHjrZwHqk4X8/edit#slide=id.g954658acd2_0_63
 
 [Decorators]: https://docs.google.com/presentation/d/1ImKNDgt8is8cDRe4JMmRLoXqKIBqEAe5o6TEktdtAmQ/edit#slide=id.g965f1183de_0_73
+
+[Abstract Classes & Static/Class Methods]: https://docs.google.com/presentation/d/1PBzjpQ7RHp2DfgC51jf6G_qbr-1j-7xR-v_WlrTHITU/edit#slide=id.g97df0f41a5_0_26
 
 ## Class Assignments
 

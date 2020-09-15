@@ -8,6 +8,7 @@
     * [Polymorphism](https://docs.google.com/presentation/d/1v2RuwQ_XH9HtiYorm_fL_NOOKDg3KA-Wct_vN61fsDM/edit#slide=id.g940a693d30_0_161)
      * [Inheriting from Built In's and Overloading](https://docs.google.com/presentation/d/1Y89TEvF1ooR1An4mtEFHWAbMK_3GR2fUHjrZwHqk4X8/edit#slide=id.g954658acd2_0_63)
      * [Decorators](https://docs.google.com/presentation/d/1ImKNDgt8is8cDRe4JMmRLoXqKIBqEAe5o6TEktdtAmQ/edit#slide=id.g965f1183de_0_73)
+     * [Abstract Classes & Static/Class Methods](https://docs.google.com/presentation/d/1PBzjpQ7RHp2DfgC51jf6G_qbr-1j-7xR-v_WlrTHITU/edit#slide=id.g97df0f41a5_0_26)
 
 * **Quiz Study Guides**
     * [Quiz 1](Lessons/quiz1.md)
