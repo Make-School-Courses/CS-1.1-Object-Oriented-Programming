@@ -40,7 +40,7 @@ Students by the end of the course will be able to ...
 |  6 |  Tue, Sept 8               |[Inheriting from Built In's and Overloading] | 
 |  7 |  Thu, Sept 10              | [Decorators] |
 |  8 |  Tue, Sept 15              | [Abstract Classes & Static/Class Methods] |
-|  9 |  Thu, Sept 17              | Multiple Inheritance & Mix-ins & Static Methods | Quiz 2
+|  9 |  Thu, Sept 17              | [Multiple Inheritance & Mix-ins] | Quiz 2
 | 10 |  Tue, Sept 22              | Design Patterns & How Computers Work | OOP Design Challenge
 | 11 |  Thu, Sept 24              | Special Topics |
 | 12 |  Tue, Sept 29              | Special Topics  |
@@ -69,6 +69,8 @@ Students by the end of the course will be able to ...
 [Decorators]: https://docs.google.com/presentation/d/1ImKNDgt8is8cDRe4JMmRLoXqKIBqEAe5o6TEktdtAmQ/edit#slide=id.g965f1183de_0_73
 
 [Abstract Classes & Static/Class Methods]: https://docs.google.com/presentation/d/1PBzjpQ7RHp2DfgC51jf6G_qbr-1j-7xR-v_WlrTHITU/edit#slide=id.g97df0f41a5_0_26
+
+[Multiple Inheritance & Mix-ins]: https://docs.google.com/presentation/d/1spong_OV0tPbtXa7khIj8EAYaApnWKD9CoQh3gRkuhk/edit#slide=id.g98244207c4_0_68
 
 ## Class Assignments
 
