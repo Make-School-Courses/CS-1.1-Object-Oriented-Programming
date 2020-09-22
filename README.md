@@ -44,7 +44,7 @@ Students by the end of the course will be able to ...
 | 10 |  Tue, Sept 22              | [How Computers Work] |
 | 11 |  Thu, Sept 24              | Special Topics | OOP Design Challenge
 | 12 |  Tue, Sept 29              | Special Topics  |
-| 13 |  Thu, Oct 1                |Lab Day | Quiz 3
+| 13 |  Thu, Oct 1                |Lab Day |
 | 14 |  Tue, Oct 6                | OOP Design Challenge Presentations |
 
 [Scoping & Abstraction]: https://docs.google.com/presentation/d/12hOwoFrwRFO_GZamHTbU8zTMhbRoS_VoqL90iLH6a7o/edit#slide=id.g923036cd67_0_68
