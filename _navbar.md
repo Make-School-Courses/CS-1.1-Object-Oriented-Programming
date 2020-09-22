@@ -10,6 +10,7 @@
     * [Decorators](https://docs.google.com/presentation/d/1ImKNDgt8is8cDRe4JMmRLoXqKIBqEAe5o6TEktdtAmQ/edit#slide=id.g965f1183de_0_73)
     * [Abstract Classes & Static/Class Methods](https://docs.google.com/presentation/d/1PBzjpQ7RHp2DfgC51jf6G_qbr-1j-7xR-v_WlrTHITU/edit#slide=id.g97df0f41a5_0_26)
     * [Multiple Inheritance & Mix In's](https://docs.google.com/presentation/d/1spong_OV0tPbtXa7khIj8EAYaApnWKD9CoQh3gRkuhk/edit#slide=id.g98244207c4_0_68)
+    * [How Computers Work](https://docs.google.com/presentation/d/1C8-s6PcleAkZh5wUI1kRoSi7iJInh3BJzU-nhJATf28/edit#slide=id.g99ab7a2e41_0_116)
     
 * **Quiz Study Guides**
     * [Quiz 1](Lessons/quiz1.md)
