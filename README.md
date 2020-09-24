@@ -42,7 +42,7 @@ Students by the end of the course will be able to ...
 |  8 |  Tue, Sept 15              | [Abstract Classes & Static/Class Methods] |
 |  9 |  Thu, Sept 17              | [Multiple Inheritance & Mix-ins] | Quiz 2
 | 10 |  Tue, Sept 22              | [How Computers Work] |
-| 11 |  Thu, Sept 24              | Special Topics | OOP Design Challenge
+| 11 |  Thu, Sept 24              | Special Topics | [OOP Design Challenge]
 | 12 |  Tue, Sept 29              | Special Topics  |
 | 13 |  Thu, Oct 1                |Lab Day |
 | 14 |  Tue, Oct 6                | OOP Design Challenge Presentations |
@@ -73,6 +73,8 @@ Students by the end of the course will be able to ...
 [Multiple Inheritance & Mix-ins]: https://docs.google.com/presentation/d/1spong_OV0tPbtXa7khIj8EAYaApnWKD9CoQh3gRkuhk/edit#slide=id.g98244207c4_0_68
 
 [How Computers Work]: https://docs.google.com/presentation/d/1C8-s6PcleAkZh5wUI1kRoSi7iJInh3BJzU-nhJATf28/edit#slide=id.g99ab7a2e41_0_116
+
+[OOP Design Challenge]: Lessons/oop_design_challenge.md
 
 ## Class Assignments
 

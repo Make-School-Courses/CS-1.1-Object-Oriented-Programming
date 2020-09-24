@@ -20,4 +20,5 @@
 *  **Assignments**
     * [Flower Garden](Lessons/flower_garden.md)
     * [Superhero Team Dueler](https://www.makeschool.com/academy/track/superhero-team-dueler)
+    * [OOP Design Challenge](Lessons/oop_design_challenge.md)
 
