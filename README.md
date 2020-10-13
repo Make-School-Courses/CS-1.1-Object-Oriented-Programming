@@ -10,7 +10,7 @@ This course reinforces the fundamentals of programming including variables, data
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 14 sessions
+**Course Delivery**: Online | 7 weeks | 14 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
@@ -25,27 +25,31 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Thursday, August 20 – Tuesday, October 6, 2020 (7 weeks)
+**Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 2:45–5:30pm (14 class sessions)
+**Class Times:** 
+
+* Section A: Tuesday and Thursday at 9:30am–12:15pm PST (14 class sessions)
+* Section B: Tuesday and Thursday at 2:45pm–5:30pm PST (14 class sessions)
 
 
 | Class |          Date          |                 Topics                  | Assignments & Quizzes |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Thu, Aug 20               | [Scoping & Abstraction] & [Encapsulation & Instantiation] | 
-|  2 |  Tue, Aug 25               | [Properties & Methods & Testing]  |
-|  3 |  Thu, Aug 27               | [Access Modifiers, Composition & Design] | [Flower Garden]
-|  4 |  Tue, Sept 1               | [Inheritance & Overriding] | 
-|  5 |  Thu, Sept 3               | [Polymorphism]  | [Superhero Team Dueler] & [Quiz 1]
-|  6 |  Tue, Sept 8               |[Inheriting from Built In's and Overloading] | 
-|  7 |  Thu, Sept 10              | [Decorators] |
-|  8 |  Tue, Sept 15              | [Abstract Classes & Static/Class Methods] |
-|  9 |  Thu, Sept 17              | [Multiple Inheritance & Mix-ins] | Quiz 2
-| 10 |  Tue, Sept 22              | [How Computers Work] |
-| 11 |  Thu, Sept 24              | [Computer Security] | [OOP Design Challenge]
-| 12 |  Tue, Sept 29              | Special Topics  |
-| 13 |  Thu, Oct 1                |Lab Day |
-| 14 |  Tue, Oct 6                | OOP Design Challenge Presentations |
+|  1 |  Thu, Oct 22               | [Scoping & Abstraction] & [Encapsulation & Instantiation] | 
+|  2 |  Tue, Oct 27               | [Properties & Methods & Testing]  |
+|  3 |  Thu, Oct 29               | [Access Modifiers, Composition & Design] | [Flower Garden]
+|  4 |  Tue, Nov 3               | [Inheritance & Overriding] | 
+|  5 |  Thu, Nov 5               | [Polymorphism]  | [Superhero Team Dueler] & [Quiz 1]
+|  6 |  Tue, Nov 10               |[Inheriting from Built In's and Overloading] | 
+|  7 |  Thu, Nov 12              | [Decorators] |
+|  8 |  Tue, Nov 17              | [Abstract Classes & Static/Class Methods] |
+|  9 |  Thu, Nov 19              | [Multiple Inheritance & Mix-ins] | Quiz 2
+| 10 |  Tue, Nov 24              | [How Computers Work] |
+|   |  Thu, Nov 26              | **Thanksgiving Break** | 
+| 11 |  Tue, Dec 1              | Special Topics  | [OOP Design Challenge]
+| 12 |  Thu, Dec 3                |Lab Day |
+| 13 |  Tue, Dec 8                | OOP Design Challenge Presentations |
+| 14 |  Thu, Dec 10                | OOP Design Challenge Presentations |
 
 [Scoping & Abstraction]: https://docs.google.com/presentation/d/12hOwoFrwRFO_GZamHTbU8zTMhbRoS_VoqL90iLH6a7o/edit#slide=id.g923036cd67_0_68
 
@@ -80,11 +84,12 @@ Students by the end of the course will be able to ...
 
 ## Class Assignments
 
-We will be using Gradescope, which allows us to provide fast and accurate feedback on your work. All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.
+We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
-Your Gradescope login is your Make School email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
+Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+
 
 
 ## Evaluation Criteria
@@ -99,6 +104,18 @@ To pass this course you must meet the following requirements:
     - Your participation in in-class activities will be a part of your overall grade, each time your participate in the majority of day's activities you will earn a point, you must earn at least 12/14 activity participation points to pass this class
 - Make up all classwork from all absences
 
+## How to Get Help
+**Office Hours:** \
+Instructor: 30 minutes before class.\
+TAs: To be announced.
+
+**Piazza:** \
+The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
+[Ask a question on Piazza →](https://piazza.com/makeschool.com/fall2020/cs10)
+
+**CoWork:** \
+CoWork is a place to study with your peers with access to staff/TA support if needed. \
+*Tuesday, Wednesday 1:30-2:30pm PST*
 
 ##  Information Resources
 
