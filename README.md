@@ -35,21 +35,23 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  | Assignments & Quizzes |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Thu, Oct 22               | [Scoping & Abstraction] & [Encapsulation & Instantiation] | 
-|  2 |  Tue, Oct 27               | [Properties & Methods & Testing]  |
-|  3 |  Thu, Oct 29               | [Access Modifiers, Composition & Design] | [Flower Garden]
-|  4 |  Tue, Nov 3               | [Inheritance & Overriding] | 
-|  5 |  Thu, Nov 5               | [Polymorphism]  | [Superhero Team Dueler] & [Quiz 1]
-|  6 |  Tue, Nov 10               |[Inheriting from Built In's and Overloading] | 
-|  7 |  Thu, Nov 12              | [Decorators] |
-|  8 |  Tue, Nov 17              | [Abstract Classes & Static/Class Methods] |
-|  9 |  Thu, Nov 19              | [Multiple Inheritance & Mix-ins] | Quiz 2
-| 10 |  Tue, Nov 24              | [How Computers Work] |
-|   |  Thu, Nov 26              | **Thanksgiving Break** | 
-| 11 |  Tue, Dec 1              | Special Topics  | [OOP Design Challenge]
-| 12 |  Thu, Dec 3                |Lab Day |
-| 13 |  Tue, Dec 8                | OOP Design Challenge Presentations |
-| 14 |  Thu, Dec 10                | OOP Design Challenge Presentations |
+|  1 |  Thu, Oct 22              | [Scoping & Abstraction] & [Encapsulation & Instantiation] | 
+|  2 |  Tue, Oct 27              | [Properties & Methods & Testing]  |
+|  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | [Flower Garden]
+|  - |  Tue, Nov 3               | **Voting - Civic Responsibility Break** | 
+|  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
+|  5 |  Tue, Nov 10              | [Polymorphism]  | [Superhero Team Dueler] & [Quiz 1]
+|  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | 
+|  7 |  Tue, Nov 17              | [Decorators] |
+|  8 |  Thu, Nov 19              | [Abstract Classes & Static/Class Methods] |
+|  9 |  Tue, Nov 24              | [Multiple Inheritance & Mix-ins] | Quiz 2
+| -  |  Thu, Nov 26              | **Holiday: Thanksgiving** |
+| 10 |  Tue, Dec 1               | [How Computers Work]| [OOP Design Challenge]
+| 11 |  Thu, Dec 3               | Lab Day  | 
+| 12 |  Tue, Dec 8               | OOP Design Challenge Presentations |
+| 13 |  Thu, Dec 10              | OOP Design Challenge Presentations |
+
+
 
 [Scoping & Abstraction]: https://docs.google.com/presentation/d/12hOwoFrwRFO_GZamHTbU8zTMhbRoS_VoqL90iLH6a7o/edit#slide=id.g923036cd67_0_68
 
