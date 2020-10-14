@@ -10,7 +10,7 @@ This course reinforces the fundamentals of programming including variables, data
 
 ## Course Specifics
 
-**Course Delivery**: Online | 7 weeks | 14 sessions
+**Course Delivery**: Online | 8 weeks | 13 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
@@ -117,7 +117,7 @@ The best way to get answers is to ask questions! Ask questions on Piazza so ever
 
 **CoWork:** \
 CoWork is a place to study with your peers with access to staff/TA support if needed. \
-*Tuesday, Wednesday 1:30-2:30pm PST*
+*Tuesdays at 12:45-1:45pm PST and Thursdays at 1:30-2:30pm PST*
 
 ##  Information Resources
 
