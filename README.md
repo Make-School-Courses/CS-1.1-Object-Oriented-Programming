@@ -113,7 +113,7 @@ TAs: To be announced.
 
 **Piazza:** \
 The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
-[Ask a question on Piazza →](https://piazza.com/makeschool.com/fall2020/cs10)
+Ask a question on Piazza →
 
 **CoWork:** \
 CoWork is a place to study with your peers with access to staff/TA support if needed. \
