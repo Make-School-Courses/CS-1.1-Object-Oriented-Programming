@@ -25,12 +25,12 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (7 weeks)
+**Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (8 weeks)
 
 **Class Times:** 
 
-* Section A: Tuesday and Thursday at 9:30am–12:15pm PST (14 class sessions)
-* Section B: Tuesday and Thursday at 2:45pm–5:30pm PST (14 class sessions)
+* Section A: Tuesday and Thursday at 9:30am–12:15pm PST (13 class sessions)
+* Section B: Tuesday and Thursday at 2:45pm–5:30pm PST (13 class sessions)
 
 
 | Class |          Date          |                 Topics                  | Assignments & Quizzes |
