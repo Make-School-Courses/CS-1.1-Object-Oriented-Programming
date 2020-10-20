@@ -5,7 +5,7 @@
 
 **📝 &nbsp;Class Materials:** 
   <!-- Put a link to the slides -->
-* [**Slides**]()
+* [**Slides**](https://docs.google.com/presentation/d/1ImKNDgt8is8cDRe4JMmRLoXqKIBqEAe5o6TEktdtAmQ/edit#slide=id.g965f1183de_0_73)
 * **Repls:**
   * Coding Exercise 1: 
   * Coding Exercise 2: 
