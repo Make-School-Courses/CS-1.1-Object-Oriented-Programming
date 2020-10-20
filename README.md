@@ -40,11 +40,11 @@ Students by the end of the course will be able to ...
 |  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | [Assignment 1] <br/> due Monday, Nov. 9 @ 11pm PDT
 |  - |  Tue, Nov 3               | **Voting - Civic Responsibility Break** | 
 |  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
-|  5 |  Tue, Nov 10              | [Polymorphism]  |  [Quiz 1]  <br/> due Monday, Nov. 16 @ 11pm PDT
+|  5 |  Tue, Nov 10              | [Polymorphism]  |  
 |  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | [Superhero Team Dueler] <br/> due Monday, Nov. 23 @ 11pm PDT
 |  7 |  Tue, Nov 17              | [Decorators] |
 |  8 |  Thu, Nov 19              | [Abstract Classes & Static/Class Methods] |
-|  9 |  Tue, Nov 24              | [Multiple Inheritance & Mix-ins] | [Quiz 2] <br/> due Monday, Nov. 30 @ 11pm PDT
+|  9 |  Tue, Nov 24              | [Multiple Inheritance & Mix-ins] | 
 | -  |  Thu, Nov 26              | **Holiday: Thanksgiving** |
 | 10 |  Tue, Dec 1               | [How Computers Work]| [OOP Design Challenge] <br/> due Monday, Dec. 7 @ 11pm PDT
 | 11 |  Thu, Dec 3               | Lab Day  | 
