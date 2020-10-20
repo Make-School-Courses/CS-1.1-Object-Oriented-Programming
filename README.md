@@ -66,7 +66,7 @@ Students by the end of the course will be able to ...
 [Inheritance & Overriding]: https://docs.google.com/presentation/d/1Z7uQaPcRTnaMURHKYhflibR5o7VRAkPyuHq2TD92h9w/edit
 
 [Quiz 1]: Lessons/quiz1.md
-[Superhero Team Dueler]: https://www.makeschool.com/academy/track/superhero-team-dueler
+[Superhero Team Dueler]: https://www.gradescope.com/courses/196280/assignments/777380
 
 [Polymorphism]: https://docs.google.com/presentation/d/1v2RuwQ_XH9HtiYorm_fL_NOOKDg3KA-Wct_vN61fsDM/edit#slide=id.g940a693d30_0_161
 
@@ -80,7 +80,7 @@ Students by the end of the course will be able to ...
 
 [How Computers Work]: https://docs.google.com/presentation/d/1C8-s6PcleAkZh5wUI1kRoSi7iJInh3BJzU-nhJATf28/edit#slide=id.g99ab7a2e41_0_116
 
-[OOP Design Challenge]: Lessons/oop_design_challenge.md
+[OOP Design Challenge]: https://www.gradescope.com/courses/196280/assignments/777381
 
 [Computer Security]: https://docs.google.com/presentation/d/1b0JzyKVXwFR3BYNUiotubD86JzkDUqwiNIklq0yVzP8/edit#slide=id.g9b3e8fe2e2_0_63
 
