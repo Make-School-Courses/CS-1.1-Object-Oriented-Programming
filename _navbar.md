@@ -13,7 +13,7 @@
 *  **Assignments**
     * [Assignment 1](Lessons/assignment1.md)
     * [Superhero Team Dueler](https://www.gradescope.com/courses/196280/assignments/777380/submissions)
-    * [OOP Design Challenge](oop_design_challenge.md)
+    * [OOP Design Challenge](Lessons/oop_design_challenge.md)
 *  [**Gradescope**](https://www.gradescope.com/courses/196280)
 * [**Make School**](https://www.makeschool.com)
 
