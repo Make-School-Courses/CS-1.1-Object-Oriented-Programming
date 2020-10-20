@@ -40,11 +40,11 @@ Students by the end of the course will be able to ...
 |  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | [Assignment 1] <br/> due Monday, Nov. 9 @ 11pm PDT
 |  - |  Tue, Nov 3               | **Voting - Civic Responsibility Break** | 
 |  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
-|  5 |  Tue, Nov 10              | [Polymorphism]  |  Quiz 1  <br/> due Monday, Nov. 16 @ 11pm PDT
+|  5 |  Tue, Nov 10              | [Polymorphism]  |  [Quiz 1]  <br/> due Monday, Nov. 16 @ 11pm PDT
 |  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | [Superhero Team Dueler] <br/> due Monday, Nov. 23 @ 11pm PDT
 |  7 |  Tue, Nov 17              | [Decorators] |
 |  8 |  Thu, Nov 19              | [Abstract Classes & Static/Class Methods] |
-|  9 |  Tue, Nov 24              | [Multiple Inheritance & Mix-ins] | Quiz 2 <br/> due Monday, Nov. 30 @ 11pm PDT
+|  9 |  Tue, Nov 24              | [Multiple Inheritance & Mix-ins] | [Quiz 2] <br/> due Monday, Nov. 30 @ 11pm PDT
 | -  |  Thu, Nov 26              | **Holiday: Thanksgiving** |
 | 10 |  Tue, Dec 1               | [How Computers Work]| [OOP Design Challenge] <br/> due Monday, Dec. 7 @ 11pm PDT
 | 11 |  Thu, Dec 3               | Lab Day  | 
@@ -65,7 +65,7 @@ Students by the end of the course will be able to ...
 
 [Inheritance & Overriding]: https://docs.google.com/presentation/d/1Z7uQaPcRTnaMURHKYhflibR5o7VRAkPyuHq2TD92h9w/edit
 
-[Quiz 1]: Lessons/quiz1.md
+[Quiz 1]: https://www.gradescope.com/courses/196280/assignments/777491
 [Superhero Team Dueler]: https://www.gradescope.com/courses/196280/assignments/777380
 
 [Polymorphism]: https://docs.google.com/presentation/d/1v2RuwQ_XH9HtiYorm_fL_NOOKDg3KA-Wct_vN61fsDM/edit#slide=id.g940a693d30_0_161
@@ -79,6 +79,8 @@ Students by the end of the course will be able to ...
 [Multiple Inheritance & Mix-ins]: https://docs.google.com/presentation/d/1spong_OV0tPbtXa7khIj8EAYaApnWKD9CoQh3gRkuhk/edit#slide=id.g98244207c4_0_68
 
 [How Computers Work]: https://docs.google.com/presentation/d/1C8-s6PcleAkZh5wUI1kRoSi7iJInh3BJzU-nhJATf28/edit#slide=id.g99ab7a2e41_0_116
+
+[Quiz 2]: https://www.gradescope.com/courses/196280/assignments/777494
 
 [OOP Design Challenge]: https://www.gradescope.com/courses/196280/assignments/777381
 
