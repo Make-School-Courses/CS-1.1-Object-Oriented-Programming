@@ -41,12 +41,12 @@ Students by the end of the course will be able to ...
 |  - |  Tue, Nov 3               | **Voting - Civic Responsibility Break** | 
 |  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
 |  5 |  Tue, Nov 10              | [Polymorphism]  |  Quiz 1  <br/> due Monday, Nov. 18 @ 11pm PDT
-|  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | [Superhero Team Dueler] <br/> due Monday, Nov. 23 @ 11pm PDT
+|  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | Superhero Team Dueler <br/> due Monday, Nov. 23 @ 11pm PDT
 |  7 |  Tue, Nov 17              | [Decorators] |
 |  8 |  Thu, Nov 19              | [Abstract Classes & Static/Class Methods] |
 |  9 |  Tue, Nov 24              | [Multiple Inheritance & Mix-ins] | Quiz 2 <br/> due Monday, Nov. 30 @ 11pm PDT
 | -  |  Thu, Nov 26              | **Holiday: Thanksgiving** |
-| 10 |  Tue, Dec 1               | [How Computers Work]| [OOP Design Challenge] <br/> due Monday, Dec. 7 @ 11pm PDT
+| 10 |  Tue, Dec 1               | [How Computers Work]| OOP Design Challenge <br/> due Monday, Dec. 7 @ 11pm PDT
 | 11 |  Thu, Dec 3               | Lab Day  | 
 | 12 |  Tue, Dec 8               | OOP Design Challenge Presentations |
 | 13 |  Thu, Dec 10              | OOP Design Challenge Presentations |
