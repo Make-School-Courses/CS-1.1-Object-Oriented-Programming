@@ -15,10 +15,11 @@
 
 * **Quiz Study Guides**
     * [Quiz 1](Lessons/quiz1.md)
+    * [Quiz 2](Lessons/quiz2.md)
 
     
-*  **Assignments**
-    * [Flower Garden](Lessons/flower_garden.md)
-    * [Superhero Team Dueler](https://www.makeschool.com/academy/track/superhero-team-dueler)
-    * [OOP Design Challenge](Lessons/oop_design_challenge.md)
+
+*  [**Gradescope**](https://www.gradescope.com/courses/196280)
+
+* [**Make School**](https://www.makeschool.com)
 
