@@ -100,13 +100,12 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments
-- Pass all assignments according to the associated assignment rubric
-- Pass all quizzes with a score 70% or higher 
-- If an assignment or quiz is not passing you will have up to a week after your grade is received to retake and bring your score up to passing
-- Actively participate in class and abide by the attendance policy
-    - Your participation in in-class activities will be a part of your overall grade, each time your participate in the majority of day's activities you will earn a point, you must earn at least 12/14 activity participation points to pass this class
-- Make up all classwork from all absences
+- Complete all required assignments.
+- Pass all assignments according to the associated assignment rubric.
+- Pass all quizzes with a score 70% or higher. 
+- If an assignment or quiz is not passing, you will need to request an extention to receive a retake/extension to bring you score up to passing.
+- Actively participate in class and abide by the attendance policy.
+- Make up all classwork from all absences.
 
 ## How to Get Help
 **Office Hours:** \
