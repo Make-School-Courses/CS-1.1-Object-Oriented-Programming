@@ -37,10 +37,10 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Thu, Oct 22              | [Scoping & Abstraction] & [Encapsulation & Instantiation] | 
 |  2 |  Tue, Oct 27              | [Properties & Methods & Testing]  |
-|  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | [Assignment 1] <br/> due Tuesday, Nov. 3 @ 11pm PDT
+|  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | [Assignment 1] <br/> due Monday, Nov. 9 @ 11pm PDT
 |  - |  Tue, Nov 3               | **Voting - Civic Responsibility Break** | 
 |  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
-|  5 |  Tue, Nov 10              | [Polymorphism]  |  Quiz 1  <br/> due Monday, Nov. 18 @ 11pm PDT
+|  5 |  Tue, Nov 10              | [Polymorphism]  |  Quiz 1  <br/> due Monday, Nov. 16 @ 11pm PDT
 |  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | [Superhero Team Dueler] <br/> due Monday, Nov. 23 @ 11pm PDT
 |  7 |  Tue, Nov 17              | [Decorators] |
 |  8 |  Thu, Nov 19              | [Abstract Classes & Static/Class Methods] |
