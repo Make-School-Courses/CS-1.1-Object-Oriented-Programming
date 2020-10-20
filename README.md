@@ -86,7 +86,7 @@ Students by the end of the course will be able to ...
 
 [Computer Security]: https://docs.google.com/presentation/d/1b0JzyKVXwFR3BYNUiotubD86JzkDUqwiNIklq0yVzP8/edit#slide=id.g9b3e8fe2e2_0_63
 
-## Class Assignments
+## Assignment Submissions
 
 We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
