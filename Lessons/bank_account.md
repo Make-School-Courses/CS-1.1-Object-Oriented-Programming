@@ -27,7 +27,10 @@ This bank account should all a user to do  the following:
   ```
   Joi Anderson
   Account No.: ****5678
+  Routing No.: 98765432
   Balance: $100.00 
 
   ```
+  
+  
 
