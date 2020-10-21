@@ -37,4 +37,4 @@ This bank account should all a user to do  the following:
   
 
 #### Stretch Challenge:
-Create a command line ATM. Be sure to add a method to change the user an ATM fee.
+Create a terminal ATM. Be sure to add a method to change the user an ATM fee.
