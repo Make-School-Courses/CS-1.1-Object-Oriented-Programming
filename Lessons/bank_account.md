@@ -40,7 +40,7 @@ This bank account should all a user to do  the following:
 
    * The `get_balance` method will return the current `balance` of the account with a user-friendly message.
    
-   * The `add_interest` method adds interest to the users `balance`. The annual interest rate is 1% (i.e. 0.083% per month). Thus. the balance is calculated by the following equation: `interest = balance *  0.00083 `. 
+   * The `add_interest` method adds interest to the users `balance`. The annual interest rate is 1% (i.e. 0.083% per month). Thus, the monthly interest is calculated by the following equation: `interest = balance *  0.00083 `. 
 
    * The `print_receipt` method prints a receipt with the account name, account number, and balance like this:
   ```
