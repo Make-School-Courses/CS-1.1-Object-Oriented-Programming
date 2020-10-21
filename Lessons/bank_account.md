@@ -59,4 +59,4 @@ This bank account should all a user to do  the following:
 Create a terminal ATM. Be sure to add a method to charge an ATM fee for withdrawing money.
 
 ## Rubric
-This project will be graded using the [Bank Account Rubric]()
+This project will be graded using the [Bank Account Rubric](https://docs.google.com/document/d/1Imm_hjdENa3O2KE-VaFWVAalNp35VJ8TzC_d1UJa07w/edit?usp=sharing/copy)
