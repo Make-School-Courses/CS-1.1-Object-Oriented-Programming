@@ -36,3 +36,5 @@ This bank account should all a user to do  the following:
   - Your examples should show you using the different methods above to demonstrate them working.
   
 
+#### Stretch Challenge:
+Create a command line ATM. Be sure to add a method to change the user an ATM fee.
