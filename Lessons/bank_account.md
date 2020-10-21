@@ -33,6 +33,6 @@ This bank account should all a user to do  the following:
   ```
   
   5. Outside of the BankAccount class, define 3 different bank account examples using the `BankAccount()` object.
-    - Your examples should show you using the different methods above to demonstrate them working.
+  - Your examples should show you using the different methods above to demonstrate them working.
   
 
