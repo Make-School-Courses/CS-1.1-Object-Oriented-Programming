@@ -37,7 +37,7 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Thu, Oct 22              | [Scoping & Abstraction] & [Encapsulation & Instantiation] | 
 |  2 |  Tue, Oct 27              | [Properties & Methods & Testing]  |
-|  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | [Assignment 1] <br/> due Monday, Nov. 9 @ 11pm PDT
+|  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | [Bank Account] <br/> due Monday, Nov. 9 @ 11pm PDT
 |  - |  Tue, Nov 3               | **Voting - Civic Responsibility Break** | 
 |  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
 |  5 |  Tue, Nov 10              | [Polymorphism]  |  
@@ -76,7 +76,7 @@ Students by the end of the course will be able to ...
 [How Computers Work]: Lessons/how_computers_work.md
 
 
-[Assignment 1]: https://www.gradescope.com/courses/196280/assignments/777357
+[Bank Account]: https://www.gradescope.com/courses/196280/assignments/777357
 [Superhero Team Dueler]: https://www.gradescope.com/courses/196280/assignments/777380
 [OOP Design Challenge]: https://www.gradescope.com/courses/196280/assignments/777381
 
