@@ -6,7 +6,7 @@ This course reinforces the fundamentals of programming including variables, data
 
 ## Prerequisites
 
-- CS 1.0 - Introduction to Programming
+- [CS 1.0 - Introduction to Programming](https://make.sc/cs1.0)
 
 ## Course Specifics
 
