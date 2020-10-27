@@ -36,7 +36,7 @@ Students by the end of the course will be able to ...
 | Class |          Date          |                 Topics                  | Assignments & Quizzes |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Thu, Oct 22              | [Scope] & [Objects & Encapsulation] | 
-|  2 |  Tue, Oct 27              | [Properties & Methods & Testing]  |
+|  2 |  Tue, Oct 27              | [Attributes & Methods]  |
 |  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | [Bank Account] <br/> due Monday, Nov. 9 @ 11pm PDT
 |  - |  Tue, Nov 3               | **Voting - Civic Responsibility Break** | 
 |  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
@@ -57,7 +57,7 @@ Students by the end of the course will be able to ...
 
 [Objects & Encapsulation]: Lessons/objects_encapsulation.md
 
-[Properties & Methods & Testing]: Lessons/properties_methods_testing.md
+[Attributes & Methods]: Lessons/attributes_methods.md
 
 [Access Modifiers, Composition & Design]: Lessons/access_modifiers_composition_design.md
 
