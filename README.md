@@ -37,16 +37,16 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Thu, Oct 22              | [Scope] & [Objects & Encapsulation] | 
 |  2 |  Tue, Oct 27              | [Attributes & Methods]|
-|  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | Quiz 1: Scope, Objects, Attributes, and Methods <br/><br/> Bank Account <br/> [Project Prompt](Lessons/bank_account.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777357) <br/> due Monday, Nov. 9 @ 11pm PDT
+|  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | Quiz 1: Scope, Objects, Attributes, and Methods <br/><br/> Project 1: Bank Account <br/> [Project Prompt](Lessons/bank_account.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777357) <br/> due Monday, Nov. 9 @ 11pm PDT
 |  - |  Tue, Nov 3               | **Voting - Civic Responsibility Break** | 
 |  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
 |  5 |  Tue, Nov 10              | [Polymorphism]  |  
-|  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | Quiz 2: Inheritance and Polymorphism <br/><br/> Superhero Team Dueler <br/> [Project Prompt](https://www.makeschool.com/academy/track/superhero-team-dueler) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777380) <br/> due Monday, Nov. 23 @ 11pm PDT
+|  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | Quiz 2: Inheritance and Polymorphism <br/><br/> Project 2: Superhero Team Dueler <br/> [Project Prompt](https://www.makeschool.com/academy/track/superhero-team-dueler) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777380) <br/> due Monday, Nov. 23 @ 11pm PDT
 |  7 |  Tue, Nov 17              | [Decorators] |
 |  8 |  Thu, Nov 19              | [Abstract Classes & Static/Class Methods] | Quiz 3: Magic Methods and Overloading 
 |  9 |  Tue, Nov 24              | [Multiple Inheritance & Mix-ins] | 
 | -  |  Thu, Nov 26              | **Holiday: Thanksgiving** |
-| 10 |  Tue, Dec 1               | [How Computers Work]| OOP Design Challenge <br/> [Project Prompt](Lessons/oop_design_challenge.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777381) <br/> due Monday, Dec. 7 @ 11pm PDT
+| 10 |  Tue, Dec 1               | [How Computers Work]| Project 3: OOP Design Challenge <br/> [Project Prompt](Lessons/oop_design_challenge.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777381) <br/> due Monday, Dec. 7 @ 11pm PDT
 | 11 |  Thu, Dec 3               | Lab Day  |  Quiz 4: Abstract Classes, Class Methods, and Multiple Inheritance
 | 12 |  Tue, Dec 8               | OOP Design Challenge Presentations |
 | 13 |  Thu, Dec 10              | OOP Design Challenge Presentations |
