@@ -13,7 +13,7 @@
     * [How Computers Work](Lessons/how_computers_work.md)
 *  **Assignments**
     * [Bank Account](Lessons/bank_account.md)
-    * [Superhero Team Dueler](https://www.gradescope.com/courses/196280/assignments/777380/submissions)
+    * [Superhero Team Dueler](https://www.gradescope.com/courses/196280/assignments/777380)
     * [OOP Design Challenge](Lessons/oop_design_challenge.md)
 *  [**Gradescope**](https://www.gradescope.com/courses/196280)
 * [**Make School**](https://www.makeschool.com)
