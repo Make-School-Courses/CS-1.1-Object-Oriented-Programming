@@ -7,9 +7,8 @@
   <!-- Put a link to the slides -->
 * [**Slides**](https://docs.google.com/presentation/d/16W0KARjgyZ-csuFroFYCcZozMgLowpvU47P1bnoacZ8/edit?usp=sharing)
 * **Repls:**
-  * Coding Exercise 1: 
-  * Coding Exercise 2: 
-  * Coding Exercise 3: 
+  * Coding Exercise 1: [https://repl.it/@MakeSchool/inheritanceoverridingpractice#main.py](https://repl.it/@MakeSchool/inheritanceoverridingpractice#main.py)
+  * Coding Exercise 2: [https://repl.it/@MakeSchool/createmusiciansubclass#main.py](https://repl.it/@MakeSchool/inheritanceoverridingpractice#main.py)
   
 
 <!-- > -->
