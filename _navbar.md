@@ -2,7 +2,7 @@
 *  **Lessons**
     * [Scope](Lessons/scope.md)
     * [Objects & Encapsulation](Lessons/objects_encapsulation.md)
-    * [Attributes & Methods]: (Lessons/attributes_methods.md)
+    * [Attributes & Methods](Lessons/attributes_methods.md)
     * [Access Modifiers, Composition & Design](Lessons/access_modifiers_composition_design.md)
     * [Inheritance & Overriding](Lessons/inheritance_overriding.md)
     * [Polymorphism](Lessons/polymorphism.md)
