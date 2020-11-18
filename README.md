@@ -42,7 +42,7 @@ Students by the end of the course will be able to ...
 |  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
 |  5 |  Tue, Nov 10              | [Polymorphism]  |  
 |  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | Quiz 2: Inheritance and Polymorphism <br/><br/> Project 2: Superhero Team Dueler <br/> [Project Prompt](https://www.makeschool.com/academy/track/superhero-team-dueler) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777380) <br/> due Monday, Nov. 23 @ 11pm PDT
-|  7 |  Tue, Nov 17              | [Function Arguments](https://docs.google.com/presentation/d/1ImKNDgt8is8cDRe4JMmRLoXqKIBqEAe5o6TEktdtAmQ) |
+|  7 |  Tue, Nov 17              | [Function Arguments and Overloading]|
 |  8 |  Thu, Nov 19              | [Decorators] | Quiz 3: Magic Methods and Inheriting from Built Ins 
 |  9 |  Tue, Nov 24              |  [Abstract Classes & Static/Class Methods]| 
 | -  |  Thu, Nov 26              | **Holiday: Thanksgiving** |
@@ -66,7 +66,7 @@ Students by the end of the course will be able to ...
 
 [Inheriting from Built In's and Overloading]: Lessons/inheriting_builtin_overloading.md
 
-
+[Function Arguments and Overloading]: Lessons/function_arguments.md
 
 [Decorators]: Lessons/decorators.md
 
