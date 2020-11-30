@@ -47,7 +47,7 @@ Students by the end of the course will be able to ...
 |  9 |  Tue, Nov 24              |  [Abstract Classes & Static/Class Methods]| 
 | -  |  Thu, Nov 26              | **Holiday: Thanksgiving** |
 | 10 |  Tue, Dec 1               | [Multiple Inheritance & Mix-ins]| Project 3: OOP Design Challenge <br/> [Project Prompt](Lessons/oop_design_challenge.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777381) <br/> due Monday, Dec. 7 @ 11pm PDT
-| 11 |  Thu, Dec 3               | [How Computers Work]  |  Quiz 4: Abstract Classes, Class Methods, and Multiple Inheritance
+| 11 |  Thu, Dec 3               | Lab  |  Quiz 4: Function Arguments, Decorators, Static Methods, Class Methods, and Multiple Inheritance
 | 12 |  Tue, Dec 8               | OOP Design Challenge Presentations |
 | 13 |  Thu, Dec 10              | OOP Design Challenge Presentations |
 
