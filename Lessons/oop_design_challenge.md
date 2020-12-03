@@ -21,8 +21,9 @@ This tutorial walks your through how to set up a new repository, make commits, a
 1. Submit the link to your repo and diagram on Gradescope.
 
 
+### Assignment Requirements:
 
-**For this assignment you will need to complete the following requirements:**  
+For this assignment you will need to complete the following requirements:
 
 Classes:
 - At **least** 4 classes are defined.
