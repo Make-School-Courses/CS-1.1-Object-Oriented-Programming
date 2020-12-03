@@ -67,4 +67,3 @@ You game will need to have multiple fruits each with different falling speeds, i
 - Demonstrate Decorators
 - Demonstrate Multiple Inheritance
 - Demonstrate Mix In's
-- Use you classes you made to build a prototype with an interface and user interaction
