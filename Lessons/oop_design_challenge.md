@@ -44,6 +44,7 @@ Attributes:
 Diagram:
 - A diagram is provided that shows an overview of all the classes that make up the system design
 - Diagram shows relationships between classes.
+- You can achieve this by creating UML Class Diagrams. Here is a template on how to make them, [here](https://docs.google.com/presentation/d/1yN9yxbiN2GYpxzyyMoFQ1H8FNuJ2jwr9KK0tADfJaJs/edit?usp=sharing).
 
 Presentation:
 - 5 - 10 min in-class presentation is given showing off all of the above requirements.
