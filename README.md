@@ -95,10 +95,11 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Pass all in-class quizzes with a score 70% or higher. 
+- Complete all in-class quizzes. 
+- If a quiz is missing, you will need to request to receive a  a retake/extension. 
 - Pass all assignments with a score 70% or higher.
 - All assignments are scored according to the associated assignment rubric.
-- If an assignment or quiz is not passing, you will need to request to receive a retake/extension to bring you score up to passing.
+- If an assignment is not passing, you will need to request to receive a retake/extension to bring you score up to passing.
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
 
