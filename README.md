@@ -10,7 +10,7 @@ This course reinforces the fundamentals of programming including variables, data
 
 ## Course Specifics
 
-**Course Delivery**: Online | 8 weeks | 13 sessions
+**Course Delivery**: Online | 7 weeks | 13 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
@@ -18,38 +18,36 @@ This course reinforces the fundamentals of programming including variables, data
 
 Students by the end of the course will be able to ...
 
-1. Implement and apply foundational object oriented techniques and best practices including encapsulation, composition, and inheritance 
+1. Implement and apply foundational object oriented techniques and best practices including encapsulation, composition, and inheritance
 1. Translate user stories and requirements into a program
 1. Practice core programming concepts including data structures, control flow, repetition, and functions
 1. Implement programming best practices, debugging, and testing in Python.
 
 ## Schedule
 
-**Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (8 weeks)
+**Course Dates:** Tuesday, January 19 – Thursday, March 4, 2020 (7 weeks)
 
-**Class Times:** 
+**Class Times:** Tuesday and Thursday at 9:30am–12:15pm  PST (13 class sessions)
 
-* Section A: Tuesday and Thursday at 9:30am–12:15pm PST (13 class sessions)
-* Section B: Tuesday and Thursday at 2:45pm–5:30pm PST (13 class sessions)
+Class	Date
 
 
 | Class |          Date          |                 Topics                  | Assignments & Quizzes |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Thu, Oct 22              | [Scope] & [Objects & Encapsulation] | 
-|  2 |  Tue, Oct 27              | [Attributes & Methods]|
-|  3 |  Thu, Oct 29              | [Access Modifiers, Composition & Design] | Quiz 1: Scope, Objects, Attributes, and Methods <br/><br/> Project 1: Bank Account <br/> [Project Prompt](Lessons/bank_account.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777357) <br/> due Monday, Nov. 9 @ 11pm PDT
-|  - |  Tue, Nov 3               | **Voting - Civic Responsibility Break** | 
-|  4 |  Thu, Nov 5               | [Inheritance & Overriding] | 
-|  5 |  Tue, Nov 10              | [Polymorphism]  |  
-|  6 |  Thu, Nov 12              | [Inheriting from Built In's and Overloading] | Quiz 2: Inheritance and Polymorphism <br/><br/> Project 2: Superhero Team Dueler <br/> [Project Prompt](https://www.makeschool.com/academy/track/superhero-team-dueler) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777380) <br/> due Monday, Nov. 23 @ 11pm PDT
-|  7 |  Tue, Nov 17              | [Function Arguments and Overloading]|
-|  8 |  Thu, Nov 19              | [Decorators] | Quiz 3: Magic Methods and Inheriting from Built Ins 
-|  9 |  Tue, Nov 24              |  [Abstract Classes & Static/Class Methods]| 
-| -  |  Thu, Nov 26              | **Holiday: Thanksgiving** |
-| 10 |  Tue, Dec 1               | [Multiple Inheritance & Mix-ins]| Project 3: OOP Design Challenge <br/> [Project Prompt](Lessons/oop_design_challenge.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777381) <br/> due Monday, Dec. 7 @ 11pm PDT
-| 11 |  Thu, Dec 3               | Lab  |  Quiz 4: Function Arguments, Decorators, Static Methods, Class Methods, and Multiple Inheritance
-| 12 |  Tue, Dec 8               | OOP Design Challenge Presentations |
-| 13 |  Thu, Dec 10              | OOP Design Challenge Presentations |
+|  - |  Tue, Jan 19              | No Class - MLK Day |
+|  1 |  Thu, Jan 21              | [Scope] & [Objects & Encapsulation] |
+|  2 |  Tue, Jan 26              | [Attributes & Methods]|
+|  3 |  Thu, Jan 28              | [Access Modifiers, Composition & Design] | Quiz 1: Scope, Objects, Attributes, and Methods <br/><br/> Project 1: Bank Account <br/> [Project Prompt](Lessons/bank_account.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777357) <br/> due Wed, Feb. 3 @ 11pm PDT
+|  4 |  Tue, Feb 2               | [Inheritance & Overriding] |
+|  5 |  Thu, Feb 4               | [Polymorphism]  |  
+|  6 |  Tue, Feb 9               | [Inheriting from Built In's and Overloading] | Quiz 2: Inheritance and Polymorphism <br/><br/> Project 2: Superhero Team Dueler <br/> [Project Prompt](https://www.makeschool.com/academy/track/superhero-team-dueler) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777380) <br/> due Wed, Feb. 17 @ 11pm PDT
+|  7 |  Thu, Feb 11              | [Function Arguments and Overloading]|
+|  8 |  Tue, Feb 16              | [Decorators] | Quiz 3: Magic Methods and Inheriting from Built Ins
+|  9 |  Thu, Feb 18              |  [Abstract Classes & Static/Class Methods]|
+| 10 |  Tue, Feb 23	             | [Multiple Inheritance & Mix-ins]| Project 3: OOP Design Challenge <br/> [Project Prompt](Lessons/oop_design_challenge.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777381) <br/> due Monday, Mar. 1 @ 11pm PDT
+| 11 |  Thu, Feb 25              | Lab  |  Quiz 4: Function Arguments, Decorators, Static Methods, Class Methods, and Multiple Inheritance
+| 12 |  Tue, Mar 2               | OOP Design Challenge Presentations |
+| 13 |  Tue, Mar 4               | OOP Design Challenge Presentations |
 
 
 [Scope]: Lessons/scope.md
@@ -95,8 +93,8 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete all in-class quizzes. 
-- If a quiz is missing, you will need to request to receive a  a retake/extension. 
+- Complete all in-class quizzes.
+- If a quiz is missing, you will need to request to receive a  a retake/extension.
 - Pass all assignments with a score 70% or higher.
 - All assignments are scored according to the associated assignment rubric.
 - If an assignment is not passing, you will need to request to receive a retake/extension to bring you score up to passing.
