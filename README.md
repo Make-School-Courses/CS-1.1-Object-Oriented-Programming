@@ -103,17 +103,21 @@ To pass this course you must meet the following requirements:
 
 
 ## How to Get Help
-**Office Hours:** \
+<!--**Office Hours:** \
 Instructor: 30 minutes before class.\
 TAs: To be announced.
 
 **Piazza:** \
 The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
 [Ask a question on Piazza →](https://make.sc/cs1.1-piazza)
+-->
 
 **CoWork:** \
 CoWork is a place to study with your peers with access to staff/TA support if needed. \
 *Tuesdays at 12:45-1:45pm PST and Thursdays at 1:30-2:30pm PST*
+
+**TA and Instructor Office Hours:** \
+Check the calendar for this term's particular TAs and Instructor.
 
 ##  Information Resources
 
