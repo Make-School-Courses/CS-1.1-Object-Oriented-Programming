@@ -37,7 +37,7 @@ Class	Date
 |  - |  Tue, Jan 19              | No Class - MLK Day |
 |  1 |  Thu, Jan 21              | [Scope] & [Objects & Encapsulation] |
 |  2 |  Tue, Jan 26              | [Attributes & Methods]|
-|  3 |  Thu, Jan 28              | [Access Modifiers, Composition & Design] | In-class Quiz 1: Scope, Objects, Attributes, and Methods <br/><br/> Project 1: Bank Account <br/> [Project Prompt](Lessons/bank_account.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777357) <br/> due Wed, Feb. 3 @ 11pm PDT
+|  3 |  Thu, Jan 28              | [Access Modifiers, Composition & Design] | In-class Quiz 1: Scope, Objects, Attributes, and Methods <br/><br/> Project 1: Bank Account <br/> [Project Prompt](Lessons/bank_account.md) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777357) <br/> due Mon, Feb. 8 @ 11pm PDT
 |  4 |  Tue, Feb 2               | [Inheritance & Overriding] |
 |  5 |  Thu, Feb 4               | [Polymorphism]  |  
 |  6 |  Tue, Feb 9               | [Inheriting from Built In's and Overloading] | In-class Quiz 2: Inheritance and Polymorphism <br/><br/> Project 2: Superhero Team Dueler <br/> [Project Prompt](https://www.makeschool.com/academy/track/superhero-team-dueler) • [Gradescope](https://www.gradescope.com/courses/196280/assignments/777380) <br/> due Wed, Feb. 17 @ 11pm PDT
